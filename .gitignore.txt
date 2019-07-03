@@ -1,3 +1,0 @@
-#Ignore images and icons
-assets/img
-assets/icons

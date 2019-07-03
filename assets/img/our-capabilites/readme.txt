@@ -1,1 +1,0 @@
-This folder is for our capabilites section for all the pages.
