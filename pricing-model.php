@@ -253,7 +253,7 @@
     
     
     <!-- opening of side-chat widget -->
-        <?php include 'side-widget.php'; ?>
+        <?php include 'template/side-widget.php'; ?>
     <!-- closing of live-chat -->
     
     
@@ -275,12 +275,12 @@
     
     
 <!-- opening of top nav desktop-version -->
-      <?php include 'header.php'; ?>
+      <?php include 'template/header.php'; ?>
 <!-- closing of top-nav  desktop-version-->
 
 
 <!-- opening of top-nav mobile version -->
-     <?php include 'header-mobile.php'; ?>
+     <?php include 'template/header-mobile.php'; ?>
 <!-- closing of top-nav mobile-version -->
 
     
@@ -672,7 +672,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
 
     <!-- opening of footer section -->
-         <?php include 'footer.php'; ?>
+         <?php include 'template/footer.php'; ?>
     <!-- closing of footer section -->
     
     
