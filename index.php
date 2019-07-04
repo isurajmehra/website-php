@@ -42,7 +42,7 @@
   ],
   "potentialAction": {     
     "@type": "SearchAction",     
-    "target": "http://www.acropolisinfotech.com/search.html?q={search_term_string}",
+    "target": "http://www.acropolisinfotech.com/search.php?q={search_term_string}",
     "query-input": "required name=search_term_string"   
   } 
 }]
@@ -319,22 +319,138 @@ body #hubspot-messages-iframe-container.widget-align-right{
 </div>
     </div>
     </div>
-    
-    
-    
-    
     <!-- opening of side-chat widget -->
-        <?php include 'template/side-widget.php'; ?>
-    <!-- closing of live-chat -->
-    
-    
-    
-    
-    
+           <!-- opening of side-chat widget -->
+        <div class="whatsapp-widget sidebar-widget">
+            <a target="_blank" href="https://api.whatsapp.com/send?phone=919999876594">
+            <div class="widget">
+                <object>
+                    
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 52 52" style="enable-background:new 0 0 52 52;" xml:space="preserve">
+<g>
+	<g>
+		<path  fill="#fff" d="M26,0C11.663,0,0,11.663,0,26c0,4.891,1.359,9.639,3.937,13.762C2.91,43.36,1.055,50.166,1.035,50.237
+			c-0.096,0.352,0.007,0.728,0.27,0.981c0.263,0.253,0.643,0.343,0.989,0.237L12.6,48.285C16.637,50.717,21.26,52,26,52
+			c14.337,0,26-11.663,26-26S40.337,0,26,0z M26,50c-4.519,0-8.921-1.263-12.731-3.651c-0.161-0.101-0.346-0.152-0.531-0.152
+			c-0.099,0-0.198,0.015-0.294,0.044l-8.999,2.77c0.661-2.413,1.849-6.729,2.538-9.13c0.08-0.278,0.035-0.578-0.122-0.821
+			C3.335,35.173,2,30.657,2,26C2,12.767,12.767,2,26,2s24,10.767,24,24S39.233,50,26,50z"/>
+		<path fill="#fff"  d="M42.985,32.126c-1.846-1.025-3.418-2.053-4.565-2.803c-0.876-0.572-1.509-0.985-1.973-1.218
+			c-1.297-0.647-2.28-0.19-2.654,0.188c-0.047,0.047-0.089,0.098-0.125,0.152c-1.347,2.021-3.106,3.954-3.621,4.058
+			c-0.595-0.093-3.38-1.676-6.148-3.981c-2.826-2.355-4.604-4.61-4.865-6.146C20.847,20.51,21.5,19.336,21.5,18
+			c0-1.377-3.212-7.126-3.793-7.707c-0.583-0.582-1.896-0.673-3.903-0.273c-0.193,0.039-0.371,0.134-0.511,0.273
+			c-0.243,0.243-5.929,6.04-3.227,13.066c2.966,7.711,10.579,16.674,20.285,18.13c1.103,0.165,2.137,0.247,3.105,0.247
+			c5.71,0,9.08-2.873,10.029-8.572C43.556,32.747,43.355,32.331,42.985,32.126z M30.648,39.511
+			c-10.264-1.539-16.729-11.708-18.715-16.87c-1.97-5.12,1.663-9.685,2.575-10.717c0.742-0.126,1.523-0.179,1.849-0.128
+			c0.681,0.947,3.039,5.402,3.143,6.204c0,0.525-0.171,1.256-2.207,3.293C17.105,21.48,17,21.734,17,22c0,5.236,11.044,12.5,13,12.5
+			c1.701,0,3.919-2.859,5.182-4.722c0.073,0.003,0.196,0.028,0.371,0.116c0.36,0.181,0.984,0.588,1.773,1.104
+			c1.042,0.681,2.426,1.585,4.06,2.522C40.644,37.09,38.57,40.701,30.648,39.511z"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+
+                </object>
+        <p class="clanpro">Whatsapp Us</p>
+        </div>
+        </a>
+            
+    </div>
+    <div class="mail-widget sidebar-widget">
+        <a href="mailto:hello@acropolisinfotech.com" target="_blank">
+            <div class="widget">
+        <object>
+                <?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 31.012 31.012" style="enable-background:new 0 0 31.012 31.012;" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#fff"  d="M25.109,21.51c-0.123,0-0.246-0.045-0.342-0.136l-5.754-5.398c-0.201-0.188-0.211-0.505-0.022-0.706
+			c0.189-0.203,0.504-0.212,0.707-0.022l5.754,5.398c0.201,0.188,0.211,0.505,0.022,0.706C25.375,21.457,25.243,21.51,25.109,21.51z
+			"/>
+		<path fill="#fff"  d="M5.902,21.51c-0.133,0-0.266-0.053-0.365-0.158c-0.189-0.201-0.179-0.518,0.022-0.706l5.756-5.398
+			c0.202-0.188,0.519-0.18,0.707,0.022c0.189,0.201,0.179,0.518-0.022,0.706l-5.756,5.398C6.148,21.465,6.025,21.51,5.902,21.51z"/>
+	</g>
+	<path  fill="#fff" d="M28.512,26.529H2.5c-1.378,0-2.5-1.121-2.5-2.5V6.982c0-1.379,1.122-2.5,2.5-2.5h26.012c1.378,0,2.5,1.121,2.5,2.5v17.047
+		C31.012,25.408,29.89,26.529,28.512,26.529z M2.5,5.482c-0.827,0-1.5,0.673-1.5,1.5v17.047c0,0.827,0.673,1.5,1.5,1.5h26.012
+		c0.827,0,1.5-0.673,1.5-1.5V6.982c0-0.827-0.673-1.5-1.5-1.5H2.5z"/>
+	<path  fill="#fff" d="M15.506,18.018c-0.665,0-1.33-0.221-1.836-0.662L0.83,6.155C0.622,5.974,0.6,5.658,0.781,5.449
+		c0.183-0.208,0.498-0.227,0.706-0.048l12.84,11.2c0.639,0.557,1.719,0.557,2.357,0L29.508,5.419
+		c0.207-0.181,0.522-0.161,0.706,0.048c0.181,0.209,0.16,0.524-0.048,0.706L17.342,17.355
+		C16.835,17.797,16.171,18.018,15.506,18.018z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+</object>
+        <p class="clanpro">Email Us</p>
+        </div>
+        </a>
+            
+    </div>
     <!-- opening of cookies banner -->
     <div class="cookies-banner-container" style="background-color:#262F3A;text-align:center;">
         <p class="cookies-text pd-0-0 color-white clanpro fz-12">
-            We use cookies to provide social media features and to analyse our traffic. By using our site your agree to <a href="cookies-policy.html" target="_blank" class="color-white privacy-policy-link">privacy policy.</a>
+            We use cookies to provide social media features and to analyse our traffic. By using our site your agree to <a href="cookies-policy.php" target="_blank" class="color-white privacy-policy-link">privacy policy.</a>
             <a href="#" class="allow-all bg-green color-white mg-0-20">Agree and Proceed</a>
         </p>
 
@@ -343,28 +459,491 @@ body #hubspot-messages-iframe-container.widget-align-right{
         
 <!-- opening of container fluid -->
 <div  class="container-fluid">
-    
-    
-    
-    
-    
-    
 <!-- opening of top nav desktop-version -->
-      <?php include 'template/header.php'; ?>
+   <div class="row top-nav pd-10-0 desktop-version">
+        <!-- opening of logo section -->
+        <div class="col-md-4 logo align-left pdl-81">
+        <a href="https://www.acropolisinfotech.com"><img src="assets/img/logo.png" alt="Acropolis" title="Acropolis"></a>
+        </div>
+        <!-- closing of logo section -->
+        <!-- opening of pagelink section -->
+        <div class="col-md-8 pagelink pd-0-0 center align-center">
+            <ul class="list list-inline  pagelink-list pd-0-0 mg-0-0">
+            <li class="pd-0-10 dropdown"><a href="#" class="fz-14 color-black">Offerings</a>
+            
+              <!-- dropdown menu of offering comes here -->
+              <div class="dropdown-content-services pd-10-0">
+                  <button type="button" class="close-dropdown" data-toggle="close-dropdown" title="Close Menu" data-placement="bottom"><img src="assets/img/close-menu.svg" alt="Close Menu" /></button>
+                  <div class="green-filter"></div>
+                                      <img src="assets/img/particle-background-offering-540.jpg" class="dropdown-background" alt="Background-image" />
+                <div class="col-md-10 col-md-offset-1">
+                  <div class="col-md-4">
+                    <h3 class="menu-title">EXPERTISE SERVICES</h3>
+                    <div class="col-md-12 services-block">
+                       <ul class="list dropdown-list">
+                      <li><a href="web-development.php">Web App Development</a></li>
+                      <li><a href="mobile-app-development.php">Mobile App Development</a></li>
+                      <li><a href="dedicated-development-team.php">Dedicated Development Team</a></li>
+                      <li><a href="front-end-technology.php">Frontend Development</a></li>
+                      <li><a href="microsoft-technology.php">Microsoft Technologies</a></li>
+                      <li><a href="iot.php">Internet of Things(IoT)</a></li>
+                      <li><a href="vr.php">AR/VR</a></li>
+                      <li><a href="cloud.php">Cloud & DevOps</a></li>
+                      <li><a href="chatbot.php">Chatbot Development</a></li>
+                      <li><a href="wearable.php">Wearables</a></li>
+                      <li><a href="ai.php">Artificial Intelligence</a></li>
+                      <li><a href="big-data.php">Big Data</a></li>
+                      <li><a href="blockchain.php">Blockchain</a></li>
+                      </ul>
+                      </div>
+                  </div>
+                  <div class="col-md-4">
+                    <h3 class="menu-title">Enterprise Services</h3>
+                    <div class="col-md-12 services-block">
+                      <ul class="list dropdown-list">
+                      <li><a href="business-consulting.php">Business/Technology Consulting</a></li>
+                     
+                      <li><a href="product-prototype.php">Product Prototyping</a></li>
+                      <li><a href="managed-services.php">Managed Services</a></li>
+                             <li><a href="enterprise-mobility.php">Enterprise Mobility</a></li>
+                      <li><a href="product-engineering.php">Product Engineering</a></li>
+                      <li><a href="quality-assurance.php">Quality Assurance & Testing</a></li>
+                       <li><a href="digital-transformation.php">Digital Transformation</a></li>
+                      <li><a href="product-maintainance.php">Product Maintenance & Support</a></li>
+                      <li><a href="system-integration.php">Enterprise System Integration</a></li>
+                     
+                      <li><a href="cloud-integration.php">Cloud Integration</a></li>
+                       <li><a href="enterprise-content-management.php">Enterprise Content Management</a></li>
+                      <li><a href="dashboard.php">IT Metrics & Dashboard</a></li>
+                    </ul>
+                  </div>
+
+                  </div>
+                  <div class="col-md-4">
+                    <h3 class="menu-title">PROCESSES</h3>
+                    <div class="col-md-12 services-block">
+
+
+                    <ul class="list dropdown-list">
+                      <li><a href="development-methodlogy.php">Development Methodology</a></li>
+                      <li><a href="delivery-model.php">Delivery Models</a></li>
+                      <li><a href="pricing-model.php">Pricing Models</a></li>
+                    </ul>
+                  </div>
+                  </div>
+              </div>
+            </div>
+            <li class="pd-0-10 dropdown"><a href="#" class="fz-14 color-black">Industries</a>
+
+              <!-- dropdown menu comes here -->
+              <div class="dropdown-content-services pd-10-0">
+                    <button type="button" class="close-dropdown" data-toggle="close-dropdown" title="Close Menu" data-placement="bottom"><img src="assets/img/close-menu.svg" alt="Close Menu" /></button>
+                   <div class="green-filter"></div>
+                  
+                                      <img src="assets/img/particle-background-industries-242.jpg" class="dropdown-background" alt="Background-image" />
+                                       <h3 class="menu-title color-white absolute-index">industries</h3>
+                  
+                <div class="col-md-10 col-md-offset-1">
+                    
+                  <div class="col-md-4 pd-0-45">
+                       <ul class="list dropdown-list">
+                      <li><a href="industries-page/healthcare.php">Healthcare</a></li>
+                      <li><a href="industries-page/education.php" style="text-transform:none;">Education /eLearning</a></li>
+                      <li><a href="industries-page/social-networking.php">Social Networking</a></li>
+                      <li><a href="industries-page/retail.php">Retail</a></li>
+                    </ul>
+                  </div>
+                  <div class="col-md-4 pd-0-45">
+                      <ul class="list dropdown-list">
+                      <li><a href="industries-page/manufacturing.php">Manufacturing</a></li>
+                      <li><a href="industries-page/eCommerce.php" style="text-transform:none;">eCommerce</a></li>
+                      <li><a href="industries-page/energy.php">Energy</a></li>
+                      <li><a href="industries-page/travel-and-hospitality.php">Travel & Hospitality</a></li>
+                    </ul>
+                  </div>
+                  <div class="col-md-4 pd-0-45">
+
+
+                    <ul class="list dropdown-list">
+                      <li><a href="industries-page/real-estate.php">Real Estate</a></li>
+                      <li><a href="industries-page/media-and-entertainment.php">Media & Entertainment</a></li>
+                      <li><a href="industries-page/logistics-and-distribution.php">Logistics & Distribution</a></li>
+                       <li><a href="industries-page/construction.php">Construction</a></li>
+                    </ul>
+                  </div>
+                  </div>
+              </div>
+        </li>
+                    <li class="pd-0-10 dropdown"><a href="#" class="fz-14 color-black">Partnership</a>
+                    <div class="dropdown-content-services pd-20-0">
+                          <button type="button" class="close-dropdown" data-toggle="close-dropdown" title="Close Menu" data-placement="bottom"><img src="assets/img/close-menu.svg" alt="Close Menu" /></button>
+                         <div class="green-filter"></div>
+                                      <img src="assets/img/particle-background-partnership-320.jpg" class="dropdown-background" alt="Background-image" />
+                        <div class="col-md-4">
+                            <a href="partnership-page/referal-partner.php" class="partnership-link">
+                            <h3 class="menu-title">Referral Partner</h3>
+                            <img src="assets/img/partners/referal-partner.png" alt="Referral Partner" />
+                            <p class="section-description">Provide opportunities for new/more benefits with referral partnership.</p>
+                            </a>
+                            
+                        </div>
+                        <div class="col-md-4">
+                            <a href="partnership-page/affiliate-partner.php" class="partnership-link">
+                                <h3 class="menu-title">Affiliate Partner</h3>
+                            <img src="assets/img/partners/affiliate-partner.png" alt="Referral Partner" />
+                            <p class="section-description">Partnership to build successful business with Affiliate partnership</p>
+                            </a>
+                            
+                        </div>
+                        <div class="col-md-4">
+                            <a href="partnership-page/strategic-partnership.php" class="partnership-link">
+                                <h3 class="menu-title">Strategic Partnership</h3>
+                            <img src="assets/img/partners/strategic-partner.png" alt="Referral Partner" />
+                            <p class="section-description">Smart & logistic business work with Strategic Partnership</p>
+                            </a>
+                            
+                        </div>
+                    </div></li>
+            <li class="pd-0-10"><a href="portfolio" class="fz-14 color-black pd-30-0">Portfolio</a></li>
+            <li class="pd-0-10 dropdown"><a href="#" class="fz-14 color-black">Company</a>
+            
+              <!-- dropdown menu of company  comes here -->
+              <div class="dropdown-content-services pd-10-0">
+                    <button type="button" class="close-dropdown" data-toggle="close-dropdown" title="Close Menu" data-placement="bottom"><img src="assets/img/close-menu.svg" alt="Close Menu" /></button>
+                   <div class="green-filter"></div>
+                                      <img src="assets/img/particle-background-company-365.jpg" class="dropdown-background" alt="Background-image" />
+                <div class="col-md-10 col-md-offset-1">
+                  <div class="col-md-4">
+                    <h3 class="menu-title">About Us</h3>
+                    <div class="col-md-12 services-block">
+
+
+                    <ul class="list dropdown-list">
+                      <li><a href="company-page/company-overview.php">Company Overview</a></li>
+                      <li><a href="company-page/path-finder.php">Path finders</a></li>
+                      <li><a href="company-page/our-values.php">Our Values</a></li>
+                      <li><a href="company-page/center-of-excellence.php">Center Of Excellence</a></li>
+                      <li><a href="company-page/our-infrastructure.php">Our Infrastructure</a></li>
+                      <li><a href="company-page/contact-us.php">Contact Us</a></li>
+                      <li><a href="company-page/inquire-now.php">Inquire Now!</a></li>
+                      <li><a href="company-page/client-testimonial.php">Client Testimonial</a></li>
+                    </ul>
+                  </div>
+                  </div>
+                  <div class="col-md-4">
+                    <h3 class="menu-title">Insights</h3>
+                    <div class="col-md-12 services-block">
+
+
+                    <ul class="list dropdown-list">
+                      
+                      <li><a href="company-page/certification.php">Certification</a></li>
+                      
+                      
+                      <li><a href="blog">Blog</a></li>
+                      <li><a href="portfolio">Portfolio</a></li>
+                      <li><a href="company-page/case-studies.php">Case Studies</a></li>
+                      <li><a href="company-page/faq.php">FAQs</a></li>
+                    </ul>
+                  </div>
+                  </div>
+                    <div class="col-md-4">
+                    <h3 class="menu-title">Our Culture</h3>
+                    <div class="col-md-12 services-block">
+
+
+                    <ul class="list dropdown-list">
+                      <li><a href="https://careers.acropolisinfotech.com">Career Overview</a></li>
+                      <li><a href="https://careers.acropolisinfotech.com/current-opening">Current opening</a></li>
+                      <li><a href="company-page/corporate-social.php">Corporate Social Responsibility</a></li>
+                     
+                    </ul>
+                  </div>
+                  </div>
+              </div>
+            </div></li>
+            <li class="list-inline-item pd-0-10"><a href="blog" class="fz-14 color-black pd-30-0 desktop-version">Blog</a></li>
+            <li class="list-inline-item pd-0-10"><a href="company-page/contact-us.php" class="pd-30-0 fz-14 color-black desktop-version">Contact Us</a></li>
+            <li class="border-blue border-radius-20 mg-0-15 estimate-product background-green " style="transition:all 0.3s linear;"><a href="https://calendly.com/acropolis" target="_blank" class="fz-14 color-black pd-8-10 desktop-version ">Schedule a Meeting</a></li>
+            </ul>
+        </div>
+        <!-- closing of pagelink section -->
+    </div>
 <!-- closing of top-nav  desktop-version-->
-
-
 <!-- opening of top-nav mobile version -->
-     <?php include 'template/header-mobile.php'; ?>
-<!-- closing of top-nav mobile-version -->
+<div class="row top-nav mobile-version">
+    <!--opening of logo-container -->
+    <div class="col-md-6 col-xs-6 logo">
+                <a href="https://www.acropolisinfotech.com"><img src="assets/img/logo.png" alt="Acropolis Infotech" title="Acropolis Infotech"></a>
+        
+    </div>
+    <!--closing of logo container -->
+    <!-- opening of toggle-button container -->
+    <div class="col-md-6 col-xs-6 toggle-button-container align-right pd-10-10">
+        <button type="button" class="mobile-menu-toggle-button">
+            <i class="fa fa-align-justify"></i>
+        </button>
+        
+    </div>
+    <!-- closing of toggle-button container -->
+    <div class="mobile-menu-overall-container">
+    <div class="mobile-menu-container main-page">
+        <!-- main page menu container -->
+        <ul class="list mobile-menu-list">
+            <li class="offering-menu-button has-child"><a href="#">Offerings</a></li>
+            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
+            <li class="portfolio-menu-button"><a href="/portfolio">Portfolio</a></li>
+            <li class="company-menu-button has-child"><a href="#">Company</a></li>
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- opening of offering page menu container -->
+        <div class="mobile-menu-container offering-page">
+        <ul class="list mobile-menu-list">
+              <li class="offering-menu-back-button back-button"><a href="#">Offerings</a></li>
+              <ul class="list mobile-menu-sublist">
+            <li class="expertise-service-menu-button has-child"><a href="#">Expertise Services</a></li>
+            <li class="enterprise-service-menu-button has-child"><a href="#">Enterprise Services</a></li>
+            <li class="process-menu-button has-child"><a href="#">Process</a></li>
+            </ul>
+             <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
+            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
+            <li class="company-menu-button has-child"><a href="#">Company</a></li>
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- closing of offering page menu container -->
+      <!-- opening of expertise page menu container -->
+        <div class="mobile-menu-container expertise-page">
+        <ul class="list mobile-menu-list">
+             <li class="offering-menu-button has-child"><a href="#">Offerings</a></li>
+               <li class="expertise-service-menu-back-button back-button"><a href="#">Expertise Services</a></li>
+                <ul class="list mobile-menu-sublist">
+           <li><a href="web-development.php">Web Apps Development</a></li>
+                      <li><a href="mobile-app-development.php">Mobile Apps Development</a></li>
+                      <li><a href=" dedicated-development-team.php">Dedicated Development Team</a></li>
+                      <li><a href="front-end-technology.php">Front End Technologies</a></li>
+                      <li><a href="microsoft-technology.php">Microsoft Technologies</a></li>
+                      <li><a href="iot.php">Internet of Things(IoT)</a></li>
+                      <li><a href="vr.php">AR/VR</a></li>
+                      <li><a href="cloud.php">Cloud & Devops</a></li>
+                      <li><a href="chatbot.php">Chatbot Development</a></li>
+                      <li><a href="wearable.php">Wearable</a></li>
+                      <li><a href="ai.php">Artificial Intelligence</a></li>
+                      <li><a href="big-data.php">Big Data</a></li>
+                      <li><a href="blockchain.php">Blockchain</a></li>
+                      </ul>
+                       <li class="enterprise-service-menu-button has-child"><a href="#">Enterprise Services</a></li>
+                       
+            <li class="process-menu-button has-child"><a href="#">Process</a></li>
+                                  <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
+            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
+            <li class="company-menu-button has-child"><a href="#">Company</a></li>
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- closing of expertise page menu container -->
+          <!-- opening of enterprise page menu container -->
+        <div class="mobile-menu-container enterprise-page">
+        <ul class="list mobile-menu-list">
+              <li class="offering-menu-back-button back-button"><a href="#">Offerings</a></li>
+            <li class="expertise-service-menu-button has-child"><a href="#">Expertise Services</a></li>
+            <li class="enterprise-service-menu-back-button back-button"><a href="#">Enterprise Services</a></li>
+             <ul class="list mobile-menu-sublist">
+                      <li><a href="business-consulting.php">Business Consulting</a></li>
+                     
+                      <li><a href="product-prototype.php">Product Prototyping</a></li>
+                      <li><a href="managed-services.php">Managed Services</a></li>
+                      <li><a href="enterprise-mobility.php">Enterprise Mobility</a></li>
+                      <li><a href="product-engineering.php">Product Engineering</a></li>
+                      <li><a href="quality-assurance.php">Quality Assurance & Testing</a></li>
+                       <li><a href="digital-transformation.php">Digital Transformation</a></li>
+                      <li><a href="product-maintainance.php">Maintainance & Support</a></li>
+                      <li><a href="system-integration.php">Enterprise System Integration</a></li>
+                      <li><a href="cloud-integration.php">Cloud Integration</a></li>
+                      <li><a href="dashboard.php">It Metrix And Dashboard</a></li>
+                      </ul>
+                      
+                        <li class="process-menu-button has-child"><a href="#">Process</a></li>
+             <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
+            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
+            <li class="company-menu-button has-child"><a href="#">Company</a></li>
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- closing of enterprise page menu container -->
+              <!-- opening of partnership page menu container -->
+        <div class="mobile-menu-container partnership-page">
+        <ul class="list mobile-menu-list">
+             <li class="offering-menu-button has-child"><a href="#">Offerings</a></li>
+            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+            <li class="partnership-menu-back-button back-button"><a href="#">Partnership</a></li>
+             <ul class="list mobile-menu-sublist">
+                    <li> <a href="partnership-page/referal-partner.php" class="partnership-link">Referral Partner</a></li>
+                       <li> <a href="partnership-page/affiliate-partner.php" class="partnership-link">Affiliate Partner</a></li>
+                          <li> <a href="partnership-page/strategic-partner.php" class="partnership-link">Strategic Partner</a></li>
+                          </ul>
+                           <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+                           
+            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
+            <li class="company-menu-button has-child"><a href="#">Company</a></li>
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- closing of partnership page menu container -->
+                  <!-- opening of partnership page menu container -->
+        <div class="mobile-menu-container company-page">
+        <ul class="list mobile-menu-list">
+             <li class="offering-menu-button has-child"><a href="#">Offerings</a></li>
+            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
+            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
+             <li class="company-menu-back-button back-button"><a href="#">Company</a></li>
+            <ul class="list mobile-menu-sublist">
+            <li class="about-us-menu-button has-child"><a href="#">About Us</a></li>
+            <li class="insight-menu-button has-child"><a href="#">Insights</a></li>
+            <li class="our-culture-menu-button has-child"><a href="#">Our Culture</a></li>
+            </ul>
+                      
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- closing of partnership page menu container -->
+        <!-- opening of insight menu container -->
+        <div class="mobile-menu-container insight">
+        <ul class="list mobile-menu-list">
+             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
+            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
+            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
+             <li class="company-menu-back-button back-button"><a href="#">Company</a></li>
+             <li class="about-us-menu-button has-child"><a href="#">About Us</a></li>
+             <li class="insight-menu-back-button back-button"><a href="#">Insights</a></li>
+               <ul class="list mobile-menu-sublist">
+                         <li><a href="company-page/certification.php">Certification</a></li>
+                      
+                      
+                      <li><a href="blog">Blog</a></li>
+                      <li><a href="portfolio">Portfolio</a></li>
+                      <li><a href="company-page/case-studies.php">Case Studies</a></li>
+                      <li><a href="company-page/faq.php">FAQs</a></li>
+                       
+                       </ul>
+                <li class="our-culture-menu-button has-child"><a href="#">Our Culture</a></li>
+                      
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- closing of insight menu container -->
+        <!-- opening of our culture menu container -->
+        <div class="mobile-menu-container our-culture">
+        <ul class="list mobile-menu-list">
+             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
+            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
+            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
+             <li class="company-menu-button has-child"><a href="#">Company</a></li>
+             <li class="about-us-menu-button has-child"><a href="#">About Us</a></li>
+            <li class="insight-menu-button has-child"><a href="#">Insights</a></li>
+             <li class="our-culture-menu-back-button back-button"><a href="#">Our Culture</a></li>
+              <ul class="list mobile-menu-sublist">
+                        <li><a href="https://careers.acropolisinfotech.com">Career Overview</a></li>
+                      <li><a href="https://careers.acropolisinfotech.com/current-opening">Current Opening</a></li>
+                      <li><a href="company-page/corporate-social.php">Corporate Social Responsibility</a></li>
+                       
+                       </ul>
 
+              
+                      
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- closing of our culture menu container -->
+    <!-- opening of about us menu container -->
+        <div class="mobile-menu-container about-us">
+        <ul class="list mobile-menu-list">
+           <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
+            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
+            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
+             <li class="company-menu-button has-child"><a href="#">Company</a></li>
+             <li class="about-us-menu-back-button back-button"><a href="#">About Us</a></li>
+                          <ul class="list mobile-menu-sublist">
+                         <li><a href="company-page/company-overview.php">Company Overview</a></li>
+                      <li><a href="company-page/path-finder.php">Path Finder</a></li>
+                      <li><a href="company-page/our-values.php">Our Values</a></li>
+                      <li><a href="company-page/center-of-excellence.php">Center Of Excellence</a></li>
+                      <li><a href="company-page/our-infrastructure.php">Our Infrastructure</a></li>
+                      <li><a href="company-page/contact-us.php">Contact Us</a></li>
+                      <li><a href="company-page/inquire-now.php">Inquire Now</a></li>
+                      <li><a href="company-page/client-testimonial.php">Client Testimonial</a></li>
+                       
+                       </ul>
+                    <li class="insight-menu-button has-child"><a href="#">Insights</a></li>
+             <li class="our-culture-menu-button has-child"><a href="#">Our Culture</a></li>
+
+              
+                      
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- closing of about us menu container -->
+              <!-- opening of process page menu container -->
+        <div class="mobile-menu-container process-page">
+        <ul class="list mobile-menu-list">
+             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
+                         <li class="expertise-service-menu-button has-child"><a href="#">Expertise Services</a></li>
+            <li class="enterprise-service-menu-button has-child"><a href="#">Enterprise Services</a></li>
+             
+               <li class="process-menu-back-button back-button"><a href="#">Process</a></li>
+                 <ul class="list mobile-menu-sublist">
+                  <li><a href="development-methodlogy.php">Development Methodlogy</a></li>
+                      <li><a href="delivery-model.php">Delivery Models</a></li>
+                      <li><a href="pricing-model.php">Pricing Models</a></li>
+                      </ul>
+                        <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
+            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
+            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
+            <li class="company-menu-button has-child"><a href="#">Company</a></li>
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- closing of process page menu container -->
+    <!-- opening of industries page menu container -->
+        <div class="mobile-menu-container industries-page">
+        <ul class="list mobile-menu-list">
+             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
+                <li class="industry-menu-back-button back-button"><a href="#">Industries</a></li>
+                  <ul class="list mobile-menu-sublist">
+             <li><a href="industries-page/healthcare.php">Healthcare</a></li>
+                      <li><a href="industries-page/education.php" style="text-transform:none;">Education / eLearning</a></li>
+                      <li><a href="industries-page/social-networking.php">Social Networking</a></li>
+                      <li><a href="industries-page/retail.php">Retail</a></li>
+            
+            <li><a href="industries-page/manufacturing.php">Manufacturing</a></li>
+                      <li><a href="industries-page/eCommerce.php" style="text-transform:none;">eCommerce</a></li>
+                      <li><a href="industries-page/energy.php">Energy</a></li>
+                      <li><a href="industries-page/travel-and-hospitality.php">Travel & Hospitality</a></li>
+             <li><a href="industries-page/real-estate.php">Real Estate</a></li>
+                      <li><a href="industries-page/media-and-entertainment.php">Media & Entertainment</a></li>
+                      <li><a href="industries-page/logistics-and-distribution.php">Logistics & Distribution</a></li>
+                       <li><a href="industries-page/construction.php">Construction</a></li>
+                       </ul>
+            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
+            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
+            <li class="company-menu-button has-child"><a href="#">Company</a></li>
+            <li class="blog-button"><a href="/blog">Blog</a></li>
+        </ul>
+    </div>
+    <!-- closing of industries page menu container -->
+    </div>
     
-    
-    
-    
-    
-    
-    
+</div>
+<!-- closing of top-nav mobile-version -->
 <!-- opening of hero-banner -->
 
 <div class="row hero-banner align-center pd-0-0">
@@ -374,8 +953,8 @@ body #hubspot-messages-iframe-container.widget-align-right{
     <h1 class="hero-banner-title clanpro-bold"></h1>
     <h2 class="hero-banner-paragraph pd-10-0 fz-24 clanpro">We Create Market Leading Digital Products, Platforms & Experiences that Transform Businesses</h2>
     <div class="col-md-12 pd-10-0" >
-      <a href="company-page/inquire-now.html" class="get-in-touch mg-0-20">Get in touch</a>
-      <a href="our-services.html" class="our-services">Our services</a>
+      <a href="company-page/inquire-now.php" class="get-in-touch mg-0-20">Get in touch</a>
+      <a href="our-services.php" class="our-services">Our services</a>
     </div>
   </div>
 </div>
@@ -499,7 +1078,7 @@ body #hubspot-messages-iframe-container.widget-align-right{
                    </li>
                  </ul>
                       <div class="consult">
-                          <a href="company-page/inquire-now.html" class="{{service_hover_class}}"> Consult With Us
+                          <a href="company-page/inquire-now.php" class="{{service_hover_class}}"> Consult With Us
                           </a>
                       </div>
               </div>  
@@ -525,7 +1104,7 @@ globe.</p>
         <ul class="list list-inline">
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/healthcare.html"><svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg1" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
+            <li class="industry-icon"><a href="industries-page/healthcare.php"><svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg1" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
 		<path id="SVGID_1_" fill="#1FBBA6" d="M56.064,28.948h-4.652c1.934-4.362,1.727-7.893,0.992-10.282    c-1.254-4.259-5.489-8.881-11.764-8.881c-1.674,0-3.348,0.312-5.072,0.935c-2.979,1.089-4.967,2.285-5.856,2.908    c-0.888-0.623-2.823-1.818-5.856-2.908c-1.725-0.624-3.45-0.935-5.071-0.935c-6.275,0-10.509,4.622-11.766,8.881    c-0.73,2.543-0.992,6.388,1.465,11.217H2.837C2.367,29.883,2,30.248,2,30.714c0,0.468,0.366,0.832,0.837,0.832h6.64    c0.262,0.468,0.575,0.935,0.941,1.402c5.438,7.79,17.255,16.255,19.398,16.774v0.053c0,0,0.054,0,0.104-0.053    c0.053,0,0.104,0,0.157,0V49.67c1.83-0.884,13.176-8.154,19.137-16.775c0.575-0.778,1.046-1.559,1.466-2.336h5.489    c0.472,0,0.837-0.365,0.837-0.832C57.007,29.261,56.536,28.948,56.064,28.948L56.064,28.948z M47.698,32.014    c-5.541,8.049-15.737,14.541-17.933,15.943c-2.25-1.402-12.393-7.946-17.988-15.943c-0.104-0.156-0.21-0.312-0.314-0.468h7.687    c0.313,0,0.626-0.155,0.784-0.468l3.503-6.855l5.49,13.97c0.104,0.313,0.47,0.52,0.783,0.52c0,0,0,0,0.055,0    c0.365,0,0.678-0.261,0.782-0.624l4.812-16.359l2.563,8.257c0.104,0.312,0.366,0.52,0.68,0.572    c0.313,0.053,0.629-0.104,0.836-0.365l2.041-2.959l1.726,2.908c0.155,0.26,0.417,0.416,0.731,0.416h4.705    C48.327,31.078,48.014,31.546,47.698,32.014L47.698,32.014z M49.581,28.948h-5.124l-2.145-3.636    c-0.155-0.259-0.418-0.415-0.73-0.415c-0.314,0-0.575,0.104-0.732,0.363l-1.777,2.596l-2.875-9.296    c-0.104-0.363-0.471-0.572-0.838-0.623c-0.365,0-0.731,0.26-0.836,0.623l-4.861,16.67L24.38,21.833    c-0.104-0.311-0.419-0.519-0.732-0.519c-0.366,0-0.628,0.156-0.784,0.467l-4.131,8.05h-8.314    c-2.091-3.792-2.667-7.427-1.725-10.698c1.099-3.688,4.706-7.634,10.144-7.634c1.464,0,2.981,0.31,4.497,0.831    c3.816,1.402,5.856,3.012,5.907,3.012c0.314,0.259,0.732,0.259,1.046,0c0,0,2.04-1.61,5.909-3.012    c1.517-0.572,3.033-0.831,4.496-0.831c5.386,0,9.045,3.946,10.144,7.634C51.727,22.146,51.255,25.468,49.581,28.948L49.581,28.948    z"></path>
@@ -539,7 +1118,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/eCommerce.html">
+            <li class="industry-icon"><a href="industries-page/eCommerce.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg3" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -554,7 +1133,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/education.html">
+            <li class="industry-icon"><a href="industries-page/education.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg2" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -569,7 +1148,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/energy.html">
+            <li class="industry-icon"><a href="industries-page/energy.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg7" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -584,7 +1163,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/real-estate.html">
+            <li class="industry-icon"><a href="industries-page/real-estate.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg9" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -599,7 +1178,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/travel-and-hospitality.html">
+            <li class="industry-icon"><a href="industries-page/travel-and-hospitality.php">
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="56.068" height="59.998" preserveAspectRatio="xMidYMid" viewBox="0 0 856 916" xmlns="http://www.w3.org/2000/svg">
 <defs>
@@ -628,7 +1207,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/media-and-entertainment.html">
+            <li class="industry-icon"><a href="industries-page/media-and-entertainment.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg11" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -643,7 +1222,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/retail.html">
+            <li class="industry-icon"><a href="industries-page/retail.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg5" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -658,7 +1237,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/social-networking.html">
+            <li class="industry-icon"><a href="industries-page/social-networking.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg4" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -673,7 +1252,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-             <li class="industry-icon"><a href="industries-page/manufacturing.html">
+             <li class="industry-icon"><a href="industries-page/manufacturing.php">
                  <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg6" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -688,7 +1267,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-              <li class="industry-icon"><a href="industries-page/logistics-and-distribution.html">
+              <li class="industry-icon"><a href="industries-page/logistics-and-distribution.php">
                   <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg10" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -976,10 +1555,10 @@ My experience outsourcing web development to acropolis was a good one. They hand
     <!-- opening of clutch review container -->
 
 <div class="col-md-12 clutch-review-container align-center pd-20-0">
-    <a href="company-page/client-testimonial.html" target="_blank" class="clutch-review-button get-in-touch">All Reviews</a>
+    <a href="company-page/client-testimonial.php" target="_blank" class="clutch-review-button get-in-touch">All Reviews</a>
      <a href="https://www.facebook.com/pg/acropolisinfotechprivatelimited/reviews/" target="_blank" class="clutch-review-button get-in-touch">Facebook Reviews</a>
       <a href="https://www.google.com/search?q=acropolis+infotech&rlz=1C1CHBF_enIN763IN763&oq=acropolis+infotech&aqs=chrome.0.35i39j69i60l3j0l2.5104j0j7&sourceid=chrome&ie=UTF-8#lrd=0x390ce1fb44618b65:0x8e06b2a6128352d1,1" target="_blank" class="clutch-review-button get-in-touch">Google Reviews</a>
-       <a href="company-page/certification.html#clutch-review" target="_blank" class="clutch-review-button get-in-touch">Clutch Reviews</a>
+       <a href="company-page/certification.php#clutch-review" target="_blank" class="clutch-review-button get-in-touch">Clutch Reviews</a>
     
 </div>
 <!-- closing of clutch  review container -->
@@ -1302,7 +1881,7 @@ My experience outsourcing web development to acropolis was a good one. They hand
                 <button type="submit" name="submit" class="submit-button">Submit</button>
             </div>
             <div class="form-group">
-                <p class="privacy-statement pd-10-0">By submitting this form, you agree to our <a href="privacy-policy.html" target="_blank"> privacy policy.</a>
+                <p class="privacy-statement pd-10-0">By submitting this form, you agree to our <a href="privacy-policy.php" target="_blank"> privacy policy.</a>
                 </p>
             </div>
             </form>
@@ -1310,7 +1889,7 @@ My experience outsourcing web development to acropolis was a good one. They hand
         <div class="col-md-7 col-md-offset-5  offset-md-6 lets-talk align-left pd-120-0 position-relative lets-talk-position" style="margin-top:-20px;">
               <h3 class="section-title contact-title fz-48 clanpro-bold">Contact Us</h3>
             <h5 class="section-description fz-32 pd-0-0">Let's Talk to expand possiblities</h5>
-            <a href="company-page/inquire-now.html" class="get-in-touch">Get in touch</a>
+            <a href="company-page/inquire-now.php" class="get-in-touch">Get in touch</a>
 
         </div>
             <div class="col-md-12 position-relative contact-detail">
@@ -1425,29 +2004,129 @@ My experience outsourcing web development to acropolis was a good one. They hand
             
         </div>
     <!-- closing of contact form -->
-    
-    
-    
-    
-    
-    
-    
-    
+ <!-- opening of footer section -->
+    <div class="row footer-container">
+      <div class="container-fluid footer pdb-30">
+          
+                  <div class="col-md-6 col-xs-12 col-sm-6 footer-logo flex">
+                     <div class="col-md-10 pd-0-0 flex">
+                  <a href="https://www.acropolisinfotech.com" style="flex:1;order:1;"><img src="assets/img/acropolis-footer.png" alt="Acropolis Infotech" title="Acropolis Infotech"></a>
+                <script type="text/javascript" src="https://widget.clutch.co/static/js/widget.js"></script> <span class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="1" data-height="50" data-darkbg="1" data-clutchcompany-id="716450"></span>
+                </div>
+                <div class="col-md-2 col-sm-12 col-xs-12 wadline-batch align-center pd-0-0 relative">
+                <div id='wadline'><a href="https://wadline.com/software/us" target="_blank" rel="noopener noreferrer"><img src="assets/img/wadline.svg" alt="Wadline badge"></a>     </div>
+                </div>
+                  
+                  </div>
+                  
+                  <div class="col-md-6 col-sm-6 col-xs-12 footer-subscribe">
+                    <form class="contact" name="contact-form" action="#" method="poost">
+                    <input type="text" placeholder="Enter your email address" class="address-button" value="" required="">
+                    <button class="footer-subscribe-button" type="button">Subscribe</button>
+                </form>
+                    
+                  </div>
 
-
-
-    <!-- opening of footer section -->
-         <?php include 'template/footer.php'; ?>
+                  
+          
+          <div class="col-md-12 pd-0-0">
+         
+          <div class="col-md-2  col-xs-6 pdt-40">
+              <h5 class="footer-link-title">Company</h5>
+            <ul class="list footer-list">
+              <li><a href="company-page/company-overview.php">Company Overview</a></li>
+              <li><a href="company-page/path-finder.php">Path Finders</a></li>
+              <li><a href="company-page/client-testimonial.php">Client Testimonials</a></li>
+              <li><a href="company-page/faq.php">FAQs</a></li>
+              <li><a href="company-page/contact-us.php">Contact Us</a></li>
+            </ul>
+          </div>
+          
+          
+           <div class="col-md-2  col-xs-6 pdt-40">
+               <h5 class="footer-link-title">Services</h5>
+            <ul class="list footer-list">
+              <li><a href="web-development.php">Web Development</a></li>
+              <li><a href="mobile-app-development.php">Mobile App Development</a></li>
+              <li><a href="front-end-technology.php">Frontend Development</a></li>
+              <li><a href="chatbot.php">Chatbot Development</a></li>
+              <li><a href="dedicated-development-team.php">Hire Dedicated Developer</a></li>
+            </ul>
+          </div>
+          
+          
+           <div class="col-md-2  col-xs-6 pdt-40">
+               <h5 class="footer-link-title">Insights</h5>
+            <ul class="list footer-list">
+              <li><a href="blog">Blog</a></li>
+              <li><a href="company-page/case-studies.php">Case Studies</a></li>
+              <li><a href="/portfolio">Portfolio</a></li>
+              <li><a href="company-page/our-infrastructure.php">Our Infrastructure</a></li>
+              <li><a href="company-page/our-values.php">Our Values</a></li>
+            </ul>
+          </div>
+          
+          
+           <div class="col-md-2 col-xs-6 pdt-40">
+               <h5 class="footer-link-title">Industries</h5>
+            <ul class="list footer-list">
+              <li><a href="industries-page/healthcare.php">Healthcare</a></li>
+              <li><a href="industries-page/education.php">Education/eLearning</a></li>
+              <li><a href="industries-page/social-networking.php">Social Networking</a></li>
+              <li><a href="industries-page/eCommerce.php">eCommerce</a></li>
+              <li><a href="industries-page/retail.php">Retail</a></li>
+               
+            </ul>
+          </div>
+           <div class="col-md-2 col-xs-6 pdt-40">
+               <h5 class="footer-link-title">Career</h5>
+            <ul class="list footer-list">
+             <li><a href="https://careers.acropolisinfotech.com">Career Overview</a></li>
+              <li><a href="https://careers.acropolisinfotech.com/current-opening">Current Opening</a></li>
+              <li><a href="life-at-acropolis.php">Life At Acropolis</a></li>
+            </ul>
+          </div>
+           <div class="col-md-2 col-xs-6 pdt-40">
+               <h5 class="footer-link-title">Trending</h5>
+            <ul class="list footer-list">
+              <li><a href="iot.php">IoT</a></li>
+              <li><a href="blockchain.php">Blockchain</a></li>
+              <li><a href="vr.php">AR/VR</a></li>
+              <li><a href="progressive-web-app.php">Progressive Web Apps</a></li>
+              <li><a href="machine-learning.php">Machine Learning</a></li>
+            </ul>
+          </div>
+          </div>
+        <div class="col-md-12 align-center copyright-social pd-30-0">
+            <div class="col-md-4 col-sm-6 col-xs-12 footer-copyright-container pd-0-0">
+                 <p class="copyright-text">Copyright &copy; Acropolis Infotech (P) Limited | All Rights Reserved</p>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12  privacy-policy-container">
+                <a href="privacy-policy.php">NDA  Privacy Policy</a>
+                <a href="term-of-use.php">| Term of Use</a>
+                <a href="sitemap.php">| Sitemap</a>
+            </div>
+            <div class="col-md-4 col-xs-12 col-sm-12 footer-social-list-container pd-0-0">
+            <ul class="footer-social-list list-inline">
+                <li class="list-inline-item"><a target="_blank" href="https://www.facebook.com/acropolisinfotechprivatelimited/"><i class="fa fa-facebook"></i></a></li>
+                 <li class="list-inline-item"><a target="_blank" href="https://twitter.com/acropolis_info"><i class="fa fa-twitter"></i></a></li>
+                  <li class="list-inline-item"><a target="_blank" href="https://www.instagram.com/acropolis.infotech/"><i class="fa fa-instagram"></i></a></li>
+                   <li class="list-inline-item"><a  target="_blank" href="https://www.linkedin.com/company/acropolis-infotech?originalSubdomain=in"><i class="fa fa-linkedin"></i></a></li>
+                    <li class="list-inline-item"><a target="_blank"  href="https://www.pinterest.com/acropolis_info"><i class="fa fa-pinterest"></i></a></li>
+                     <li class="list-inline-item"><a target="_blank"  href="https://www.youtube.com/channel/UC7HKPJviQN3F8zzq0YgX4FQ"><i class="fa fa-youtube"></i></a></li>
+            </ul>
+            </div>
+        </div>
+       
+      </div>
+    </div>
     <!-- closing of footer section -->
-    
-    
-    
-    
-    
-    
-    
 </div>
 <!-- closing of container fluid -->
+
+
+
+
     
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -1745,8 +2424,8 @@ var setClicking=function(value)
            navSpeed:2500//left and right padding on item
 })
 console.log($(".testmonial-box-container .owl-next span").text());
-$(".owl-next").html('<img src="assets/img/right-arrow.png" class="testimonial-right" alt="Arrow Right">');
-$(".owl-prev").html('<img src="assets/img/left-arrow.png" class="testimonial-left" alt="Arrow Right">');
+$(".owl-next").php('<img src="assets/img/right-arrow.png" class="testimonial-right" alt="Arrow Right">');
+$(".owl-prev").php('<img src="assets/img/left-arrow.png" class="testimonial-left" alt="Arrow Right">');
 
     })
 </script>
