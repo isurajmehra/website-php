@@ -2,22 +2,22 @@
 <!doctype html>
 <html>
 <head>
-<meta property="og:title" content="Hire Microsoft Developers | Microsoft Certified Developer | Hire Microsoft Programmers">
-<meta property="og:description" content="Acropolis' expert Microsoft developers and programmers will help users to create custom enterprise solutions, agile development, support and maintenance. Hire a certified Microsoft developers now at affordable rates.">
+<meta property="og:title" content="Hire Best Mobile App Developers & Programmers From India | Acropolis">
+<meta property="og:description" content="Hire mobile apps developers to build customer-oriented applications across diverse platforms. Let's talk about for dedicated Mobile App Developers for Hire.">
 <meta property="og:image" content="https://www.acropolisinfotech.com/assets/img/acropolis-facebook.png">
 <meta property="og:image:alt" content="Acropolis Infotech">
 <meta property="og:url" content="https://www.acropolisinfotech.com/">
 <meta property="og:type" content="website" />
 <meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
-<title>Hire Microsoft Developers | Microsoft Certified Developer | Hire Microsoft Programmers</title>
-<meta name="description" content="Acropolis' expert Microsoft developers and programmers will help users to create custom enterprise solutions, agile development, support and maintenance. Hire a certified Microsoft developers now at affordable rates. " />
+<title>Hire Mobile App Developers | Best Dedicated Mobile App Developers & Programmers for Hire</title>
+ <meta name="description" content="Looking for the best mobile app developers for hire? Acropolis offers flexible options to hire dedicated Mobile App Developers from India on hourly/weekly/monthly basis at affordable rates. " />
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" type="image/png" href="../assets/img/fevicon/fevicon.png" media="none" onload="if(media!='all')media='all'"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" media="none" onload="if(media!='all')media='all'">
 <link href="../assets/css/web-development.css" rel="stylesheet" />
-<link href="../assets/css/mobile-style.css" rel="stylesheet" />
+<link href="../assets/css/mobile-style.css" rel="stylesheet" media="none" onload="if(media!='all')media='all'" />
 <link rel="stylesheet" href="../assets/owl-carousel/dist/assets/owl.carousel.min.css" media="none" onload="if(media!='all')media='all'">
 <link rel="stylesheet" href="../assets/owl-carousel/dist/assets/owl.theme.default.min.css" media="none" onload="if(media!='all')media='all'">
 <style type="text/css">
@@ -51,530 +51,41 @@
 
 </div>
     <!-- opening of footer-fixed-component which include chat and contact detail -->
-   <div class="live-chat">
-               <div class="live-chat-component live-chat-button">
-            <div class="icon-text">
-                    <p>Live Chat</p>
-                </div>
-                <div class="icon-image">
-                     <a target="_blank" href="javascript:void(Tawk_API.toggle())"><img src="../assets/img/footer-widget/chat.png"></a>
-               </div>
-            
-        </div>
-         <div class="live-chat-component whatsapp-button">
-               <div class="icon-text">
-                   <p>WhatsApp</p>
-                </div>
-               <div class="icon-image">
-                    <a target="_blank" href="https://api.whatsapp.com/send?phone=919999876594"><img src="../assets/img/footer-widget/whatsapp.png"></a>
-                </div>
-            
-        </div>
-         <div class="live-chat-component msg-button">
-               <div class="icon-text">
-                    <p>Email</p>
-                </div>
-                <div class="icon-image">
-                    <a href="mailto:hello@acropolisinfotech.com" target="_blank"><img src="../assets/img/footer-widget/message.png"></a>
-                </div>
-            
-        </div>
-                 <div class="live-chat-component up-button" style="background-color: transparent;">
-              <div class="icon-text">
-                    <p>Live Chat</p>
-                </div>
-                <div class="icon-image">
-                   <img src="../assets/img/footer-widget/chat.png">
-                </div>
-            
-        </div>
-
-    </div>
+  
+    
+    
+      <!-- opening of side-chat widget -->
+        <?php include '../template/side-widget.php'; ?>
     <!-- closing of live-chat -->
+    
+    
+    
+    
 <!-- opening of container fluid -->
 <div  class="container-fluid">
-<!-- opening of top nav desktop-version -->
-<div class="row top-nav pd-10-0 desktop-version">
-        <!-- opening of logo section -->
-        <div class="col-md-4 logo align-left pdl-83">
-        <a href="https://www.acropolisinfotech.com"><img src="../assets/img/logo.png" alt="Acropolis Infotech" title="Acropolis Infotech"></a>
-        </div>
-        <!-- closing of logo section -->
-        <!-- opening of pagelink section -->
-        <div class="col-md-8 pagelink pd-0-0 center align-center">
-            <ul class="list list-inline  pagelink-list pd-0-0 mg-0-0">
-            <li class="pd-15-10 dropdown"><a href="#" class="fz-14 color-black">Offerings</a>
-            
-              <!-- dropdown menu of offering comes here -->
-              <div class="dropdown-content-services pd-10-0">
-                  <div class="green-filter"></div>
-                                      <img src="../assets/img/particle-background-offering-540.jpg" class="dropdown-background" alt="Background-image" />
-                <div class="col-md-10 col-md-offset-1">
-                  <div class="col-md-4">
-                    <h3 class="menu-title">EXPERTISE SERVICES</h3>
-                    <div class="col-md-12 services-block">
-                       <ul class="list dropdown-list">
-                      <li><a href="../web-development.html">Web App Development</a></li>
-                      <li><a href="../mobile-app-development.html">Mobile App Development</a></li>
-                      <li><a href="../dedicated-development-team.html">Dedicated Development Team</a></li>
-                      <li><a href="../front-end-technology.html">Frontend Development</a></li>
-                      <li><a href="../microsoft-technology.html">Microsoft Technologies</a></li>
-                      <li><a href="../iot.html">Internet of Things(IoT)</a></li>
-                      <li><a href="../vr.html">AR/VR</a></li>
-                      <li><a href="../cloud.html">Cloud & DevOps</a></li>
-                      <li><a href="../chatbot.html">Chatbot Development</a></li>
-                      <li><a href="../wearable.html">Wearables</a></li>
-                      <li><a href="../ai.html">Artificial Intelligence</a></li>
-                      <li><a href="../big-data.html">Big Data</a></li>
-                      <li><a href="../blockchain.html">Blockchain</a></li>
-                      </ul>
-                      </div>
-                  </div>
-                  <div class="col-md-4">
-                    <h3 class="menu-title">Enterprise Services</h3>
-                    <div class="col-md-12 services-block">
-                      <ul class="list dropdown-list">
-                      <li><a href="../business-consulting.html">Business/Technology Consulting</a></li>
-                     
-                      <li><a href="../product-prototype.html">Product Prototyping</a></li>
-                      <li><a href="../managed-services.html">Managed Services</a></li>
-                             <li><a href="../enterprise-mobility.html">Enterprise Mobility</a></li>
-                      <li><a href="../product-engineering.html">Product Engineering</a></li>
-                      <li><a href="../quality-assurance.html">Quality Assurance & Testing</a></li>
-                       <li><a href="../digital-transformation.html">Digital Transformation</a></li>
-                      <li><a href="../product-maintainance.html">Product Maintenance & Support</a></li>
-                      <li><a href="../system-integration.html">Enterprise System Integration</a></li>
-                      <li><a href="../cloud-integration.html">Cloud Integration</a></li>
-                      <li><a href="../enterprise-content-management.html">Enterprise Content Management</a></li>
-                      <li><a href="../dashboard.html">IT Metrics & Dashboard</a></li>
-                    </ul>
-                  </div>
 
-                  </div>
-                  <div class="col-md-4">
-                    <h3 class="menu-title">PROCESSES</h3>
-                    <div class="col-md-12 services-block">
-
-
-                    <ul class="list dropdown-list">
-                      <li><a href="../development-methodlogy.html">Development Methodology</a></li>
-                      <li><a href="../delivery-model.html">Delivery Models</a></li>
-                      <li><a href="../pricing-model.html">Pricing Models</a></li>
-                    </ul>
-                  </div>
-                  </div>
-              </div>
-            </div>
-            <li class="pd-15-10 dropdown"><a href="#" class="fz-14 color-black">Industries</a>
-
-              <!-- dropdown menu comes here -->
-              <div class="dropdown-content-services pd-10-0">
-                   <div class="green-filter"></div>
-                  
-                                      <img src="../assets/img/particle-background-industries-242.jpg" class="dropdown-background" alt="Background-image" />
-                                       <h3 class="menu-title color-white absolute-index">industries</h3>
-                  
-                <div class="col-md-10 col-md-offset-1">
-                    
-                  <div class="col-md-4 pd-0-45">
-                       <ul class="list dropdown-list">
-                      <li><a href="../industries-page/healthcare.html">Healthcare</a></li>
-                      <li><a href="../industries-page/education.html">Education /eLearning</a></li>
-                      <li><a href="../industries-page/social-networking.html">Social Networking</a></li>
-                      <li><a href="../industries-page/retail.html">Retail</a></li>
-                    </ul>
-                  </div>
-                  <div class="col-md-4 pd-0-45">
-                      <ul class="list dropdown-list">
-                      <li><a href="../industries-page/manufacturing.html">Manufacturing</a></li>
-                      <li><a href="../industries-page/eCommerce.html">eCommerce</a></li>
-                      <li><a href="../industries-page/energy.html">Energy</a></li>
-                      <li><a href="../industries-page/travel-and-hospitality.html">Travel & Hospitality</a></li>
-                    </ul>
-                  </div>
-                  <div class="col-md-4 pd-0-45">
-
-
-                    <ul class="list dropdown-list">
-                      <li><a href="../industries-page/real-estate.html">Real Estate</a></li>
-                      <li><a href="../industries-page/media-and-entertainment.html">Media & Entertainment</a></li>
-                      <li><a href="../industries-page/logistics-and-distribution.html">Logistics & Distribution</a></li>
-                       <li><a href="../industries-page/construction.html">Construction</a></li>
-                    </ul>
-                  </div>
-                  </div>
-              </div>
-        </li>
-                    <li class="pd-15-10 dropdown"><a href="#" class="fz-14 color-black">Partnership</a>
-                    <div class="dropdown-content-services pd-20-0">
-                         <div class="green-filter"></div>
-                                      <img src="../assets/img/particle-background-partnership-320.jpg" class="dropdown-background" alt="Background-image" />
-                        <div class="col-md-4">
-                            <a href="../partnership-page/referal-partner.html" class="partnership-link">
-                            <h3 class="menu-title">Referral Partner</h3>
-                            <img src="../assets/img/partners/referal-partner.png" alt="Referral Partner" />
-                            <p class="section-description">Provide opportunities for new/more benefits with referral partnership.</p>
-                            </a>
-                            
-                        </div>
-                        <div class="col-md-4">
-                            <a href="../partnership-page/affiliate-partner.html" class="partnership-link">
-                                <h3 class="menu-title">Affiliate Partner</h3>
-                            <img src="../assets/img/partners/affiliate-partner.png" alt="Referral Partner" />
-                            <p class="section-description">Partnership to build successful business with Affiliate partnership</p>
-                            </a>
-                            
-                        </div>
-                        <div class="col-md-4">
-                            <a href="../partnership-page/strategic-partnership.html" class="partnership-link">
-                                <h3 class="menu-title">Strategic Partnership</h3>
-                            <img src="../assets/img/partners/strategic-partner.png" alt="Referral Partner" />
-                            <p class="section-description">Smart & logistic business work with Strategic Partnership</p>
-                            </a>
-                            
-                        </div>
-                    </div></li>
-            <li class="pd-15-10"><a href="../portfolio" class="fz-14 color-black">Portfolio</a></li>
-            <li class="pd-15-10 dropdown"><a href="#" class="fz-14 color-black">Company</a>
-            
-              <!-- dropdown menu of company  comes here -->
-              <div class="dropdown-content-services pd-10-0">
-                   <div class="green-filter"></div>
-                                      <img src="../assets/img/particle-background-company-365.jpg" class="dropdown-background" alt="Background-image" />
-                <div class="col-md-10 col-md-offset-1">
-                  <div class="col-md-4">
-                    <h3 class="menu-title">About Us</h3>
-                    <div class="col-md-12 services-block">
-
-
-                    <ul class="list dropdown-list">
-                      <li><a href="../company-page/company-overview.html">Company Overview</a></li>
-                      <li><a href="../company-page/path-finder.html">Path Finders</a></li>
-                      <li><a href="../company-page/our-values.html">Our Values</a></li>
-                      <li><a href="../company-page/center-of-excellence.html">Center Of Excellence</a></li>
-                      <li><a href="../company-page/our-infrastructure.html">Our Infrastructure</a></li>
-                      <li><a href="../company-page/contact-us.html">Contact Us</a></li>
-                      <li><a href="../company-page/inquire-now.html">Inquire Now!</a></li>
-                      <li><a href="../company-page/client-testimonial.html">Client Testimonial</a></li>
-                    </ul>
-                  </div>
-                  </div>
-                  <div class="col-md-4">
-                    <h3 class="menu-title">Insights</h3>
-                    <div class="col-md-12 services-block">
-
-
-                    <ul class="list dropdown-list">
-                      
-                      <li><a href="../company-page/certification.html">Certification</a></li>
-                      
-                      
-                      <li><a href="../blog">Blog</a></li>
-                      <li><a href="../portfolio">Portfolio</a></li>
-                      <li><a href="../company-page/case-studies.html">Case Studies</a></li>
-                      <li><a href="../company-page/faq.html">FAQs</a></li>
-                    </ul>
-                  </div>
-                  </div>
-                    <div class="col-md-4">
-                    <h3 class="menu-title">Our Culture</h3>
-                    <div class="col-md-12 services-block">
-
-
-                    <ul class="list dropdown-list">
-                      <li><a href="https://careers.acropolisinfotech.com">Career Overview</a></li>
-                      <li><a href="https://careers.acropolisinfotech.com/current-opening">Current opening</a></li>
-                      <li><a href="../company-page/corporate-social.html">Corporate Social Responsibility</a></li>
-                     
-                    </ul>
-                  </div>
-                  </div>
-              </div>
-            </div></li>
-            <li class="list-inline-item"><a href="../blog" class="fz-14 color-black">Blog</a></li>
-            <li class="pd-8-10 border-blue border-radius-20 mg-0-15 estimate-product background-green " style="transition:all 0.3s linear;"><a href="https://calendly.com/acropolis" target="_blank" class="fz-14 color-black pd-0-10 ">Schedule a Meeting</a></li>
-            </ul>
-        </div>
-        <!-- closing of pagelink section -->
-    </div>
-<!-- closing of top-nav  desktop-version-->
-<!-- opening of top-nav mobile version -->
-<div class="row top-nav mobile-version relative">
-    <!--opening of logo-container -->
-    <div class="col-md-6 col-xs-6 logo">
-                <a href="https://www.acropolisinfotech.com"><img src="../assets/img/logo.png" alt="Acropolis Infotech" title="Acropolis Infotech"></a>
-        
-    </div>
-    <!--closing of logo container -->
-    <!-- opening of toggle-button container -->
-    <div class="col-md-6 col-xs-6 toggle-button-container align-right pd-10-10">
-        <button type="button" class="mobile-menu-toggle-button">
-            <i class="fa fa-align-justify"></i>
-        </button>
-        
-    </div>
-    <!-- closing of toggle-button container -->
-    <div class="mobile-menu-overall-container">
-    <div class="mobile-menu-container main-page">
-        <!-- main page menu container -->
-        <ul class="list mobile-menu-list">
-            <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
-            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
-            <li class="portfolio-menu-button"><a href="../portfolio">Portfolio</a></li>
-            <li class="company-menu-button has-child"><a href="#">Company</a></li>
-            <li class="blog-button"><a href="../blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- opening of offering page menu container -->
-        <div class="mobile-menu-container offering-page">
-        <ul class="list mobile-menu-list">
-              <li class="offering-menu-back-button back-button"><a href="#">Offering</a></li>
-              <ul class="list mobile-menu-sublist">
-            <li class="expertise-service-menu-button has-child"><a href="#">Expertise Services</a></li>
-            <li class="enterprise-service-menu-button has-child"><a href="#">Enterprise Services</a></li>
-            <li class="process-menu-button has-child"><a href="#">Process</a></li>
-            </ul>
-             <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
-            <li class="portfolio-menu-button"><a href="../portfolio">Portfolio</a></li>
-            <li class="company-menu-button has-child"><a href="#">Company</a></li>
-            <li class="blog-button"><a href="../blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- closing of offering page menu container -->
-      <!-- opening of expertise page menu container -->
-        <div class="mobile-menu-container expertise-page">
-        <ul class="list mobile-menu-list">
-             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
-               <li class="expertise-service-menu-back-button back-button"><a href="#">Expertise Services</a></li>
-                <ul class="list mobile-menu-sublist">
-           <li><a href="../web-development.html">Web Apps Development</a></li>
-                      <li><a href="../mobile-app-development.html">Mobile Apps development</a></li>
-                      <li><a href="../dedicated-development-team.html">Dedicated Development Team</a></li>
-                      <li><a href="../front-end-technology.html">Front End Technologies</a></li>
-                      <li><a href="../microsoft-technology.html">Microsoft Technologies</a></li>
-                      <li><a href="../iot.html">Internet of Things(IoT)</a></li>
-                      <li><a href="../vr.html">AR/VR</a></li>
-                      <li><a href="../cloud.html">Cloud & Devops</a></li>
-                      <li><a href="../chatbot.html">Chatbot Development</a></li>
-                      <li><a href="../wearable.html">Wearable</a></li>
-                      <li><a href="../ai.html">Artificial Intelligence</a></li>
-                      <li><a href="../big-data.html">Big Data</a></li>
-                      <li><a href="../blockchain.html">Blockchain</a></li>
-                      </ul>
-                       <li class="enterprise-service-menu-button has-child"><a href="#">Enterprise Services</a></li>
-                       
-            <li class="process-menu-button has-child"><a href="#">Process</a></li>
-                                  <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
-            <li class="portfolio-menu-button"><a href="../portfolio">Portfolio</a></li>
-            <li class="company-menu-button has-child"><a href="#">Company</a></li>
-            <li class="blog-button"><a href="../blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- closing of expertise page menu container -->
-          <!-- opening of enterprise page menu container -->
-        <div class="mobile-menu-container enterprise-page">
-        <ul class="list mobile-menu-list">
-              <li class="offering-menu-back-button back-button"><a href="#">Offering</a></li>
-            <li class="expertise-service-menu-button has-child"><a href="#">Expertise Services</a></li>
-            <li class="enterprise-service-menu-back-button back-button"><a href="#">Enterprise Services</a></li>
-             <ul class="list mobile-menu-sublist">
-                      <li><a href="../business-consulting.html">Business Consulting</a></li>
-                     
-                      <li><a href="../product-prototype.html">Product Prototyping</a></li>
-                      <li><a href="../managed-services.html">Managed Services</a></li>
-                             <li><a href="../enterprise-mobility.html">Enterprise Mobility</a></li>
-                      <li><a href="../product-engineering.html">Product Engineering</a></li>
-                      <li><a href="../quality-assurance.html">Quality Assurance & Testing</a></li>
-                       <li><a href="../digital-transformation.html">Digital Transformation</a></li>
-                      <li><a href="../product-maintainance.html">Maintainance & Support</a></li>
-                      <li><a href="../system-integration.html">Enterprise System Integration</a></li>
-                      <li><a href="../cloud-integration.html">Cloud Integration</a></li>
-                      <li><a href="../dashboard.html">It Metrix And Dashboard</a></li>
-                      </ul>
-                      
-                        <li class="process-menu-button has-child"><a href="#">Process</a></li>
-             <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
-            <li class="portfolio-menu-button"><a href="../portfolio">Portfolio</a></li>
-            <li class="company-menu-button has-child"><a href="#">Company</a></li>
-            <li class="blog-button"><a href="../blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- closing of enterprise page menu container -->
-              <!-- opening of partnership page menu container -->
-        <div class="mobile-menu-container partnership-page">
-        <ul class="list mobile-menu-list">
-             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
-            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-            <li class="partnership-menu-back-button back-button"><a href="#">Partnership</a></li>
-             <ul class="list mobile-menu-sublist">
-                    <li> <a href="../partnership-page/referal-partner.html" class="partnership-link">Referral Partner</a></li>
-                       <li> <a href="../partnership-page/affiliate-partner.html" class="partnership-link">Affiliate Partner</a></li>
-                          <li> <a href="../partnership-page/strategic-partner.html" class="partnership-link">Strategic Partner</a></li>
-                          </ul>
-                           <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-                           
-            <li class="portfolio-menu-button"><a href="../portfolio">Portfolio</a></li>
-            <li class="company-menu-button has-child"><a href="#">Company</a></li>
-            <li class="blog-button"><a href="../blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- closing of partnership page menu container -->
-                  <!-- opening of partnership page menu container -->
-        <div class="mobile-menu-container company-page">
-        <ul class="list mobile-menu-list">
-             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
-            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
-            <li class="portfolio-menu-button"><a href="/portfolio">Portfolio</a></li>
-             <li class="company-menu-back-button back-button"><a href="#">Company</a></li>
-            <ul class="list mobile-menu-sublist">
-            <li class="about-us-menu-button has-child"><a href="#">About Us</a></li>
-            <li class="insight-menu-button has-child"><a href="#">Insights</a></li>
-            <li class="our-culture-menu-button has-child"><a href="#">Our Culture</a></li>
-            </ul>
-                      
-            <li class="blog-button"><a href="/blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- closing of partnership page menu container -->
-        <!-- opening of insight menu container -->
-        <div class="mobile-menu-container insight">
-        <ul class="list mobile-menu-list">
-             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
-            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
-            <li class="portfolio-menu-button"><a href="../portfolio">Portfolio</a></li>
-             <li class="company-menu-back-button back-button"><a href="#">Company</a></li>
-             <li class="about-us-menu-button has-child"><a href="#">About Us</a></li>
-             <li class="insight-menu-back-button back-button"><a href="#">Insights</a></li>
-               <ul class="list mobile-menu-sublist">
-                         <li><a href="../company-page/certification.html">Certification</a></li>
-                      
-                      
-                      <li><a href="../blog">Blog</a></li>
-                      <li><a href="../portfolio">Portfolio</a></li>
-                      <li><a href="../company-page/case-studies.html">Case Studies</a></li>
-                      <li><a href="../company-page/faq.html">FAQs</a></li>
-                       
-                       </ul>
-                <li class="our-culture-menu-button has-child"><a href="#">Our Culture</a></li>
-                      
-            <li class="blog-button"><a href="../blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- closing of insight menu container -->
-        <!-- opening of our culture menu container -->
-        <div class="mobile-menu-container our-culture">
-        <ul class="list mobile-menu-list">
-             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
-            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
-            <li class="portfolio-menu-button"><a href="../portfolio">Portfolio</a></li>
-             <li class="company-menu-button has-child"><a href="#">Company</a></li>
-             <li class="about-us-menu-button has-child"><a href="#">About Us</a></li>
-            <li class="insight-menu-button has-child"><a href="#">Insights</a></li>
-             <li class="our-culture-menu-back-button back-button"><a href="#">Our Culture</a></li>
-              <ul class="list mobile-menu-sublist">
-                        <li><a href="https://careers.acropolisinfotech.com">Career Overview</a></li>
-                      <li><a href="https://careers.acropolisinfotech.com/current-opening">Current opening</a></li>
-                      <li><a href="../company-page/corporate-social.html">Corporate Social Responsibility</a></li>
-                       
-                       </ul>
-
-              
-                      
-            <li class="blog-button"><a href="../blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- closing of our culture menu container -->
-    <!-- opening of about us menu container -->
-        <div class="mobile-menu-container about-us">
-        <ul class="list mobile-menu-list">
-           <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
-            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
-            <li class="portfolio-menu-button"><a href="portfolio">Portfolio</a></li>
-             <li class="company-menu-button has-child"><a href="#">Company</a></li>
-             <li class="about-us-menu-back-button back-button"><a href="#">About Us</a></li>
-                          <ul class="list mobile-menu-sublist">
-                         <li><a href="../company-page/company-overview.html">Company Overview</a></li>
-                      <li><a href="../company-page/path-finder.html">Path Finder</a></li>
-                      <li><a href="../company-page/our-values.html">Our Values</a></li>
-                      <li><a href="../company-page/center-of-excellence.html">Center Of Excellence</a></li>
-                      <li><a href="../company-page/our-infrastructure.html">Our Infrastructure</a></li>
-                      <li><a href="../company-page/contact-us.html">Contact Us</a></li>
-                      <li><a href="../company-page/inquire-now.html">Inquire Now</a></li>
-                      <li><a href="../company-page/client-testimonial.html">Client Testimonial</a></li>
-                       
-                       </ul>
-                    <li class="insight-menu-button has-child"><a href="#">Insights</a></li>
-             <li class="our-culture-menu-button has-child"><a href="#">Our Culture</a></li>
-
-              
-                      
-            <li class="blog-button"><a href="../blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- closing of about us menu container -->
-              <!-- opening of process page menu container -->
-        <div class="mobile-menu-container process-page">
-        <ul class="list mobile-menu-list">
-             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
-                         <li class="expertise-service-menu-button has-child"><a href="#">Expertise Services</a></li>
-            <li class="enterprise-service-menu-button has-child"><a href="#">Enterprise Services</a></li>
-             
-               <li class="process-menu-back-button back-button"><a href="#">Process</a></li>
-                 <ul class="list mobile-menu-sublist">
-                  <li><a href="../development-methodlogy.html">Development Methodlogy</a></li>
-                      <li><a href="../delivery-model.html">Delivery Models</a></li>
-                      <li><a href="../pricing-model.html">Pricing Models</a></li>
-                      </ul>
-                        <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
-            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
-            <li class="portfolio-menu-button"><a href="../portfolio">Portfolio</a></li>
-            <li class="company-menu-button has-child"><a href="#">Company</a></li>
-            <li class="blog-button"><a href="../blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- closing of process page menu container -->
-    <!-- opening of industries page menu container -->
-        <div class="mobile-menu-container industries-page">
-        <ul class="list mobile-menu-list">
-             <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
-                <li class="industry-menu-back-button back-button"><a href="#">Industries</a></li>
-                  <ul class="list mobile-menu-sublist">
-             <li><a href="../industries-page/healthcare.html">Healthcare</a></li>
-                      <li><a href="../industries-page/education.html">Education</a></li>
-                      <li><a href="../industries-page/social-networking.html">Social Networking</a></li>
-                      <li><a href="../industries-page/retail.html">Retail</a></li>
-            
-            <li><a href="../industries-page/manufacturing.html">Manufacturing</a></li>
-                      <li><a href="../industries-page/eCommerce.html">eCommerce</a></li>
-                      <li><a href="../industries-page/energy.html">Energy</a></li>
-                      <li><a href="../industries-page/travel-and-hospitality.html">Travel & Hospitality</a></li>
-             <li><a href="../industries-page/real-estate.html">Real Estate</a></li>
-                      <li><a href="../industries-page/media-and-entertainment.html">Media & Entertainment</a></li>
-                      <li><a href="../industries-page/logistics-and-distribution.html">Logistics & Distribution</a></li>
-                       <li><a href="../industries-page/construction.html">Construction</a></li>
-                       </ul>
-            <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
-            <li class="portfolio-menu-button"><a href="../portfolio">Portfolio</a></li>
-            <li class="company-menu-button has-child"><a href="#">Company</a></li>
-            <li class="blog-button"><a href="../blog">Blog</a></li>
-        </ul>
-    </div>
-    <!-- closing of industries page menu container -->
-    </div>
     
-</div><!-- closing of top-nav mobile-version -->
+    
+    
+    
+<!-- opening of top nav desktop-version -->
+      <?php include '../template/header.php'; ?>
+<!-- closing of top-nav  desktop-version-->
+
+
+<!-- opening of top-nav mobile version -->
+     <?php include '../template/header-mobile.php'; ?>
+<!-- closing of top-nav mobile-version -->
+
+    
+    
+    
+    
+    
 <div class="row hero-banner scrolling-section" style="background-image:url(../assets/img/banner/ajax-development.jpeg);">
     <div class="hero-banner-text-container">
         <div class="hero-banner-title-box pd-30-30">
-            <h3 class=" clanpro-bold fz-70 lh-80 color-white pd-0-55">Hire Microsoft Developers</h3>
+            <h3 class=" clanpro-bold fz-70 lh-80 color-white pd-0-55">Mobile App Developers For Hire</h3>
             
         </div>
         <div class="hero-banner-description-box pd-60-30 hero-banner-description-line">
@@ -591,8 +102,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="hire-web-developer.html" class="hero-banner-box-arrow-button left active "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="hire-front-end-developer.html"><i class="fa fa-angle-right"></i></a>
+                <a href="../dedicated-development-team.html" class="hero-banner-box-arrow-button left active "><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="../hire-developer/hire-web-developer.html"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -600,11 +111,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
 <div class="row service-overview pd-60-0 relative page-section scrolling-section" id="overview">
     <div class="background-title">
-        <h3 class="web-services">Microsoft</h3>
+        <h3 class="web-services">Mobile App</h3>
         
     </div>
     <div class="col-md-12">
-        <h1 class="service-page-title pd-0-60 align-center clanpro-bold fz-48">Microsoft Certified Developer</h1>
+        <h1 class="service-page-title pd-0-60 align-center clanpro-bold fz-48">Hire Mobile Application Developers</h1>
     </div>
     <div class="col-md-6 service-overview-stats pd-60">
         <p class="pd-0-60 color-light-green clanpro fz-21">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
@@ -624,37 +135,53 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 <div class="row pd-0-0 bg-gray pd-30-0 page-section scrolling-section" id="hire-services">
     <div class="col-md-12 pd-60-10 align-center">
         <div class="col-md-3">
-            <a href="microsoft-developer/hire-asp-developer.html" target="_blank">
+            <a href="mobile-app-developer/hire-iphone-app-developer.html" target="_blank">
             <div class="col-md-12 pd-40-0 bg-white hospitality-it-solution-box">
                 <img class="mgb-50" src="../assets/icons/travel-and-hospitality/one.svg" alt="retail">
-                <h3 class="clanpro-bold fz-24">Hire ASP.NET Developer</h3>
+                <h3 class="clanpro-bold fz-24">Hire iPhone App Developer</h3>
             </div>
             </a>
         </div>
     
         <div class="col-md-3">
-            <a href="microsoft-developer/hire-asp-net-storefront.html" target="_blank">
+            <a href="mobile-app-developer/hire-ipad-app-developer.html" target="_blank">
             <div class="col-md-12 pd-40-0 bg-white hospitality-it-solution-box">
                 <img class="mgb-50" src="../assets/icons/travel-and-hospitality/one.svg" alt="retail">
-                <h3 class="clanpro-bold fz-24">Hire ASP.NET Storefront Developer</h3>
+                <h3 class="clanpro-bold fz-24">Hire iPad App Developer</h3>
             </div>
             </a>
         </div>
     
     
         <div class="col-md-3">
-            <a href="microsoft-developer/hire-c-sharp-developer.html" target="_blank">
+            <a href="mobile-app-developer/hire-android-developer.html" target="_blank">
            <div class="col-md-12 pd-40-0 bg-white hospitality-it-solution-box">
                 <img class="mgb-50" src="../assets/icons/travel-and-hospitality/one.svg" alt="retail">
-                <h3 class="clanpro-bold fz-24">Hire C# <br /> Developer</h3>
+                <h3 class="clanpro-bold fz-24">Hire Android Developer</h3>
             </div>
             </a>
         </div>
         <div class="col-md-3">
-            <a href="microsoft-developer/hire-dot-net-nuke-developer.html" target="_blank">
+            <a href="mobile-app-developer/hire-window-app-developer.html" target="_blank">
            <div class="col-md-12 pd-40-0 bg-white hospitality-it-solution-box">
                 <img class="mgb-50" src="../assets/icons/travel-and-hospitality/one.svg" alt="retail">
-                <h3 class="clanpro-bold fz-24">Hire .NET Nuke Developer</h3>
+                <h3 class="clanpro-bold fz-24">Hire Window App Developer</h3>
+            </div>
+            </a>
+        </div>
+          <div class="col-md-3">
+            <a href="mobile-app-developer/hire-cross-platform-app-developer.html" target="_blank">
+           <div class="col-md-12 pd-40-0 bg-white hospitality-it-solution-box">
+                <img class="mgb-50" src="../assets/icons/travel-and-hospitality/one.svg" alt="retail">
+                <h3 class="clanpro-bold fz-24">Hire Cross Platform App Developer</h3>
+            </div>
+            </a>
+        </div>
+           <div class="col-md-3">
+            <a href="mobile-app-developer/hire-swift-developer.html" target="_blank">
+            <div class="col-md-12 pd-40-0 bg-white hospitality-it-solution-box">
+                <img class="mgb-50" src="../assets/icons/travel-and-hospitality/one.svg" alt="retail">
+                <h3 class="clanpro-bold fz-24">Hire Swift<br> Developer</h3>
             </div>
             </a>
         </div>
@@ -741,7 +268,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     
 </div>
-<!--opening of stats-secion-->
 <div class="row stats-section pd-83-0 pdt-0">
     <div class="col-md-5 col-xs-12 col-sm-12">
     <div class="col-md-6 col-xs-6 col-sm-6 pd-30-0">
@@ -1526,7 +1052,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-12 related-service-block-container pd-30-30">
         <div class="related-service-block col">
-            <a href="business-consulting.html">
+            <a href="../business-consulting.html">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -1547,7 +1073,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="managed-services.html">
+                                <a href="../managed-services.html">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -1568,7 +1094,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="enterprise-mobility.html">
+                                <a href="../enterprise-mobility.html">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -1589,7 +1115,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="quality-assurance.html">
+                                <a href="../quality-assurance.html">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -1610,7 +1136,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                        <a href="product-engineering.html">
+                        <a href="../product-engineering.html">
                             <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -1635,117 +1161,15 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
 
 
-  <!-- opening of footer section -->
-    <div class="row footer-container">
-      <div class="container-fluid footer">
-          
-                  <div class="col-md-6 col-xs-12 col-sm-6 footer-logo">
-                  <a href="https://www.acropolisinfotech.com"><img src="../assets/img/acropolis-footer.png" alt="Acropolis Infotech" title="Acropolis Infotech"></a>
-                  
-                  </div>
-                  
-                  <div class="col-md-6 col-sm-6 col-xs-12 footer-subscribe">
-                    <form class="contact" name="contact-form" action="#" method="poost">
-                    <input type="text" placeholder="Enter your email address" class="address-button" value="" required="">
-                    <button class="footer-subscribe-button" type="button">Subscribe</button>
-                </form>
-                    
-                  </div>
 
-                  
-          
-          <div class="col-md-12 pd-0-0">
-         
-          <div class="col-md-2  col-xs-6 pdt-40">
-              <h5 class="footer-link-title">Company</h5>
-            <ul class="list footer-list">
-              <li><a href="../company-page/company-overview.html">Company Overview</a></li>
-              <li><a href="../company-page/path-finder.html">Path Finders</a></li>
-              <li><a href="../company-page/client-testimonial.html">Client Testimonials</a></li>
-              <li><a href="../company-page/faq.html">FAQs</a></li>
-              <li><a href="../company-page/contact-us.html">Contact Us</a></li>
-            </ul>
-          </div>
-          
-          
-           <div class="col-md-2  col-xs-6 pdt-40">
-               <h5 class="footer-link-title">Services</h5>
-            <ul class="list footer-list">
-              <li><a href="../web-development.html">Web Development</a></li>
-              <li><a href="../mobile-app-development.html">Mobile App Development</a></li>
-              <li><a href="../front-end-technology.html">Frontend Development</a></li>
-              <li><a href="../chatbot.html">Chatbot Development</a></li>
-              <li><a href="../dedicated-development-team.html">Hire Dedicated Developer</a></li>
-            </ul>
-          </div>
-          
-          
-           <div class="col-md-2  col-xs-6 pdt-40">
-               <h5 class="footer-link-title">Insights</h5>
-            <ul class="list footer-list">
-              <li><a href="../blog">Blog</a></li>
-              <li><a href="../company-page/case-studies.html">Case Studies</a></li>
-              <li><a href="../portfolio">Portfolio</a></li>
-              <li><a href="../company-page/our-infrastructure.html">Our Infrastructure</a></li>
-              <li><a href="../company-page/our-values.html">Our Values</a></li>
-            </ul>
-          </div>
-          
-          
-           <div class="col-md-2 col-xs-6 pdt-40">
-               <h5 class="footer-link-title">Industries</h5>
-            <ul class="list footer-list">
-              <li><a href="../industries-page/healthcare.html">Healthcare</a></li>
-              <li><a href="../industries-page/education.html">Education/eLearning</a></li>
-              <li><a href="../industries-page/social-networking.html">Social Networking</a></li>
-              <li><a href="../industries-page/eCommerce.html">eCommerce</a></li>
-              <li><a href="../industries-page/retail.html">Retail</a></li>
-               
-            </ul>
-          </div>
-           <div class="col-md-2 col-xs-6 pdt-40">
-               <h5 class="footer-link-title">Career</h5>
-            <ul class="list footer-list">
-               <li><a href="https://careers.acropolisinfotech.com">Career Overview</a></li>
-              <li><a href="https://careers.acropolisinfotech.com/current-opening">Current Opening</a></li>
-              <li><a href="../life-at-acropolis.html">Life At Acropolis</a></li>
-            </ul>
-          </div>
-           <div class="col-md-2 col-xs-6 pdt-40">
-               <h5 class="footer-link-title">Trending</h5>
-            <ul class="list footer-list">
-              <li><a href="../iot.html">IoT</a></li>
-              <li><a href="../blockchain.html">Blockchain</a></li>
-              <li><a href="../vr.html">AR/VR</a></li>
-              <li><a href="../progressive-web-app.html">Progressive Web Apps</a></li>
-              <li><a href="../machine-learning.html">Machine Learning</a></li>
-            </ul>
-          </div>
-          </div>
-        <div class="col-md-12 align-center copyright-social pd-30-0">
-            <div class="col-md-4 col-sm-6 col-xs-12 footer-copyright-container pd-0-0">
-                 <p class="copyright-text">Copyright &copy; Acropolis Infotech (P) Limited | All Rights Reserved</p>
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12  privacy-policy-container">
-                <a href="../privacy-policy.html">NDA  Privacy Policy</a>
-                <a href="../term-of-use.html">| Term of Use</a>
-                <a href="../sitemap.html">| Sitemap</a>
-            </div>
-            <div class="col-md-4 col-xs-12 col-sm-12 footer-social-list-container pd-0-0">
-            <ul class="footer-social-list list-inline">
-                <li class="list-inline-item"><a target="_blank" href="https://www.facebook.com/acropolisinfotechprivatelimited/"><i class="fa fa-facebook"></i></a></li>
-                 <li class="list-inline-item"><a target="_blank" href="https://twitter.com/acropolis_info"><i class="fa fa-twitter"></i></a></li>
-                  <li class="list-inline-item"><a target="_blank" href="https://www.instagram.com/acropolis.infotech/"><i class="fa fa-instagram"></i></a></li>
-                   <li class="list-inline-item"><a  target="_blank" href="https://www.linkedin.com/company/acropolis-infotech?originalSubdomain=in"><i class="fa fa-linkedin"></i></a></li>
-                    <li class="list-inline-item"><a target="_blank"  href="https://www.pinterest.com/acropolis_info"><i class="fa fa-pinterest"></i></a></li>
-                     <li class="list-inline-item"><a target="_blank"  href="https://www.youtube.com/channel/UC7HKPJviQN3F8zzq0YgX4FQ"><i class="fa fa-youtube"></i></a></li>
-            </ul>
-            </div>
-        </div>
-       
-      </div>
-    </div>
+
+
+    <!-- opening of footer section -->
+         <?php include '../template/footer.php'; ?>
     <!-- closing of footer section -->
+    
+    
+    
 </div>
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
