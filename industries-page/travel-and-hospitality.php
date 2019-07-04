@@ -223,8 +223,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="energy.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="real-estate.html"><i class="fa fa-angle-right"></i></a>
+                <a href="energy.php" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="real-estate.php"><i class="fa fa-angle-right"></i></a>
         </div>
            
     </div>
@@ -359,7 +359,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <h3 class="wearable-title clanpro-bold solution-title active fz-35 relative">Wearable Title One</h3>
                 <p class="wearable-description clanpro mg-40-0 fz-20 solution-description active">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                <div class="explore-more-button-container solution-link active">
-                    <a href="../company-page/inquire-now.html" target="_blank" class="explore-more-button clanpro color-white">
+                    <a href="../company-page/inquire-now.php" target="_blank" class="explore-more-button clanpro color-white">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -372,7 +372,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <h3 class="wearable-title clanpro-bold fz-35 relative solution-title">Wearable Title Two</h3>
                 <p class="wearable-description clanpro mg-40-0 fz-20 solution-description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                  <div class="explore-more-button-container solution-link ">
-                    <a href="../company-page/inquire-now.html" target="_blank" class="explore-more-button clanpro color-white">
+                    <a href="../company-page/inquire-now.php" target="_blank" class="explore-more-button clanpro color-white">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -385,7 +385,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <h3 class="wearable-title clanpro-bold fz-35 relative solution-title">Wearable Title Three</h3>
                 <p class="wearable-description clanpro mg-40-0 fz-20 solution-description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                 <div class="explore-more-button-container solution-link">
-                    <a href="../company-page/inquire-now.html" target="_blank" class="explore-more-button clanpro color-white">
+                    <a href="../company-page/inquire-now.php" target="_blank" class="explore-more-button clanpro color-white">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -398,7 +398,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <h3 class="wearable-title clanpro-bold fz-35 relative solution-title">Wearable Title Four</h3>
                 <p class="wearable-description clanpro mg-40-0 fz-20 solution-description ">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
            <div class="explore-more-button-container solution-link">
-                    <a href="../company-page/inquire-now.html" target="_blank" class="explore-more-button clanpro color-white">
+                    <a href="../company-page/inquire-now.php" target="_blank" class="explore-more-button clanpro color-white">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -629,7 +629,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-12 related-service-block-container pd-30-30">
         <div class="related-service-block col">
-            <a href="../business-consulting.html">
+            <a href="../business-consulting.php">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -650,7 +650,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../managed-services.html">
+                                <a href="../managed-services.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -671,7 +671,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../enterprise-mobility.html">
+                                <a href="../enterprise-mobility.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -692,7 +692,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../quality-assurance.html">
+                                <a href="../quality-assurance.php">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -713,7 +713,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                        <a href="../product-engineering.html">
+                        <a href="../product-engineering.php">
                             <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->

@@ -279,8 +279,8 @@ color:#1fbba6;
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="../chatbot.html" class="hero-banner-box-arrow-button left active "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="bots-solutions.html"><i class="fa fa-angle-right"></i></a>
+                <a href="../chatbot.php" class="hero-banner-box-arrow-button left active "><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="bots-solutions.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -450,7 +450,7 @@ color:#1fbba6;
             </div>
         
         <div class="explore-more-button-container">
-                    <a href="../company-page/inquire-now.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="../company-page/inquire-now.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text clr-change">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>

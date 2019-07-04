@@ -112,8 +112,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="../big-data.html" class="hero-banner-box-arrow-button active left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="hive.html"><i class="fa fa-angle-right"></i></a>
+                <a href="../big-data.php" class="hero-banner-box-arrow-button active left "><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="hive.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -422,7 +422,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
         
         <div class="explore-more-button-container">
-                    <a href="../company-page/inquire-now.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="../company-page/inquire-now.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text clr-change">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -776,7 +776,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-12 related-service-block-container pd-30-30">
         <div class="related-service-block col">
-            <a href="../big-data/hive.html" target="_blank">
+            <a href="../big-data/hive.php" target="_blank">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -797,7 +797,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../iot.html" target="_blank">
+                                <a href="../iot.php" target="_blank">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -818,7 +818,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../wearable.html" target="_blank">
+                                <a href="../wearable.php" target="_blank">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -839,7 +839,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../blockchain.html" target="blank">
+                                <a href="../blockchain.php" target="blank">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -860,7 +860,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                        <a href="../big-data.html" target="_blank">
+                        <a href="../big-data.php" target="_blank">
                             <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->

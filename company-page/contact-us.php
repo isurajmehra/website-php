@@ -993,7 +993,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <button type="submit" name="submit" class="submit-button">Submit</button>
             </div>
             <div class="form-group">
-                <p class="privacy-statement pd-10-0">By submitting this form, you agree to our <a href="privacy-policy.html" target="_blank"> privacy policy.</a>
+                <p class="privacy-statement pd-10-0">By submitting this form, you agree to our <a href="privacy-policy.php" target="_blank"> privacy policy.</a>
                 </p>
             </div>
             </form>
@@ -1001,7 +1001,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         <div class="col-md-7 col-md-offset-5  offset-md-5 lets-talk align-left pd-120-0 position-relative lets-talk-position" style="margin-top:-20px;">
               <h3 class="section-title contact-title clanpro-bold fz-48">Contact Us</h3>
             <h5 class="section-description fz-32 pd-0-0" style="margin-bottom:40px;">Let's Talk to expand possiblities</h5>
-            <a href="company-page/inquire-now.html" class="get-in-touch">Get in touch</a>
+            <a href="company-page/inquire-now.php" class="get-in-touch">Get in touch</a>
 
         </div>
             <div class="col-md-12 position-relative contact-detail">
@@ -1161,11 +1161,11 @@ s0.parentNode.insertBefore(s1,s0);
             var index=$(this).index();
             if(index == 0)
             {
-                $($($(this).parent().parent()).find(".nav-button-title")).html("<span>Our Global<span class='color-green'> Offices</span></span>");
+                $($($(this).parent().parent()).find(".nav-button-title")).php("<span>Our Global<span class='color-green'> Offices</span></span>");
             }
             else
             {
-                 $($($(this).parent().parent()).find(".nav-button-title")).html("<span>Our Clients <span class='color-green'>Location</span></span>");
+                 $($($(this).parent().parent()).find(".nav-button-title")).php("<span>Our Clients <span class='color-green'>Location</span></span>");
             }
             
             $(".global-location-container .tab-pane").removeClass("active");

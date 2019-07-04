@@ -244,8 +244,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="hire-angular-js-developer.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="hire-node-js-developer.html"><i class="fa fa-angle-right"></i></a>
+                <a href="hire-angular-js-developer.php" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="hire-node-js-developer.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 

@@ -145,7 +145,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="bots-framework.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a href="bots-framework.php" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
                 <a class="hero-banner-box-arrow-button right" href="#"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
@@ -317,7 +317,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
         
         <div class="explore-more-button-container">
-                    <a href="../company-page/inquire-now.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="../company-page/inquire-now.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text clr-change">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -350,7 +350,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         </h3>
         <p class="section-description area-of-focus-description color-white pd-10-0 fz-20 clanpro pdt-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
      <div class="explore-more-button-container">
-                    <a href="../company-page/inquire-now.html" class="explore-more-button clanpro dark-green color-white" target="_blank">
+                    <a href="../company-page/inquire-now.php" class="explore-more-button clanpro dark-green color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>

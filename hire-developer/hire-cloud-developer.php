@@ -275,7 +275,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
 <div class="hero-banner-box-button-container">
-                <a href="hire-front-end-developer.html" class="hero-banner-box-arrow-button left active "><i class="fa fa-angle-left"></i></a>
+                <a href="hire-front-end-developer.php" class="hero-banner-box-arrow-button left active "><i class="fa fa-angle-left"></i></a>
                 <a class="hero-banner-box-arrow-button right " href="#"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
@@ -548,7 +548,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         <p class="service-title pdb-21 clanpro-bold fz-48" target="_blank">Flexibility & Speed</p>
         <p class="service-description clanpro pd-15-0 fz-16 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
         <div class="explore-more-button-container">
-                    <a href="../company-page/inquire-now.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="../company-page/inquire-now.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -836,7 +836,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-12 related-service-block-container pd-30-30">
         <div class="related-service-block col">
-            <a href="../hire-developer/mobile-app-developer/hire-iphone-app-developer.html">
+            <a href="../hire-developer/mobile-app-developer/hire-iphone-app-developer.php">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -857,7 +857,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../hire-developer/mobile-app-developer/hire-ipad-app-developer.html">
+                                <a href="../hire-developer/mobile-app-developer/hire-ipad-app-developer.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -878,7 +878,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../hire-developer/mobile-app-developer/hire-android-app-developer.html">
+                                <a href="../hire-developer/mobile-app-developer/hire-android-app-developer.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -899,7 +899,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../hire-developer/mobile-app-developer/hire-cross-platform-app-developer.html">
+                                <a href="../hire-developer/mobile-app-developer/hire-cross-platform-app-developer.php">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -920,7 +920,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                        <a href="../hire-developer/mobile-app-developer/hire-swift-developer.html">
+                        <a href="../hire-developer/mobile-app-developer/hire-swift-developer.php">
                             <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->

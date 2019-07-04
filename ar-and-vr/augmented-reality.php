@@ -320,8 +320,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="../vr.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="virtual-reality.html"><i class="fa fa-angle-right"></i></a>
+                <a href="../vr.php" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="virtual-reality.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -357,11 +357,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     <div class="col-md-4 services-samples-links" style="min-height:663px;">
         <h3 class="section-heading color-white clanpro-bold align-left center fz-42" style="padding:0 42px; padding-top:75px; padding-bottom:40px">AR App Development Services</h3>
         <ul class="list services-samples-lists clanpro color-white fz-18">
-            <li class="active pd-10-0" data-link="/web-app-development/php-development.html"><span>Projection Based AR</span></li>
-            <li class="pd-10-0" data-link="/web-app-development/opensource-development.html"><span>Recoginition Based AR</span></li>
-            <li class="pd-10-0" data-link="/web-app-development/ror-development.html"><span>Outlining AR</span></li>
-             <li class="pd-10-0" data-link="/web-app-development/ror-development.html" ><span>Superimposition Based AR</span></li>
-              <li class="pd-10-0" data-link="/web-app-development/ror-development.html"><span>Location Based AR</span></li>
+            <li class="active pd-10-0" data-link="/web-app-development/php-development.php"><span>Projection Based AR</span></li>
+            <li class="pd-10-0" data-link="/web-app-development/opensource-development.php"><span>Recoginition Based AR</span></li>
+            <li class="pd-10-0" data-link="/web-app-development/ror-development.php"><span>Outlining AR</span></li>
+             <li class="pd-10-0" data-link="/web-app-development/ror-development.php" ><span>Superimposition Based AR</span></li>
+              <li class="pd-10-0" data-link="/web-app-development/ror-development.php"><span>Location Based AR</span></li>
         </ul>
         
     </div>
@@ -371,10 +371,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-4 service-sample-description pd-0-0 bg-gray" style="min-height:663;position:relative;">
         <div class="col-md-12 relative" style="min-height:663px; padding:47px 20px 40px 15px">
-        <a href="/web-app-development/php-development.html" class="service-title pdb-30 clanpro-bold fz-48">Projection Based AR</a>
+        <a href="/web-app-development/php-development.php" class="service-title pdb-30 clanpro-bold fz-48">Projection Based AR</a>
         <p class="service-description clanpro pd-15-0 fz-16 lh-24">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
         <div class="explore-more-button-container">
-                    <a href="/web-app-development/php-development.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="/web-app-development/php-development.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -625,7 +625,7 @@ App Development Solutions</h1>
         
     </div>
      <div class="explore-more-button-container" style="margin-left: 80px; top: 835px; width: 250px; height: 86px;">
-                    <a href="../company-page/inquire-now.html" class="explore-more-button clanpro color-white">
+                    <a href="../company-page/inquire-now.php" class="explore-more-button clanpro color-white">
             <div class="button-text" style="padding-left:10px; font-size:14px;">
              <div class="lets-explore align-right">Let's talk to our</div>
         <div class="more clanpro-bold uppercase align-right">Experts</div>

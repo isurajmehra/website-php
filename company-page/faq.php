@@ -318,7 +318,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
   
   
 </div>
-<p class="clanpro pd-0-15" style="margin-top:23px; font-size:18px;">Still cannot find answer you looking for? Please <a href="contact.html" style="text-decoration:none; color:#1fbba6">Contact Us</a></p>
+<p class="clanpro pd-0-15" style="margin-top:23px; font-size:18px;">Still cannot find answer you looking for? Please <a href="contact.php" style="text-decoration:none; color:#1fbba6">Contact Us</a></p>
         
     </div>
     

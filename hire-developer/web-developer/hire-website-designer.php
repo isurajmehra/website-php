@@ -235,7 +235,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="hire-codeignitor-developer.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a href="hire-codeignitor-developer.php" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
                 <a class="hero-banner-box-arrow-button right active" href="#"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
@@ -792,7 +792,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></
     </div>
     <div class="col-md-12" style="padding:38px 50px 18px;">
         <div class="related-service-block col">
-            <a href="hire-html5-developer.html">
+            <a href="hire-html5-developer.php">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -813,7 +813,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></
             
         </div>
                 <div class="related-service-block col">
-                                <a href="hire-magento-developer.html">
+                                <a href="hire-magento-developer.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -834,7 +834,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></
             
         </div>
                 <div class="related-service-block col">
-                                <a href="hire-php-developer.html">
+                                <a href="hire-php-developer.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -855,7 +855,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></
             
         </div>
                 <div class="related-service-block col">
-                                <a href="hire-wordpress-developer.html">
+                                <a href="hire-wordpress-developer.php">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->

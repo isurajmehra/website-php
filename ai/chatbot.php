@@ -98,8 +98,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         </ul>
                   </div>
             <div class="hero-banner-box-button-container">
-                <a href="machine-learning.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="alexa-app-development.html"><i class="fa fa-angle-right"></i></a>
+                <a href="machine-learning.php" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="alexa-app-development.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -130,8 +130,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     <div class="col-md-4 service-sample-link relative bg-green pd-30-0 pdl-10" style="min-height:586px;">
         <h3 class="section-heading color-white clanpro-bold align-left center pd-15-80 pdb-30 fz-45">Our Services</h3>
         <ul class="list service-sample-list clanpro color-white fz-18">
-            <li class="active pd-10-0" data-link="../chatbot-development/bots-framework.html">Bots Framework</li>
-            <li class="pd-10-0" data-link="../chatbot-development/bots-solutions.html">Bots Solutions</li>
+            <li class="active pd-10-0" data-link="../chatbot-development/bots-framework.php">Bots Framework</li>
+            <li class="pd-10-0" data-link="../chatbot-development/bots-solutions.php">Bots Solutions</li>
              </ul>
     
     </div>
@@ -141,10 +141,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-4 service-sample-description pd-0-0 bg-gray relative" style="min-height:586px">
         <div class="col-md-12 relative">
-        <a href="../chatbot-development/bots-framework.html" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Bots Framework</a>
+        <a href="../chatbot-development/bots-framework.php" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Bots Framework</a>
          <p class="service-description clanpro pd-15-0 fz-16 lh-24">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
         <div class="explore-more-button-container">
-                <a href="../chatbot-development/bots-framework.html" class="explore-more-button clanpro color-white" target="_blank">
+                <a href="../chatbot-development/bots-framework.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -299,7 +299,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
         
         <div class="explore-more-button-container">
-                    <a href="../company-page/inquire-now.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="../company-page/inquire-now.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text clr-change">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>

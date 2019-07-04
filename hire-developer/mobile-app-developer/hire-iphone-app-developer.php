@@ -249,7 +249,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
             <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="hire-ipad-app-developer.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="hire-ipad-app-developer.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -806,7 +806,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-12" style="padding:38px 50px 18px;">
         <div class="related-service-block col">
-            <a href="hire-android-app-developer.html" target="_blank">
+            <a href="hire-android-app-developer.php" target="_blank">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -827,7 +827,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="hire-ipad-app-developer.html" target="_blank">
+                                <a href="hire-ipad-app-developer.php" target="_blank">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -848,7 +848,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="hire-iphone-app-developer.html" target="_blank">
+                                <a href="hire-iphone-app-developer.php" target="_blank">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -869,7 +869,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="hire-window-app-developer.html" target="_blank">
+                                <a href="hire-window-app-developer.php" target="_blank">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -890,7 +890,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                        <a href="hire-cross-platform-app-developer.html" target="_blank">
+                        <a href="hire-cross-platform-app-developer.php" target="_blank">
                             <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
