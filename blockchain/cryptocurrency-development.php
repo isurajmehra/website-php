@@ -8,18 +8,102 @@
 <meta property="og:url" content="https://www.acropolisinfotech.com/">
 <meta property="og:type" content="website" />
 <meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
-<title>Acropolis | Apache Spark Application Development Services</title>
+<title>Cryptocurrency Development</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" type="image/png" href="../assets/img/fevicon/fevicon.png"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" media="none" onload="if(media!='all')media='all'" >
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href="../assets/css/web-development.css" rel="stylesheet" />
-<link href="../assets/css/mobile-style.css" rel="stylesheet" />
-
+<link rel="stylesheet" href="../assets/owl-carousel/dist/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="../assets/owl-carousel/dist/assets/owl.theme.default.min.css">
 <style type="text/css">
+
+    .services-samples-lists{
+        padding-left:0px;
+    }
+    .services-samples-links{
+        order:2;
+        background-color:#1FBBA6;
+        padding:0px;
+    }
+    .service-sample-image{ 
+        height:663px;
+        order:1;
+    }
+    
+    .service-sample-image img {
+    width: 100%;
+    max-width: 100%;
+    height: 663px;
+}
+    .service-sample-description{
+         
+        order:3;
+        flex-grow:1;
+    }
+     .services-samples-links ul li{
+        list-style:none;
+        padding:15px 0;
+    }
+    .services-samples-links ul li span{
+        padding-left:42px;
+        font-size:21px;
+        font-family:clanpro;
+        color: #fff;
+        transition: all 0.2s linear;
+        -webkit-transition: all 0.2s linear;
+        cursor: default;
+        display:block;
+    }
+    
+    .services-samples-links ul li.active{
+    color: #fff;
+    font-size: 18px;
+    background-color: #009E8C;
+}
+.services-samples-links ul li:hover span{
+    transform: translateX(8px);
+}
+
+
+.explore-more-button-container {
+   
+    bottom: 20px;
+    left:19px;
+   
+}
+    
+.image-icon{
+    
+    width: fit-content;
+    border: 1px solid #1fbba6;
+    margin: auto;
+    border-radius:50%;
+    padding: 16px;
     
 
-  
+}
+
+.image-icon img {
+    height:90px;
+    width:90;
+    
+}
+.plateform-title{
+    text-align:center;
+   padding-top:30px;
+   padding-bottom:100px;
+}
+
+#mining-algorithms .container .col-md-4 .col-md-12 p{
+    width:100%;
+    font-size:21px;
+    color:#444;
+    line-height: 36px;
+    margin: 0;
+    
+}
+
 </style>
 </head>
 <body>
@@ -32,7 +116,7 @@
                 <div class="scrolling-button"><span class="dot-circle one"></span>
                 <span class="dot-circle two"></span>
                 <span class="dot-circle three"></span></div>
-                    <div class="scrolling-list-container" style="top: -82px;">
+                    <div class="scrolling-list-container" style="top: -67px;">
         <ul class="scrolling-list relative">
             <div class="caret-right">
                 <img src="../assets/img/caret-right.png" alt="caret-right" />
@@ -45,7 +129,7 @@
 
 </div>
     <!-- opening of footer-fixed-component which include chat and contact detail -->
-  
+    
     
     
       <!-- opening of side-chat widget -->
@@ -57,7 +141,7 @@
     
 <!-- opening of container fluid -->
 <div  class="container-fluid">
- 
+
     
     
     
@@ -79,7 +163,7 @@
 <div class="row hero-banner scrolling-section" style="background-image:url(../assets/img/banner/php.jpg);">
     <div class="hero-banner-text-container">
         <div class="hero-banner-title-box pd-30-30">
-            <h3 class=" clanpro-bold fz-70 color-white pd-0-55">Apache Spark Applications Development</h3>
+            <h3 class=" clanpro-bold fz-50 color-white pd-0-55">Cryptocurrency Software And App Development Services</h3>
             
         </div>
         <div class="hero-banner-description-box pd-60-30 hero-banner-description-line">
@@ -87,14 +171,14 @@
 Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         </div>
     </div>
-   <div class="hero-banner-box">
+    <div class="hero-banner-box" >
         <div class="hero-banner-box-pagelink-container">
         <ul class="list list-inline hero-banner-box-list">
            
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="nosql-database.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a href="../blockchain.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
                 <a class="hero-banner-box-arrow-button right" href="#"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
@@ -104,22 +188,22 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
 <div class="row service-overview pd-60-0 relative page-section scrolling-section" id="overview">
     <div class="background-title">
-        <h3 class="web-services">Apache Spark</h3>
+        <h3 class="web-services" style="font-size:11.3em">Cryptocurrency</h3>
         
     </div>
     <div class="col-md-12">
-        <h1 class="service-page-title pd-0-60 align-center clanpro-bold fz-48">Apache Spark Development</h1>
+        <h1 class="service-page-title pd-0-60 align-center">Cryptocurrency Development Company</h1>
     </div>
     <div class="col-md-6 service-overview-stats pd-60">
-        <p class="pd-0-60 color-light-green clanpro fz-21 lh-40">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <p class="pd-0-60 color-light-green clanpro fz-21">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
         
     </div>
     <div class="col-md-6 service-overview-description pd-60">
-        <p class="pd-0-60 clanpro fz-21 lh-40">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <p class="pd-0-60 clanpro fz-21">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
         
     </div>
     <div class="col-md-12 pd-30-0">
-        <p class="pd-0-60 clanpro fz-21 lh-40">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <p class="pd-0-60 clanpro fz-21">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
         
     </div>
     
@@ -132,30 +216,61 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- opening of services setion -->
 
-<div class="row services-sample page-section scrolling-section mgb-90" id="services">
-    <div class="col-md-4 service-sample-link relative bg-green pd-30-0 pdl-10" style="min-height:586px; flex:1;">
-        <h3 class="section-heading color-white clanpro-bold align-left center pd-15-80 pdb-30 fz-45">Apache Spark Big Data Services</h3>
-        <ul class="list service-sample-list clanpro color-white fz-18">
-            <li class="active pd-10-0">Apache Spark Consulting</li>
-            <li class="pd-10-0">Apache Spark Implementation</li>
-            <li class="pd-10-0">Apache Spark Support</li>
-            
-            
+<div class="row services-samples page-section scrolling-section" id="services">
+    <div class="col-md-4 services-samples-links" style="min-height:663px;">
+        <h3 class="section-heading color-white clanpro-bold align-left center fz-42" style="padding:0 42px; padding-top:75px; padding-bottom:40px">Cryptocurrency Services</h3>
+        <ul class="list services-samples-lists">
+            <li class="active clanpro" data-link=""><span>Cryptocurrencies Consultation</span></li>
+            <li data-link=""><span>Crypto Wallet Development</span></li>
+            <li data-link=""><span>Crypto Coin Creation</span></li>
+            <li data-link=""><span>Crypto Coin Mining</span></li>
+             <li data-link=""><span>Initial Coin Offering (ICO)</span></li>
+             <li data-link=""><span>Cryptocurrency Exchange App Development</span></li>
+             
         </ul>
         
     </div>
-    <div class="col-md-4 service-sample-image  desktop-version pd-0-0" style="min-height:586px;">
+    <div class="col-md-4 service-sample-image pd-0-0" style="min-height:663px;">
         <img src="../assets/img/services-image/web-app.png" alt="Web App Development">
         
     </div>
-    <div class="col-md-4 service-sample-description relative pd-0-0 bg-gray" style="min-height:586px;">
-        <div class="col-md-12 relative">
-        <p class="service-title pdb-21 clanpro-bold fz-48" target="_blank">Apache Spark Consulting</p>
-        <p class="service-description clanpro pd-15-0 fz-16 lh-30">Apache Spark Consulting company offering professional web application development services in all PHP frameworks.</p>
+    <div class="col-md-4 service-sample-description pd-0-0 bg-gray" style="min-height:663;position:relative;">
+        <div class="col-md-12 relative" style="min-height:663px; padding:47px 20px 40px 15px">
+        <a href="#" class="service-title pdb-30 fz-48 clanpro-bold">Cryptocurrencies Consultation</a>
+        <p class="service-description clanpro pd-15-0 fz-16 lh-24">PHP development company offering professional web application development services in all PHP frameworks.</p>
         <div class="explore-more-button-container">
-                    <a href="../company-page/inquire-now.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="#" class="explore-more-button clanpro color-white">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -168,151 +283,163 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         
     </div>
 </div>
+
 <!-- closing of services setion -->
 
 
 
+<!-- opening of domain expertise -->
 
-<!-- opening of Basic need -->
- 
-<div class="row bg-gray basic-need pd-60-60 relative page-section scrolling-section why-acropolis" id="why-acropolis">
-    <div class="basic-point-container">
-        <h3>5 BASIC NEEDS</h3>
-        <h5>Center of Excellence</h5>
-        <p class="pd-0-0">Imparting demonstrable value to the business units</p>
-    </div>
-    <div class="col-md-4 col-md-offset-2 basic-need-image-section desktop-version">
-        <img src="../assets/img/center-of-excellence/basic-need-one.jpg" class="one" alt="Basic need of company">
-        <img src="../assets/img/center-of-excellence/basic-need-two.jpg" class="two" alt="Basic need of company">
-        <img src="../assets/img/center-of-excellence/basic-need-three.jpg" class="three" alt="Basic need of company">
-            <a href="#" class="download-pdf-button">Download</a>
+<div class="row domain-expertise pd-90-0 page-section scrolling-section" id="plateforms">
+    <h1 class="section-title align-center pd-30-0 clanpro-bold fz-48" style="margin-bottom:69px;">Cryptocoin Developemnt plateforms</h1>
+    <div class="container-fluid">
+       <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
+        <div class="col-md-2">
+           <div class="image-icon">
+           <img src="../assets/icons/services/education.svg" alt="icon">
+           </div>
+           <h3 class="plateform-title">ripple</h3>
+       </div>
         
+      
     </div>
-    <div class="col-md-3 pd-0-10">
-        <div class="col-md-12 pd-0-0">
-            <h3 class="color-green clanpro-bold mgb-30">Title</h3>
-            <p class="clanpro fz-18 mgb-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-            
-        </div>
-          <div class="col-md-12 pd-0-0">
-                 <h3 class="color-green clanpro-bold mgb-30">Title</h3>
-            <p class="clanpro fz-18 mgb-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-            
-        </div>
-          <div class="col-md-12 pd-0-0">
-                 <h3 class="color-green clanpro-bold mgb-30">Title</h3>
-            <p class="clanpro fz-18 mgb-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-            
-        </div>
-        
-    </div>
-    <div class="col-md-3 pd-0-10">
-          <div class="col-md-12 pd-0-0">  
-          <h3 class="color-green clanpro-bold mgb-30">Title</h3>
-            <p class="clanpro fz-18 mgb-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-            
-        </div>
-          <div class="col-md-12 pd-0-0">
-                 <h3 class="color-green clanpro-bold mgb-30">Title</h3>
-            <p class="clanpro fz-18 mgb-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-            
-        </div>
-        
-    </div>
+    
 </div>
 
-<!-- closing of Basic need -->
+<!-- closing of domain expertise -->
 
-<div class="row page-section relative pd-85-0 scrolling-section" id="client-speaks" style="min-height:550px;">
-    <img class="why-quote" src="../assets/img/quote.svg" alt="why-Quote" />
-    <div class="col-md-6 pd-120-120 relative" style="z-index:2;">
-        <h3 class="clanpro fz-48">Client</h3>
-        <h5 class="clanpro-bold green fz-48">Speaks</h5>
+<div class="row domain-expertise pd-90-0 page-section scrolling-section" id="mining-algorithms" style="padding-top:0px;">
+    <div class="container-fluid " style="padding:0;">
+        <div class="col-md-8 bg-green " style="max-width: 780px; height:195px;">
+            <h2 class="clanpro-bold" style="font-size:42px; color:#fff; margin-bottom:20px; padding-left:220px; padding-top:50px;">Cryptocurrency Mining <br>Algorithm</h2>
+        </div>
+        <div class="col-md-4">
+            
+        </div>
+    </div>
+    <div class="container" style="margin-top:35px">
+    <div class="col-md-4">
+        <div class="col-md-12">
+            <h2 class="clanpro-bold">Algorithm</h2>
+            <hr style="border-top: 5px solid #1fbba6">
+            <p class="clanpro">Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        </div>
         
     </div>
-    <div class="col-md-5 col-md-offset-0 client-speak-slider-container pd-60-0" style="position:static;" >
-        
-        <div id="myCarouselClientSpeak" class="carousel slide" data-ride="carousel" style="position:static;">
-                  <ol class="carousel-indicators slider-point">
-    <li data-target="#myCarouselClientSpeak" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarouselClientSpeak" data-slide-to="1"></li>
-    <li data-target="#myCarouselClientSpeak" data-slide-to="2"></li>
-  </ol>
-
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item active">
-            <div class="col-md-12 client-description">
-           <p>The price and the timeline quoted and the pre-sales consultation facilitated by Acropolis to build our application from scratch was the sole reason why they were initially hired by us. Now since our application has been completely delivered to us, I can proudly say we are very lucky to stumble upon Acropolis. They performed beyond our expectations and developed an excellent app.</p>
-           </div>
-                      
-            <div class="col-md-12 client-intro">
-          <h4 class="client-name green clanpro fz-22 lh-40">Emily Ruyle</h4>
-            <h6 class="client-company-name">New York, USA</h6>
-            </div>
+    <div class="col-md-4">
+        <div class="col-md-12">
+            <h2 class="clanpro-bold">Algorithm </h2>
+            <hr style="border-top: 5px solid #1fbba6">
+            <p class="clanpro">Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        </div>
         
     </div>
-
-    <div class="item">
-           
-            <div class="col-md-12 client-description">
-           <p>I enjoyed working with Acropolis. They are nimble and possess excellent communication skills. They helped us solving many technical problem and shaping our end product. They are responsive and handle support remarkably well. I recommend to use Acropolis to businesses/individuals to outsource their IT requirements.</p>
-           </div>
-                      
-            <div class="col-md-12 client-intro">
-          <h4 class="client-name green clanpro fz-22 lh-40">Jasper McHugh</h4>
-            <h6 class="client-company-name">Glasgow, UK</h6>
-            </div>
+    <div class="col-md-4">
+        <div class="col-md-12">
+            <h2 class="clanpro-bold">Algorithm</h2>
+            <hr style="border-top: 5px solid #1fbba6">
+            <p class="clanpro">Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            
+        </div>
+        
     </div>
-
-    <div class="item">
-           
-            <div class="col-md-12 client-description">
-           <p>I have been working with Acropolis on several projects for a long time and find them way ahead than other teams that I have worked in past. I own a digital web studio and have worked with them on different projects with different complexity level, but they continue to deliver amazing work consistently. I am very pleased with our association and will continue to test them with much more complex projects as the need arises.</p>
-           </div>
-                      
-            <div class="col-md-12 client-intro">
-          <h4 class="client-name green clanpro fz-22 lh-40">Gabrielle Shaw</h4>
-            <h6 class="client-company-name">Toronto, Canada</h6>
-            </div>
-    </div>
-  </div>
-</div>
     </div>
 </div>
-<!-- closing of client speack -->
-
-
-
 
 
 <!-- opening of Insights -->
+
 <div class="row insights page-section scrolling-section" id="insights">
     <div class="col-md-12 insights-client align-center pd-30-0 pdb-0">
         <h1 class="clanpro-bold color-green pd-10-0 fz-48">Acropolis Insights</h1>
+        <p class="clanpro" style="font-size:22px;">Lorem Ipsum is simply dummy</p>
         </div>
-        <!-- opening of insight container desktop version -->
-        <div class="col-md-12 insight-slider-container desktop-version">
+        <div class="col-md-12 insight-slider-container">
         <div id="myCarouselInsight" class="carousel slide" data-ride="carousel">
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
       
-    <div class="item">
+    <div class="item active">
         <div class="col-md-12 insight-divide pd-20-0">
-            <a href="https://www.acropolisinfotech.com/blog/why-should-you-hire-remote-team-for-software-development/" target="_blank">
+            <a href="#">
             <div class="col-md-4 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Why should you hire remote team for software development?</h3>
+                <h3 class="clanpro-bold">Lorem Ipsum is simply dummy text of the printing </h3>
             </div>
             </a>
-              <a href="https://www.acropolisinfotech.com/blog/why-wireframing-is-important-in-the-development-process/" target="_blank">
+              <a href="#">
             <div class="col-md-4 pd-60-0 client-content-box" style="border-left:none;">
-                <h3 class="clanpro-bold">Why Wireframing Is Important In the App Development Process?</h3>
+                <h3 class="clanpro-bold">Lorem Ipsum is simply dummy text of the printing </h3>
             </div>
             </a>
-            <a href="https://www.acropolisinfotech.com/blog/amazing-facts-to-know-about-wordpress/" target="_blank">
+            <a href="#">
             <div class="col-md-4 pd-60-0 client-content-box" style="border-left:none;">
-                <h3 class="clanpro-bold">Amazing Facts To Know About WordPress </h3>
+                <h3 class="clanpro-bold">Lorem Ipsum is simply dummy text of the printing </h3>
             </div>
             </a>
             
@@ -320,21 +447,21 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     </div>
 
-    <div class="item active">
+    <div class="item">
        <div class="col-md-12 insight-divide pd-20-0">
-            <a href="https://www.acropolisinfotech.com/blog/tips-to-hire-best-php-developer/" target="_blank">
+            <a href="#">
             <div class="col-md-4 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Tips To Hire Best PHP-Developer</h3>
+                <h3 class="clanpro-bold">Lorem Ipsum is simply dummy text of the printing </h3>
             </div>
             </a>
-              <a href="https://www.acropolisinfotech.com/blog/acropolis-recognized-as-top-custom-software-development-company-by-clutch/" target="_blank">
+              <a href="#">
             <div class="col-md-4 pd-60-0 client-content-box" style="border-left:none;">
-                <h3 class="clanpro-bold">Acropolis Recognized As Top Custom Software Development Company by Clutch </h3>
+                <h3 class="clanpro-bold">Lorem Ipsum is simply dummy text of the printing </h3>
             </div>
             </a>
-             <a href="https://www.acropolisinfotech.com/blog/custom-vs-commercial-software/" target="_blank">
+             <a href="#">
             <div class="col-md-4 pd-60-0 client-content-box" style="border-left:none;">
-                <h3 class="clanpro-bold">Custom Vs. Commercial Software</h3>
+                <h3 class="clanpro-bold">Lorem Ipsum is simply dummy text of the printing </h3>
             </div>
             </a>
       
@@ -343,19 +470,19 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
     <div class="item">
    <div class="col-md-12 insight-divide pd-20-0">
-       <a href="https://www.acropolisinfotech.com/blog/how-ui-is-different-from-ux">
+       <a href="#">
             <div class="col-md-4 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">How UI is Different from UX </h3>
+                <h3 class="clanpro-bold">Lorem Ipsum is simply dummy text of the printing </h3>
             </div>
             </a>
-              <a href="https://www.acropolisinfotech.com/blog/guide-to-hire-mobile-app-development-company">
+              <a href="#">
             <div class="col-md-4 pd-60-0 client-content-box" style="border-left:none;">
-                <h3 class="clanpro-bold">Guide to Hire Mobile App Development Company</h3>
+                <h3 class="clanpro-bold">Lorem Ipsum is simply dummy text of the printing </h3>
             </div>
             </a>
-            <a href="https://www.acropolisinfotech.com/blog/reason-to-choose-custom-software-for-your-business">
+            <a href="#">
             <div class="col-md-4 pd-60-0 client-content-box" style="border-left:none;">
-                <h3 class="clanpro-bold">Reason to choose custom Software for your Business</h3>
+                <h3 class="clanpro-bold">Lorem Ipsum is simply dummy text of the printing </h3>
             </div>
             </a>
       
@@ -381,116 +508,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
 </div>
 </div>
-<!-- closing of insight container desktop version -->
-
-<!-- opening of insight container mobile version -->
-<div class="col-md-12 insight-slider-container mobile-version">
-        <div id="myCarouselInsightMobile" class="carousel slide" data-ride="carousel">
-
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-      
-    <div class="item active">
-        <div class="col-md-12 insight-divide pd-20-0">
-            <a href="#">
-            <div class="col-sm-6 col-xs-6 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Why should you hire remote team for software development?</h3>
-            </div>
-            </a>
-             <a href="#">
-            <div class="col-sm-6 col-xs-6 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Why Wireframing Is Important In the App Development Process?</h3>
-            </div>
-            </a>
-            
-      
-    </div>
-    </div>
-      
-    <div class="item">
-       <div class="col-md-12 insight-divide pd-20-0">
-            <a href="#">
-            <div class="col-sm-6 col-xs-6 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Amazing Facts To Know About WordPress </h3>
-            </div>
-            </a>
-             <a href="#">
-            <div class="col-sm-6 col-xs-6 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Tips To Hire Best PHP-Developer</h3>
-            </div>
-            </a>
-      
-    </div>
-    </div>
-      
-    <div class="item">
-       <div class="col-md-12 insight-divide pd-20-0">
-            <a href="#">
-            <div class="col-sm-6 col-xs-6 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Acropolis Recognized As Top Custom Software Development Company by Clutch </h3>
-            </div>
-            </a>
-             <a href="#">
-            <div class="col-sm-6 col-xs-6 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Custom Vs. Commercial Software</h3>
-            </div>
-            </a>
-      
-    </div>
-    </div>
-
-    <div class="item">
-       <div class="col-md-12 insight-divide pd-20-0">
-            <a href="#">
-            <div class="col-sm-6 col-xs-6 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">How UI is Different from UX </h3>
-            </div>
-            </a>
-             <a href="#">
-            <div class="col-sm-6 col-xs-6 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Guide to Hire Mobile App Development Company</h3>
-            </div>
-            </a>
-      
-    </div>
-    </div>
-
-    <div class="item">
-   <div class="col-md-12 insight-divide pd-20-0">
-        <a href="#">
-            <div class="col-sm-6 col-xs-6 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Reason to Choose Custom Software for your Business</h3>
-            </div>
-            </a>
-             <a href="#">
-            <div class="col-sm-6 col-xs-6 pd-60-0 client-content-box">
-                <h3 class="clanpro-bold">Why should you hire remote team for software development?</h3>
-            </div>
-            </a>
-      
-    </div>
-    </div>
-            </div>
-    <div class="insight-arrow-button-container">
-            <a class="left" href="#myCarouselInsightMobile" data-slide="prev">
-        <div class="left">
-
-    <i class="fa fa-angle-left"></i>
-    <span class="sr-only">Previous</span>
-  </div>
-  </a>
-    <a class="right" href="#myCarouselInsightMobile" data-slide="next">
-  <div class="right">
-   <i class="fa fa-angle-right"></i>
-    <span class="sr-only">Next</span>
-  </div>
-    </a>
-  </div>
-
-
-</div>
-</div>
-<!-- closing of insight container mobile version -->
         
         
     </div>
@@ -498,14 +515,15 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     <!-- closing of Insights -->
     
 
-<div class="row related-services pd-20-0 align-center page-section scrolling-section relative pdb-0 mgt-25" id="related-services">
+
+<div class="row related-services pd-48-0 align-center relative page-section scrolling-section" id="related-services" style="padding-bottom:0px; margin-top:70px">
     <div class="col-md-12 related-line">
     <h3 class="related-title bg-green">RELATED SERVICES</h3>
     <div class="heading-under"></div>
     </div>
-    <div class="col-md-12 related-service-block-container pd-30-30">
+    <div class="col-md-12" style="padding:38px 50px 18px;">
         <div class="related-service-block col">
-            <a href="../big-data/hadoop.html" target="_blank">
+            <a href="../iot.html" target="_blank">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -520,13 +538,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </svg>
 
             </object>
-            <h4 class="related-service-title">Apache Hadoop</h4>
+            <h4 class="related-service-title">IOT <br>Solutions</h4>
             </div>
             </a>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../big-data/hive.html" target="_blank">
+                                <a href="../iot/smart-cities.html" target="_blank">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -541,13 +559,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </svg>
 
             </object>
-            <h4 class="related-service-title">Apache Hive</h4>
+            <h4 class="related-service-title">Smart<br>Cities</h4>
             </div>
             </a>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../big-data/apache-kafka.html" target="_blank">
+                                <a href="../wearable.html" target="_blank">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -562,13 +580,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </svg>
 
             </object>
-            <h4 class="related-service-title">Apache Kafka</h4>
+            <h4 class="related-service-title">Wearable Development</h4>
             </div>
             </a>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../big-data/nosql-database.html" target="blank">
+                                <a href="../cloud.html" target="_blank">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -583,13 +601,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </svg>
 
             </object>
-            <h4 class="related-service-title" style="width:80%">NOSQL Database</h4>
+            <h4 class="related-service-title" style="width:80%">Cloud &amp; <br> Devops</h4>
             </div>
             </a>
             
         </div>
                 <div class="related-service-block col">
-                        <a href="../big-data.html" target="_blank">
+                        <a href="../blockchain.html" target="_blank">
                             <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -604,7 +622,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </svg>
 
             </object>
-            <h4 class="related-service-title">Big Data</h4>
+            <h4 class="related-service-title">Blockchain Development</h4>
             </div>
             </a>
         </div>
@@ -613,15 +631,22 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </div>
 
 
-<!-- opening of start project section -->
+    
+    
+    
+    
+    <!-- opening of start project section -->
         <?php include '../template/footer-project.php'; ?>
-<!-- closing of start project section -->
+    <!-- closing of start project section -->
 
 
 
     <!-- opening of footer section -->
          <?php include '../template/footer.php'; ?>
     <!-- closing of footer section -->
+    
+   
+    
     
     
     
@@ -645,18 +670,54 @@ s0.parentNode.insertBefore(s1,s0);
 <script type="text/javascript" src="../assets/script/script.js">
 </script>
 
-
+<script src="../assets/owl-carousel/dist/owl.carousel.min.js"></script>
 <script type="text/javascript">
     $(document).ready(function()
     {
-       
-        var service_title=["Apache Spark Consulting","Apache Spark Implementation","Apache Spark Support"];
+       $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    autoplay:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:6
+        }
+    }
+})
+$('.owl-carousel.insights').owlCarousel({
+    loop:false,
+    margin:1,
+    nav:true,
+     responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+        
+        
+        var service_title=["Cryptocurrencies Consultation","Cryptocurrency Wallet Development","Crypto Coin Creation","Crypto Coin Mining","Initial Coin Offering (ICO)","Cryptocurrency Exchange App Development","NodeJs Development","ExpressJS Development"];
         var service_description=["Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."];
-        $(".service-sample-list li").on("mouseover",function()
+        $(".services-samples-lists li").on("mouseover",function()
         {
+            let link=$(this).attr("data-link");
+            $("#services .explore-more-button").attr("href",link);
+            $("#services .service-title").attr("href",link);
             
-            
-            $(".service-sample-list li").removeClass("active");
+            $(".services-samples-lists li").removeClass("active");
             $(this).addClass("active");
             var index=$(this).index();
             $(".service-title").text(service_title[index]);

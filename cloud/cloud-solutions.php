@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html>
 <head>
@@ -8,19 +9,16 @@
 <meta property="og:url" content="https://www.acropolisinfotech.com/">
 <meta property="og:type" content="website" />
 <meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
-<title>Acropolis | Apache Spark Application Development Services</title>
+<title>Custom Cloud Solutions|Cloud Consulting Services</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" type="image/png" href="../assets/img/fevicon/fevicon.png"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" media="none" onload="if(media!='all')media='all'" >
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href="../assets/css/web-development.css" rel="stylesheet" />
 <link href="../assets/css/mobile-style.css" rel="stylesheet" />
+<link rel="stylesheet" href="../assets/owl-carousel/dist/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="../assets/owl-carousel/dist/assets/owl.theme.default.min.css">
 
-<style type="text/css">
-    
-
-  
-</style>
 </head>
 <body>
         <!-- opening if scrolling-top-button -->
@@ -32,7 +30,7 @@
                 <div class="scrolling-button"><span class="dot-circle one"></span>
                 <span class="dot-circle two"></span>
                 <span class="dot-circle three"></span></div>
-                    <div class="scrolling-list-container" style="top: -82px;">
+                    <div class="scrolling-list-container">
         <ul class="scrolling-list relative">
             <div class="caret-right">
                 <img src="../assets/img/caret-right.png" alt="caret-right" />
@@ -45,7 +43,7 @@
 
 </div>
     <!-- opening of footer-fixed-component which include chat and contact detail -->
-  
+ 
     
     
       <!-- opening of side-chat widget -->
@@ -55,9 +53,8 @@
     
     
     
-<!-- opening of container fluid -->
 <div  class="container-fluid">
- 
+
     
     
     
@@ -76,10 +73,10 @@
     
     
     
-<div class="row hero-banner scrolling-section" style="background-image:url(../assets/img/banner/php.jpg);">
+<div class="row hero-banner scrolling-section" style="background-image:url(../assets/img/banner/cloud.png);">
     <div class="hero-banner-text-container">
         <div class="hero-banner-title-box pd-30-30">
-            <h3 class=" clanpro-bold fz-70 color-white pd-0-55">Apache Spark Applications Development</h3>
+            <h3 class=" clanpro-bold fz-60 color-white pd-0-55">Cloud Solutions</h3>
             
         </div>
         <div class="hero-banner-description-box pd-60-30 hero-banner-description-line">
@@ -94,66 +91,54 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="nosql-database.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a href="devops.html" class="hero-banner-box-arrow-button left active "><i class="fa fa-angle-left"></i></a>
                 <a class="hero-banner-box-arrow-button right" href="#"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
 </div>
-<!--opening of stats-secion-->
-
 <div class="row service-overview pd-60-0 relative page-section scrolling-section" id="overview">
     <div class="background-title">
-        <h3 class="web-services">Apache Spark</h3>
+        <h3 class=web-services>Cloud Solu.</h3>
         
     </div>
     <div class="col-md-12">
-        <h1 class="service-page-title pd-0-60 align-center clanpro-bold fz-48">Apache Spark Development</h1>
+        <h1 class="service-page-title pd-0-60 align-center clanpro-bold fz-48">Cloud Consulting Services</h1>
     </div>
     <div class="col-md-6 service-overview-stats pd-60">
-        <p class="pd-0-60 color-light-green clanpro fz-21 lh-40">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <p class="pd-0-60 color-light-green clanpro fz-21">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
         
     </div>
     <div class="col-md-6 service-overview-description pd-60">
-        <p class="pd-0-60 clanpro fz-21 lh-40">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <p class="pd-0-60 clanpro fz-21">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
         
     </div>
     <div class="col-md-12 pd-30-0">
-        <p class="pd-0-60 clanpro fz-21 lh-40">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <p class="pd-0-60 clanpro fz-21">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
         
     </div>
     
 </div>
-
-
-
-
-
-
-
-
-<!-- opening of services setion -->
-
-<div class="row services-sample page-section scrolling-section mgb-90" id="services">
-    <div class="col-md-4 service-sample-link relative bg-green pd-30-0 pdl-10" style="min-height:586px; flex:1;">
-        <h3 class="section-heading color-white clanpro-bold align-left center pd-15-80 pdb-30 fz-45">Apache Spark Big Data Services</h3>
-        <ul class="list service-sample-list clanpro color-white fz-18">
-            <li class="active pd-10-0">Apache Spark Consulting</li>
-            <li class="pd-10-0">Apache Spark Implementation</li>
-            <li class="pd-10-0">Apache Spark Support</li>
-            
-            
+<!--opening for services-->
+<div class="row services-sample page-section scrolling-section bg-green" id="capabilities">
+    <div class="col-md-4 service-sample-link pd-30-0" style="min-height:586px;padding-left:10px">
+        <h3 class="section-heading color-white clanpro-bold align-left center pdb-30 fz-45" style="padding:15px 80px;">Our Capabilities</h3>
+        <ul class="list service-sample-list clanpro fz-18 color-white">
+            <li class="active pd-10-0">Cloud Readiness Strategy</li>
+            <li class="pd-10-0">Cloud Infrastructure Services</li>
+            <li class="pd-10-0">Cloud Migration Services</li>
+            <li class="pd-10-0">Cloud Security</li>
         </ul>
+    </div>
+      <div class="col-md-4 service-sample-image pd-0-0" style="min-height:586px;">
+        <img src="../assets/img/services-image/cloud-services.jpg" alt="Cloud Development">
         
     </div>
-    <div class="col-md-4 service-sample-image  desktop-version pd-0-0" style="min-height:586px;">
-        <img src="../assets/img/services-image/web-app.png" alt="Web App Development">
-        
-    </div>
-    <div class="col-md-4 service-sample-description relative pd-0-0 bg-gray" style="min-height:586px;">
-        <div class="col-md-12 relative">
-        <p class="service-title pdb-21 clanpro-bold fz-48" target="_blank">Apache Spark Consulting</p>
-        <p class="service-description clanpro pd-15-0 fz-16 lh-30">Apache Spark Consulting company offering professional web application development services in all PHP frameworks.</p>
+    
+    <div class="col-md-4 service-sample-description pd-0-0 bg-gray" style="min-height:586px;position:relative;">
+        <div class="col-md-12 relative" style="min-height:586px;padding-top:45px;">
+        <a href="#" class="service-title pdb-30 clanpro-bold fz-48">Configuration Management</a>
+        <p class="service-description clanpro pd-15-0 fz-16 lh-24">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
         <div class="explore-more-button-container">
                     <a href="../company-page/inquire-now.html" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
@@ -168,61 +153,89 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         
     </div>
 </div>
-<!-- closing of services setion -->
-
-
-
-
-<!-- opening of Basic need -->
- 
-<div class="row bg-gray basic-need pd-60-60 relative page-section scrolling-section why-acropolis" id="why-acropolis">
-    <div class="basic-point-container">
-        <h3>5 BASIC NEEDS</h3>
-        <h5>Center of Excellence</h5>
-        <p class="pd-0-0">Imparting demonstrable value to the business units</p>
+<!--closing of services-->
+<!--opening for domain-->
+<div class="row domain-expertise pd-90-0 page-section scrolling-section" id="domain-expertise">
+    <h1 class="section-title align-center pd-30-0 clanpro-bold fz-48">Domain Expertise</h1>
+    <div class="domain-expertise-list align-center pd-30-0 owl-carousel domain">
+        <div class="item manufacture">
+            <div class="icon-container">
+        <img src="../assets/icons/services/manufacturing.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Manufacturing</h4>
+        </div>
+        <div class="item manufacture">
+            <div class="icon-container">
+        <img src="../assets/icons/services/healthcare.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Healthcare</h4>
+        </div>
+        <div class="item manufacture">
+              <div class="icon-container">
+        <img src="../assets/icons/services/energy.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Energy</h4>
+        </div>
+        <div class="item manufacture">
+              <div class="icon-container">
+        <img src="../assets/icons/services/education.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Education</h4>
+        </div>
+        <div class="item manufacture">
+              <div class="icon-container">
+        <img src="../assets/icons/services/media.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Media</h4>
+        </div>
+        <div class="item manufacture">
+              <div class="icon-container">
+        <img src="../assets/icons/services/retail.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Retail</h4>
+        </div>
+        <div class="item manufacture">
+              <div class="icon-container">
+           <img src="../assets/icons/services/manufacturing.svg" alt="manufacturing">
+           </div>
+           <h4 class="domain-expertise-title">Manufacturing</h4>
+           </div>
+           <div class="item manufacture">
+                 <div class="icon-container">
+        <img src="../assets/icons/services/healthcare.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Healthcare</h4>
+        </div>
+        <div class="item manufacture">
+              <div class="icon-container">
+        <img src="../assets/icons/services/energy.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Energy</h4>
+        </div>
+        <div class="item manufacture">
+              <div class="icon-container">
+        <img src="../assets/icons/services/education.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Education</h4>
+        </div>
+        <div class="item manufacture">
+              <div class="icon-container">
+        <img src="../assets/icons/services/media.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Media</h4>
+        </div>
+        <div class="item manufacture">
+              <div class="icon-container">
+        <img src="../assets/icons/services/retail.svg" alt="manufacturing">
+        </div>
+        <h4 class="domain-expertise-title">Retail</h4>
+        </div>
     </div>
-    <div class="col-md-4 col-md-offset-2 basic-need-image-section desktop-version">
-        <img src="../assets/img/center-of-excellence/basic-need-one.jpg" class="one" alt="Basic need of company">
-        <img src="../assets/img/center-of-excellence/basic-need-two.jpg" class="two" alt="Basic need of company">
-        <img src="../assets/img/center-of-excellence/basic-need-three.jpg" class="three" alt="Basic need of company">
-            <a href="#" class="download-pdf-button">Download</a>
-        
-    </div>
-    <div class="col-md-3 pd-0-10">
-        <div class="col-md-12 pd-0-0">
-            <h3 class="color-green clanpro-bold mgb-30">Title</h3>
-            <p class="clanpro fz-18 mgb-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-            
-        </div>
-          <div class="col-md-12 pd-0-0">
-                 <h3 class="color-green clanpro-bold mgb-30">Title</h3>
-            <p class="clanpro fz-18 mgb-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-            
-        </div>
-          <div class="col-md-12 pd-0-0">
-                 <h3 class="color-green clanpro-bold mgb-30">Title</h3>
-            <p class="clanpro fz-18 mgb-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-            
-        </div>
-        
-    </div>
-    <div class="col-md-3 pd-0-10">
-          <div class="col-md-12 pd-0-0">  
-          <h3 class="color-green clanpro-bold mgb-30">Title</h3>
-            <p class="clanpro fz-18 mgb-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-            
-        </div>
-          <div class="col-md-12 pd-0-0">
-                 <h3 class="color-green clanpro-bold mgb-30">Title</h3>
-            <p class="clanpro fz-18 mgb-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-            
-        </div>
-        
-    </div>
+    
 </div>
+<!--opening of stats-secion-->
 
-<!-- closing of Basic need -->
-
+<!-- opening of client speaks -->
 <div class="row page-section relative pd-85-0 scrolling-section" id="client-speaks" style="min-height:550px;">
     <img class="why-quote" src="../assets/img/quote.svg" alt="why-Quote" />
     <div class="col-md-6 pd-120-120 relative" style="z-index:2;">
@@ -281,17 +294,12 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
 </div>
 <!-- closing of client speack -->
-
-
-
-
-
-<!-- opening of Insights -->
+<!-- opening of client insights -->
 <div class="row insights page-section scrolling-section" id="insights">
     <div class="col-md-12 insights-client align-center pd-30-0 pdb-0">
         <h1 class="clanpro-bold color-green pd-10-0 fz-48">Acropolis Insights</h1>
         </div>
-        <!-- opening of insight container desktop version -->
+         <!-- opening of insight container desktop version -->
         <div class="col-md-12 insight-slider-container desktop-version">
         <div id="myCarouselInsight" class="carousel slide" data-ride="carousel">
 
@@ -381,9 +389,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
 </div>
 </div>
-<!-- closing of insight container desktop version -->
-
-<!-- opening of insight container mobile version -->
+     
+     
+     <!-- opening of insight container mobile version -->
 <div class="col-md-12 insight-slider-container mobile-version">
         <div id="myCarouselInsightMobile" class="carousel slide" data-ride="carousel">
 
@@ -490,22 +498,20 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
 </div>
 </div>
-<!-- closing of insight container mobile version -->
         
+           
         
     </div>
-    
-    <!-- closing of Insights -->
-    
-
-<div class="row related-services pd-20-0 align-center page-section scrolling-section relative pdb-0 mgt-25" id="related-services">
+<!-- closing of client insights -->
+<!--opening of related services-->
+<div class="row related-services pd-48-0 align-center relative page-section scrolling-section" id="related-services" style="padding-bottom:0px;padding-top:90px">
     <div class="col-md-12 related-line">
     <h3 class="related-title bg-green">RELATED SERVICES</h3>
     <div class="heading-under"></div>
     </div>
-    <div class="col-md-12 related-service-block-container pd-30-30">
+    <div class="col-md-12" style="padding:38px 50px 18px;">
         <div class="related-service-block col">
-            <a href="../big-data/hadoop.html" target="_blank">
+            <a href="../business-consulting.html">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -520,13 +526,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </svg>
 
             </object>
-            <h4 class="related-service-title">Apache Hadoop</h4>
+            <h4 class="related-service-title">Amazon Cloud Computing</h4>
             </div>
             </a>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../big-data/hive.html" target="_blank">
+                                <a href="../managed-services.html">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -541,13 +547,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </svg>
 
             </object>
-            <h4 class="related-service-title">Apache Hive</h4>
+            <h4 class="related-service-title">IOT Solutions</h4>
             </div>
             </a>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../big-data/apache-kafka.html" target="_blank">
+                                <a href="../enterprise-mobility.html">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -562,13 +568,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </svg>
 
             </object>
-            <h4 class="related-service-title">Apache Kafka</h4>
+            <h4 class="related-service-title">Wearable Development</h4>
             </div>
             </a>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../big-data/nosql-database.html" target="blank">
+                                <a href="../quality-assurance.html">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -583,13 +589,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </svg>
 
             </object>
-            <h4 class="related-service-title" style="width:80%">NOSQL Database</h4>
+            <h4 class="related-service-title" style="width:80%">Blockchain Development</h4>
             </div>
             </a>
             
         </div>
                 <div class="related-service-block col">
-                        <a href="../big-data.html" target="_blank">
+                        <a href="../product-engineering.html">
                             <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -604,24 +610,31 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </svg>
 
             </object>
-            <h4 class="related-service-title">Big Data</h4>
+            <h4 class="related-service-title">Big Data Solutions</h4>
             </div>
             </a>
         </div>
     </div>
     
 </div>
+<!--closing of related services-->
 
 
-<!-- opening of start project section -->
+    
+    
+    
+    
+    <!-- opening of start project section -->
         <?php include '../template/footer-project.php'; ?>
-<!-- closing of start project section -->
+    <!-- closing of start project section -->
 
 
 
     <!-- opening of footer section -->
          <?php include '../template/footer.php'; ?>
     <!-- closing of footer section -->
+    
+   
     
     
     
@@ -645,17 +658,49 @@ s0.parentNode.insertBefore(s1,s0);
 <script type="text/javascript" src="../assets/script/script.js">
 </script>
 
-
+<script src="../assets/owl-carousel/dist/owl.carousel.min.js"></script>
 <script type="text/javascript">
     $(document).ready(function()
     {
-       
-        var service_title=["Apache Spark Consulting","Apache Spark Implementation","Apache Spark Support"];
-        var service_description=["Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."];
+       $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    autoplay:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:6
+        }
+    }
+})
+$('.owl-carousel.insights').owlCarousel({
+    loop:false,
+    margin:1,
+    nav:true,
+     responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+        
+        
+        var service_title=["Cloud Readiness Strategy","Cloud Infrastructure Services","Cloud Migration Services","Cloud Security"];
+        var service_description=["Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."];
         $(".service-sample-list li").on("mouseover",function()
         {
-            
-            
             $(".service-sample-list li").removeClass("active");
             $(this).addClass("active");
             var index=$(this).index();
@@ -732,8 +777,6 @@ s0.parentNode.insertBefore(s1,s0);
     }
           
 });
-
-
     })
 </script>
 

@@ -281,8 +281,6 @@ color:#1fbba6;
     
     
     
-    <!-- opening of cookies banner -->
-    <!-- closing of cookies banner container -->
    <!-- opening of container fluid -->
 <div  class="container-fluid">
   
@@ -912,15 +910,22 @@ App Development Solutions</h1>
 <!-- closing of client insights -->
 
 
-<!-- opening of start project section -->
+    
+    
+    
+    
+    <!-- opening of start project section -->
         <?php include '../template/footer-project.php'; ?>
-<!-- closing of start project section -->
+    <!-- closing of start project section -->
 
 
 
     <!-- opening of footer section -->
          <?php include '../template/footer.php'; ?>
     <!-- closing of footer section -->
+    
+   
+    
     
     
     
