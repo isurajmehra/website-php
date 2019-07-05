@@ -129,7 +129,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
             <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="iot/smart-cities.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="iot/smart-cities.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -164,11 +164,11 @@ We build smart connected products that harness the power of machine learning and
     <div class="col-md-4 service-sample-link pd-30-0 bg-green pdl-10" style="min-height:586px">
         <h3 class="section-heading color-white clanpro-bold align-left center pd-15-80 pdb-30 fz-45">Internet Of Things Solutions</h3>
         <ul class="list service-sample-list clanpro color-white fz-18">
-            <li class="active pd-10-0" data-link="iot/smart-cities.html">Smart Cities</li>
-            <li class="pd-10-0" data-link="iot/home-automation.html">Home Automation</li>
-            <li class="pd-10-0" data-link="iot/energy-monitoring.html">Energy Monitoring</li>
-            <li class="pd-10-0" data-link="iot/entertainment-automation.html">Entertainment Automation</li>
-             <li class="pd-10-0" data-link="iot/infrastructure-automation.html">Infrastructure Automation</li>
+            <li class="active pd-10-0" data-link="iot/smart-cities.php">Smart Cities</li>
+            <li class="pd-10-0" data-link="iot/home-automation.php">Home Automation</li>
+            <li class="pd-10-0" data-link="iot/energy-monitoring.php">Energy Monitoring</li>
+            <li class="pd-10-0" data-link="iot/entertainment-automation.php">Entertainment Automation</li>
+             <li class="pd-10-0" data-link="iot/infrastructure-automation.php">Infrastructure Automation</li>
            
         </ul>
         
@@ -179,10 +179,10 @@ We build smart connected products that harness the power of machine learning and
     </div>
     <div class="col-md-4 service-sample-description pd-0-0 bg-gray relative" style="min-height:586px">
         <div class="col-md-12 relative">
-        <a href="iot/smart-cities.html" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Smart Cities</a>
+        <a href="iot/smart-cities.php" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Smart Cities</a>
         <p class="service-description clanpro pd-15-0 fz-16 lh-24">There are enough IOT applications that are improving nearly every aspect of urban living. IOTapplications are enhancing every service and reducing cost..</p>
         <div class="explore-more-button-container">
-                    <a href="iot/smart-cities.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="iot/smart-cities.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>

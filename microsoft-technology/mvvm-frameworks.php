@@ -79,8 +79,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="csharp-development.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="share-point-solutions.html"><i class="fa fa-angle-right"></i></a>
+                <a href="csharp-development.php" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="share-point-solutions.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 

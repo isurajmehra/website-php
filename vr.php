@@ -116,7 +116,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
              <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="ar-and-vr/augmented-reality.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="ar-and-vr/augmented-reality.php"><i class="fa fa-angle-right"></i></a>
         </div>
 
     </div>
@@ -150,8 +150,8 @@ This technology is currently used in industries like games, retail, sports and e
     <div class="col-md-4 service-sample-link relative pd-30-0 bg-green pdl-10" style="min-height:586px">
         <h3 class="section-heading color-white clanpro-bold align-left center pdb-30 fz-45 pd-15-80">Our <br> Services</h3>
         <ul class="list service-sample-list clanpro color-white fz-18">
-            <li class="active pd-10-0" data-link="ar-and-vr/augmented-reality.html">Augmented Reality</li>
-            <li class="pd-10-0" data-link="ar-and-vr/virtual-reality.html">Virtual Reality</li>
+            <li class="active pd-10-0" data-link="ar-and-vr/augmented-reality.php">Augmented Reality</li>
+            <li class="pd-10-0" data-link="ar-and-vr/virtual-reality.php">Virtual Reality</li>
            
         </ul>
         
@@ -162,10 +162,10 @@ This technology is currently used in industries like games, retail, sports and e
     </div>
     <div class="col-md-4 service-sample-description relative pd-0-0 bg-gray" style="min-height:586px">
         <div class="col-md-12 relative">
-        <a href="ar-and-vr/augmented-reality.html" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Augmented Reality</a>
+        <a href="ar-and-vr/augmented-reality.php" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Augmented Reality</a>
         <p class="service-description clanpro pd-15-0 fz-16 lh-24">AR is easily accessible and it can be easily used by various applications that run on your smartphones and tablets. For instance, you open your camera, the AR tech collaborates with the mobile app, adds a layer of data/ filter onto the application to aid the performance and enhance its outcome.</p>
         <div class="explore-more-button-container">
-                    <a href="ar-and-vr/augmented-reality.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="ar-and-vr/augmented-reality.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>

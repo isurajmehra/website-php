@@ -114,7 +114,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
             </div>
             <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="web-app-development/php-development.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="web-app-development/php-development.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -160,14 +160,14 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
     <div class="col-md-4 service-sample-link relative bg-green pd-30-0 pdl-10" style="min-height:586px;">
         <h3 class="section-heading color-white clanpro-bold align-left center pd-15-80 pdb-30 fz-45">Our Services</h3>
         <ul class="list service-sample-list clanpro color-white fz-18">
-            <li class="active pd-10-0" data-link="/web-app-development/php-development.html">PHP Development</li>
-            <li class="pd-10-0" data-link="/web-app-development/opensource-development.html">Opensource Development</li>
-            <li class="pd-10-0" data-link="/web-app-development/ror-development.html">ROR Development</li>
-            <li class="pd-10-0" data-link="/web-app-development/html5-development.html">HTML5 Development</li>
-             <li class="pd-10-0" data-link="/web-app-development/ajax-development.html">Ajax Development</li>
-            <li class="pd-10-0" data-link="/web-app-development/ui-development.html">UI/UX Development</li>
-            <li class="pd-10-0" data-link="/web-app-development/nodejs-development.html">NodeJs Development</li>
-            <li class="pd-10-0" data-link="/web-app-development/expressjs-development.html">ExpressJs Development</li>
+            <li class="active pd-10-0" data-link="/web-app-development/php-development.php">PHP Development</li>
+            <li class="pd-10-0" data-link="/web-app-development/opensource-development.php">Opensource Development</li>
+            <li class="pd-10-0" data-link="/web-app-development/ror-development.php">ROR Development</li>
+            <li class="pd-10-0" data-link="/web-app-development/html5-development.php">HTML5 Development</li>
+             <li class="pd-10-0" data-link="/web-app-development/ajax-development.php">Ajax Development</li>
+            <li class="pd-10-0" data-link="/web-app-development/ui-development.php">UI/UX Development</li>
+            <li class="pd-10-0" data-link="/web-app-development/nodejs-development.php">NodeJs Development</li>
+            <li class="pd-10-0" data-link="/web-app-development/expressjs-development.php">ExpressJs Development</li>
         </ul>
         
     </div>
@@ -177,10 +177,10 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
     </div>
     <div class="col-md-4 service-sample-description pd-0-0 bg-gray relative" style="min-height:586px">
         <div class="col-md-12 relative">
-        <a href="/web-app-development/php-development.html" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">PHP Development</a>
+        <a href="/web-app-development/php-development.php" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">PHP Development</a>
         <p class="service-description clanpro pd-15-0 fz-16 lh-24">PHP is a flexible and reliable platform and the PHP developers we have at Acropolis, are highly experienced and have in depth knowledge regarding their subject. PHP is used by a number of developers in our company. Our PHP developers have worked on the latest PHP frameworks and built websites with quality output to serve your business.</p>
         <div class="explore-more-button-container">
-                    <a href="/web-app-development/php-development.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="/web-app-development/php-development.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -401,7 +401,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
         <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -424,7 +424,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -446,7 +446,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -468,7 +468,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -490,7 +490,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -512,7 +512,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -534,7 +534,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
         
      </div>
@@ -555,7 +555,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -577,7 +577,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -599,7 +599,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -621,7 +621,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -643,7 +643,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -666,7 +666,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -688,7 +688,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -710,7 +710,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -732,7 +732,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -754,7 +754,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -1125,7 +1125,7 @@ $('.owl-carousel.insights').owlCarousel({
             "PHP is a flexible and reliable platform and the PHP developers we have at Acropolis, are highly experienced and have in depth knowledge regarding their subject. PHP is used by a number of developers in our company. Our PHP developers have worked on the latest PHP frameworks and built websites with quality output to serve your business.",
         "Open source development makes everything better for the developers as well as for the clients. Acropolis uses multiple open source development tools for developing better websites. Open source comes with no limits and no constraints if you want to further edit the code.",
         "Acropolis uses ROR, a full stack development framework from basic to heavy, complex websites for big organizations.ROR framework comes with an inbuilt testing environment. ROR developers at Acropolis can help you fulfil all your professional requirements.",
-        "Developers at Acropolis use browser friendly technologies like HTML5 which play an important role in web application development. HTML5 is used to create content that can work even when you are not connected to the Internet. Three codes are included in HTML5: HTML, CSS AND JavaScript.HTML- To provide structure.CSS- Provides presentation.JavaScript-  To implement complex things.Acropolis uses these technologies to give optimal performance.",
+        "Developers at Acropolis use browser friendly technologies like HTML5 which play an important role in web application development. HTML5 is used to create content that can work even when you are not connected to the Internet. Three codes are included in HTML5: HTML, CSS AND JavaScript.php- To provide structure.CSS- Provides presentation.JavaScript-  To implement complex things.Acropolis uses these technologies to give optimal performance.",
         "AJAX development helps you to increase the speed of website. AJAX has fantastic features and has AJAX control toolkit. AJAX development helps you to create fast and dynamic web pages. AJAX makes web applications more interactive.",
         "Acropolis has highly skilled and experienced UI/UX developers. UI/UX designers use latest technologies to give your web application a brand new and professional look. Developers at Acropolis provide you user friendly, responsive websites.",
         "Express is minimal and flexible Node.js web application framework that provides a huge variety of features for web application development. Acropolis focuses onclient preferences and priorities,in order to deliver the desired, best quality projects."];

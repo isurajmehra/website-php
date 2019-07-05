@@ -243,7 +243,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
             <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="../partnership-page/affiliate-partner.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="../partnership-page/affiliate-partner.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 

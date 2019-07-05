@@ -42,7 +42,7 @@
   ],
   "potentialAction": {     
     "@type": "SearchAction",     
-    "target": "http://www.acropolisinfotech.com/search.html?q={search_term_string}",
+    "target": "http://www.acropolisinfotech.com/search.php?q={search_term_string}",
     "query-input": "required name=search_term_string"   
   } 
 }]
@@ -372,8 +372,8 @@ body #hubspot-messages-iframe-container.widget-align-right{
     <h1 class="hero-banner-title clanpro-bold"></h1>
     <h2 class="hero-banner-paragraph pd-10-0 fz-24 clanpro">We Create Market Leading Digital Products, Platforms & Experiences that Transform Businesses</h2>
     <div class="col-md-12 pd-10-0" >
-      <a href="company-page/inquire-now.html" class="get-in-touch mg-0-20">Get in touch</a>
-      <a href="our-services.html" class="our-services">Our services</a>
+      <a href="company-page/inquire-now.php" class="get-in-touch mg-0-20">Get in touch</a>
+      <a href="our-services.php" class="our-services">Our services</a>
     </div>
   </div>
 </div>
@@ -497,7 +497,7 @@ body #hubspot-messages-iframe-container.widget-align-right{
                    </li>
                  </ul>
                       <div class="consult">
-                          <a href="company-page/inquire-now.html" class="{{service_hover_class}}"> Consult With Us
+                          <a href="company-page/inquire-now.php" class="{{service_hover_class}}"> Consult With Us
                           </a>
                       </div>
               </div>  
@@ -523,7 +523,7 @@ globe.</p>
         <ul class="list list-inline">
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/healthcare.html"><svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg1" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
+            <li class="industry-icon"><a href="industries-page/healthcare.php"><svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg1" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
 		<path id="SVGID_1_" fill="#1FBBA6" d="M56.064,28.948h-4.652c1.934-4.362,1.727-7.893,0.992-10.282    c-1.254-4.259-5.489-8.881-11.764-8.881c-1.674,0-3.348,0.312-5.072,0.935c-2.979,1.089-4.967,2.285-5.856,2.908    c-0.888-0.623-2.823-1.818-5.856-2.908c-1.725-0.624-3.45-0.935-5.071-0.935c-6.275,0-10.509,4.622-11.766,8.881    c-0.73,2.543-0.992,6.388,1.465,11.217H2.837C2.367,29.883,2,30.248,2,30.714c0,0.468,0.366,0.832,0.837,0.832h6.64    c0.262,0.468,0.575,0.935,0.941,1.402c5.438,7.79,17.255,16.255,19.398,16.774v0.053c0,0,0.054,0,0.104-0.053    c0.053,0,0.104,0,0.157,0V49.67c1.83-0.884,13.176-8.154,19.137-16.775c0.575-0.778,1.046-1.559,1.466-2.336h5.489    c0.472,0,0.837-0.365,0.837-0.832C57.007,29.261,56.536,28.948,56.064,28.948L56.064,28.948z M47.698,32.014    c-5.541,8.049-15.737,14.541-17.933,15.943c-2.25-1.402-12.393-7.946-17.988-15.943c-0.104-0.156-0.21-0.312-0.314-0.468h7.687    c0.313,0,0.626-0.155,0.784-0.468l3.503-6.855l5.49,13.97c0.104,0.313,0.47,0.52,0.783,0.52c0,0,0,0,0.055,0    c0.365,0,0.678-0.261,0.782-0.624l4.812-16.359l2.563,8.257c0.104,0.312,0.366,0.52,0.68,0.572    c0.313,0.053,0.629-0.104,0.836-0.365l2.041-2.959l1.726,2.908c0.155,0.26,0.417,0.416,0.731,0.416h4.705    C48.327,31.078,48.014,31.546,47.698,32.014L47.698,32.014z M49.581,28.948h-5.124l-2.145-3.636    c-0.155-0.259-0.418-0.415-0.73-0.415c-0.314,0-0.575,0.104-0.732,0.363l-1.777,2.596l-2.875-9.296    c-0.104-0.363-0.471-0.572-0.838-0.623c-0.365,0-0.731,0.26-0.836,0.623l-4.861,16.67L24.38,21.833    c-0.104-0.311-0.419-0.519-0.732-0.519c-0.366,0-0.628,0.156-0.784,0.467l-4.131,8.05h-8.314    c-2.091-3.792-2.667-7.427-1.725-10.698c1.099-3.688,4.706-7.634,10.144-7.634c1.464,0,2.981,0.31,4.497,0.831    c3.816,1.402,5.856,3.012,5.907,3.012c0.314,0.259,0.732,0.259,1.046,0c0,0,2.04-1.61,5.909-3.012    c1.517-0.572,3.033-0.831,4.496-0.831c5.386,0,9.045,3.946,10.144,7.634C51.727,22.146,51.255,25.468,49.581,28.948L49.581,28.948    z"></path>
@@ -537,7 +537,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/eCommerce.html">
+            <li class="industry-icon"><a href="industries-page/eCommerce.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg3" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -552,7 +552,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/education.html">
+            <li class="industry-icon"><a href="industries-page/education.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg2" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -567,7 +567,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/energy.html">
+            <li class="industry-icon"><a href="industries-page/energy.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg7" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -582,7 +582,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/real-estate.html">
+            <li class="industry-icon"><a href="industries-page/real-estate.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg9" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -597,7 +597,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/travel-and-hospitality.html">
+            <li class="industry-icon"><a href="industries-page/travel-and-hospitality.php">
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="56.068" height="59.998" preserveAspectRatio="xMidYMid" viewBox="0 0 856 916" xmlns="http://www.w3.org/2000/svg">
 <defs>
@@ -626,7 +626,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/media-and-entertainment.html">
+            <li class="industry-icon"><a href="industries-page/media-and-entertainment.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg11" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -641,7 +641,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/retail.html">
+            <li class="industry-icon"><a href="industries-page/retail.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg5" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -656,7 +656,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-            <li class="industry-icon"><a href="industries-page/social-networking.html">
+            <li class="industry-icon"><a href="industries-page/social-networking.php">
                 <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg4" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -671,7 +671,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-             <li class="industry-icon"><a href="industries-page/manufacturing.html">
+             <li class="industry-icon"><a href="industries-page/manufacturing.php">
                  <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg6" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -686,7 +686,7 @@ globe.</p>
             </li>
             <li>
             <ul class="list industry-icon-list">
-              <li class="industry-icon"><a href="industries-page/logistics-and-distribution.html">
+              <li class="industry-icon"><a href="industries-page/logistics-and-distribution.php">
                   <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" id="imgsvg10" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve" class="svg replaced-svg">
 <g>
 	<g>
@@ -974,10 +974,10 @@ My experience outsourcing web development to acropolis was a good one. They hand
     <!-- opening of clutch review container -->
 
 <div class="col-md-12 clutch-review-container align-center pd-20-0">
-    <a href="company-page/client-testimonial.html" target="_blank" class="clutch-review-button get-in-touch">All Reviews</a>
+    <a href="company-page/client-testimonial.php" target="_blank" class="clutch-review-button get-in-touch">All Reviews</a>
      <a href="https://www.facebook.com/pg/acropolisinfotechprivatelimited/reviews/" target="_blank" class="clutch-review-button get-in-touch">Facebook Reviews</a>
       <a href="https://www.google.com/search?q=acropolis+infotech&rlz=1C1CHBF_enIN763IN763&oq=acropolis+infotech&aqs=chrome.0.35i39j69i60l3j0l2.5104j0j7&sourceid=chrome&ie=UTF-8#lrd=0x390ce1fb44618b65:0x8e06b2a6128352d1,1" target="_blank" class="clutch-review-button get-in-touch">Google Reviews</a>
-       <a href="company-page/certification.html#clutch-review" target="_blank" class="clutch-review-button get-in-touch">Clutch Reviews</a>
+       <a href="company-page/certification.php#clutch-review" target="_blank" class="clutch-review-button get-in-touch">Clutch Reviews</a>
     
 </div>
 <!-- closing of clutch  review container -->
@@ -1300,7 +1300,7 @@ My experience outsourcing web development to acropolis was a good one. They hand
                 <button type="submit" name="submit" class="submit-button">Submit</button>
             </div>
             <div class="form-group">
-                <p class="privacy-statement pd-10-0">By submitting this form, you agree to our <a href="privacy-policy.html" target="_blank"> privacy policy.</a>
+                <p class="privacy-statement pd-10-0">By submitting this form, you agree to our <a href="privacy-policy.php" target="_blank"> privacy policy.</a>
                 </p>
             </div>
             </form>
@@ -1308,7 +1308,7 @@ My experience outsourcing web development to acropolis was a good one. They hand
         <div class="col-md-7 col-md-offset-5  offset-md-6 lets-talk align-left pd-120-0 position-relative lets-talk-position" style="margin-top:-20px;">
               <h3 class="section-title contact-title fz-48 clanpro-bold">Contact Us</h3>
             <h5 class="section-description fz-32 pd-0-0">Let's Talk to expand possiblities</h5>
-            <a href="company-page/inquire-now.html" class="get-in-touch">Get in touch</a>
+            <a href="company-page/inquire-now.php" class="get-in-touch">Get in touch</a>
 
         </div>
             <div class="col-md-12 position-relative contact-detail">
@@ -1753,8 +1753,8 @@ var setClicking=function(value)
            navSpeed:2500//left and right padding on item
 })
 console.log($(".testmonial-box-container .owl-next span").text());
-$(".owl-next").html('<img src="assets/img/right-arrow.png" class="testimonial-right" alt="Arrow Right">');
-$(".owl-prev").html('<img src="assets/img/left-arrow.png" class="testimonial-left" alt="Arrow Right">');
+$(".owl-next").php('<img src="assets/img/right-arrow.png" class="testimonial-right" alt="Arrow Right">');
+$(".owl-prev").php('<img src="assets/img/left-arrow.png" class="testimonial-left" alt="Arrow Right">');
 
     })
 </script>

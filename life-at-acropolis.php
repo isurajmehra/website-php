@@ -638,8 +638,8 @@ $(document).ready(function()
     }
     $(".event-container").on("click",function()
     {
-                   $("#myModalGallery .modal-slider-container").html(" ");
-                   $("#myModalGallery .thumbnail-container").html(" ");
+                   $("#myModalGallery .modal-slider-container").php(" ");
+                   $("#myModalGallery .thumbnail-container").php(" ");
         //get all the images in event-slider-container 
         let images=$(this).find(".event-slider-container > img");
         total_image=$(images).length;

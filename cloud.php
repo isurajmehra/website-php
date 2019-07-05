@@ -96,7 +96,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
             <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="cloud/devops.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="cloud/devops.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -127,8 +127,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     <div class="col-md-4 service-sample-link pd-30-0 bg-green" style="min-height:586px;padding-left:10px">
         <h3 class="section-heading color-white clanpro-bold align-left center pd-15-80 pdb-30 fz-45">DevOps Solutions and Services</h3>
         <ul class="list service-sample-list clanpro color-white fz-18">
-            <li class="active pd-10-0" data-link="cloud/devops.html">DeveOps</li>
-            <li class="pd-10-0" data-link="cloud/cloud-solutions.html">Cloud</li>
+            <li class="active pd-10-0" data-link="cloud/devops.php">DeveOps</li>
+            <li class="pd-10-0" data-link="cloud/cloud-solutions.php">Cloud</li>
             
         </ul>
         
@@ -142,10 +142,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-4 service-sample-description pd-0-0 bg-gray" style="min-height:586px;position:relative;">
         <div class="col-md-12 relative" >
-        <a href="cloud/devops.html" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">DeveOps</a>
+        <a href="cloud/devops.php" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">DeveOps</a>
         <p class="service-description clanpro pd-15-0 fz-16 lh-24">DevOps is a combination of two words i.e. Developers and Operations. DevOps has been developed to create a culture that may foster collaboration and Integration between the Development & the Operation teams. Our team creates a flexible and agile environment using DevOps to meet business requirements such as streamlined processes and powerful software that are faster and more efficient. Acropolis�fs DevOps consulting services give rise to a continuous workflow from development to operations to ensure updation of software/ apps as per the latest market trends.</p>
         <div class="explore-more-button-container">
-                    <a href="cloud/devops.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="cloud/devops.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -372,7 +372,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -395,7 +395,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -417,7 +417,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -439,7 +439,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -461,7 +461,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -483,7 +483,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -505,7 +505,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
         
      </div>
@@ -526,7 +526,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -548,7 +548,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -570,7 +570,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -592,7 +592,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -614,7 +614,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -637,7 +637,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -659,7 +659,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -681,7 +681,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -703,7 +703,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -725,7 +725,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           

@@ -174,7 +174,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
             <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button  left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="../blockchain/cryptocurrency-development.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="../blockchain/cryptocurrency-development.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -205,7 +205,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     <div class="col-md-4 service-sample-link pd-30-0 bg-green" style="min-height:586px;">
          <h3 class="section-heading color-white clanpro-bold align-left center pd-15-80 pdb-30 fz-45">Our Services</h3>
         <ul class="list service-sample-list clanpro color-white fz-18">
-            <li class="active pd-10-0" data-link="blockchain/cryptocurrency-development.html">Cryptocurrency</li>
+            <li class="active pd-10-0" data-link="blockchain/cryptocurrency-development.php">Cryptocurrency</li>
          
         </ul>
         
@@ -220,10 +220,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-4 service-sample-description pd-0-0 bg-gray" >
         <div class="col-md-12 relative" >
-        <a href="blockchain/cryptocurrency-development.html" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Cryptocurrency</a>
+        <a href="blockchain/cryptocurrency-development.php" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Cryptocurrency</a>
         <p class="service-description clanpro pd-15-0 fz-16 lh-24">PHP development company offering professional web application development services in all PHP frameworks.</p>
         <div class="explore-more-button-container">
-                    <a href="../blockchain/cryptocurrency-development.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="../blockchain/cryptocurrency-development.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -402,7 +402,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
             
             <div class="explore-more-button-container">
-                    <a href="../company-page/inquire-now.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="../company-page/inquire-now.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text clr-change">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>

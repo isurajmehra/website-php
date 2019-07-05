@@ -216,7 +216,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
             </div>
            <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="web-development.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="web-development.php"><i class="fa fa-angle-right"></i></a>
         </div>
            
     </div>
@@ -247,7 +247,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
 <!--opening of hire-developer container -->
 <div class="row hire-developer page-section scrolling-section" id="business-solutions">
     <div class="col-md-4 hire-mobile-app-developer hiring-box relative mgb-30">
-         <a href="https://www.acropolisinfotech.com/industries-page/healthcare.html">
+         <a href="https://www.acropolisinfotech.com/industries-page/healthcare.php">
         <img src="assets/img/banner/web-develoment.jpg" alt="Healthcare">
         <div class="hire-developer-description">
            
@@ -266,7 +266,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
         
     </div>
     <div class="col-md-4 hire-web-app-developer hiring-box mgb-30 relative">
-        <a href="https://www.acropolisinfotech.com/industries-page/education.html">
+        <a href="https://www.acropolisinfotech.com/industries-page/education.php">
                 <img src="assets/img/banner/web-develoment.jpg" alt="Hire developer">
                         <div class="hire-developer-description">
                                          <div class="hire-developer-overlay">
@@ -283,7 +283,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
         
     </div>
     <div class="col-md-4 hire-microsoft-developer hiring-box mgb-30 relative">
-        <a href="https://www.acropolisinfotech.com/industries-page/eCommerce.html">
+        <a href="https://www.acropolisinfotech.com/industries-page/eCommerce.php">
                 <img src="assets/img/banner/web-develoment.jpg" alt="Hire developer">
                         <div class="hire-developer-description">
                                      <div class="hire-developer-overlay">
@@ -300,7 +300,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
         
     </div>
     <div class="col-md-4 hiring-box hire-front-end-developer relative mgb-30">
-        <a href="https://www.acropolisinfotech.com/industries-page/social-networking.html">
+        <a href="https://www.acropolisinfotech.com/industries-page/social-networking.php">
                     <img src="assets/img/banner/web-develoment.jpg" alt="Hire developer">
                             <div class="hire-developer-description">
                                           <div class="hire-developer-overlay">
@@ -317,7 +317,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
         
     </div>
     <div class="col-md-4 hire-cloud-developer hiring-box relative mgb-30">
-        <a href="https://www.acropolisinfotech.com/industries-page/retail.html">
+        <a href="https://www.acropolisinfotech.com/industries-page/retail.php">
                     <img src="assets/img/banner/web-develoment.jpg" alt="Hire developer">
                             <div class="hire-developer-description">
                                 <div class="hire-developer-overlay">
@@ -334,7 +334,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
         
     </div>
     <div class="col-md-4 hiring-box hire-front-end-developer relative mgb-30">
-        <a href="https://www.acropolisinfotech.com/industries-page/manufacturing.html">
+        <a href="https://www.acropolisinfotech.com/industries-page/manufacturing.php">
                     <img src="assets/img/banner/web-develoment.jpg" alt="Hire developer">
                             <div class="hire-developer-description">
                                           <div class="hire-developer-overlay">
@@ -351,7 +351,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
         
     </div>
     <div class="col-md-4 hiring-box hire-front-end-developer relative mgb-30">
-        <a href="https://www.acropolisinfotech.com/industries-page/energy.html">
+        <a href="https://www.acropolisinfotech.com/industries-page/energy.php">
                     <img src="assets/img/banner/web-develoment.jpg" alt="Hire developer">
                             <div class="hire-developer-description">
                                           <div class="hire-developer-overlay">
@@ -368,7 +368,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
         
     </div>
     <div class="col-md-4 hiring-box hire-front-end-developer relative mgb-30">
-        <a href="https://www.acropolisinfotech.com/industries-page/travel-and-hospitality.html">
+        <a href="https://www.acropolisinfotech.com/industries-page/travel-and-hospitality.php">
                     <img src="assets/img/banner/web-develoment.jpg" alt="Hire developer">
                             <div class="hire-developer-description">
                                           <div class="hire-developer-overlay">
@@ -385,7 +385,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
         
     </div>
     <div class="col-md-4 hiring-box hire-front-end-developer relative mgb-30">
-        <a href="https://www.acropolisinfotech.com/industries-page/real-estate.html">
+        <a href="https://www.acropolisinfotech.com/industries-page/real-estate.php">
                     <img src="assets/img/banner/web-develoment.jpg" alt="Hire developer">
                             <div class="hire-developer-description">
                                           <div class="hire-developer-overlay">
@@ -401,7 +401,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
         </a>
         </div>
               <div class="col-md-4 hire-web-app-developer hiring-box mgb-30 relative">
-        <a href="https://www.acropolisinfotech.com/industries-page/media-and-entertainment.html">
+        <a href="https://www.acropolisinfotech.com/industries-page/media-and-entertainment.php">
                     <img src="assets/img/banner/web-develoment.jpg" alt="Hire developer">
                             <div class="hire-developer-description">
                                           <div class="hire-developer-overlay">
@@ -418,7 +418,7 @@ Acropolis helps you to build from very small websites to large scale Ecommerce w
     </div>
     
         <div class="col-md-4 hiring-box hire-front-end-developer relative mgb-30">
-        <a href="https://www.acropolisinfotech.com/industries-page/logistics-and-distribution.html">
+        <a href="https://www.acropolisinfotech.com/industries-page/logistics-and-distribution.php">
                     <img src="assets/img/banner/web-develoment.jpg" alt="Hire developer">
                             <div class="hire-developer-description">
                                           <div class="hire-developer-overlay">

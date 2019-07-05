@@ -80,8 +80,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="share-point-solutions.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="windows-azure-solutions.html"><i class="fa fa-angle-right"></i></a>
+                <a href="share-point-solutions.php" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="windows-azure-solutions.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
