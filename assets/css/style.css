@@ -382,6 +382,23 @@ background-color:#1fbba6;
 .align-right{
     text-align:right;
 }
+.pagelink-list{
+    display: inline-flex;
+}
+.pagelink-list > li{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.pagelink-list > li.active::after{
+    width: 100%;
+}
+.pagelink-list > li.dropdown{
+    cursor: pointer;
+}
+.pagelink-list > li.dropdown.active,.pagelink-list li.dropdown:hover{
+    color:#1fbba6;
+}
 .pagelink-list > li.dropdown{
     cursor: pointer;
 }
@@ -418,6 +435,10 @@ background-color:#1fbba6;
     font-family: clanpro-bold;
     text-transform: uppercase;
 }
+.pagelink-list li.dropdown>a:hover,.dropdown > a:focus,.dropdown > a:active{
+    text-decoration:none;
+    color:#1fbba6;
+}
 .pagelink-list >li{
     display: flex;
     align-items: center;
@@ -428,6 +449,11 @@ background-color:#1fbba6;
 .pagelink-list > li:nth-child(4):hover a,.pagelink-list > li:nth-child(6):hover a,.pagelink-list > li:nth-child(6):focus a,.pagelink-list > li:nth-child(7):focus a,.pagelink-list > li:nth-child(7):hover a{
     color:#1fbba6;
     text-decoration:none;
+}
+.pagelink-list > li:nth-child(8):focus a,.pagelink-list > li:nth-child(8):hover a{
+    color: #1fbba6;
+    text-decoration: none;
+    background-color: #fff;
 }
 
 li.border-blue:hover {
