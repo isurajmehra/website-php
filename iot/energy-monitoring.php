@@ -665,20 +665,38 @@ Solutions</h1>
 </div>
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<!--Start of Tawk.to Script-->
 <script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5bb5ad91b033e9743d0235ca/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
+    $(document).ready(function()
+    {
+        function loadScript( url, callback ) {
+  var script = document.createElement( "script" )
+  script.type = "text/javascript";
+  if(script.readyState) {  // only required for IE <9
+    script.onreadystatechange = function() {
+      if ( script.readyState === "loaded" || script.readyState === "complete" ) {
+        script.onreadystatechange = null;
+        callback();
+      }
+    };
+  } else {  //Others
+    script.onload = function() {
+      callback();
+    };
+  }
+
+  script.src = url;
+  document.getElementsByTagName( "head" )[0].appendChild( script );
+}
+
+
+// call the function...
+loadScript("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js", function() {
+  console.log("Bootstrap Js Ready");
+$('[data-toggle="close-dropdown"]').tooltip(); 
+});
+    })
 </script>
-<!--End of Tawk.to Script-->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5983955.js"></script>
 <script type="text/javascript" src="../assets/script/script.js">
 </script>
 
