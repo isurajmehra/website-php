@@ -238,8 +238,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
 <div class="hero-banner-box-button-container">
-                <a href="chatbot.html" class="hero-banner-box-arrow-button  active left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="ai.html"><i class="fa fa-angle-right"></i></a>
+                <a href="chatbot.php" class="hero-banner-box-arrow-button  active left "><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="ai.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -495,7 +495,7 @@ Payments</p></li>
         <p class="section-description area-of-focus-description color-white pd-10-0 fz-20 clanpro pdt-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
         
        <div class="explore-more-button-container">
-                    <a href="/web-app-development/php-development.html" class="explore-more-button dark-green clanpro color-white" target="_blank">
+                    <a href="/web-app-development/php-development.php" class="explore-more-button dark-green clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>

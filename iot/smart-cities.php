@@ -111,8 +111,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="../iot.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="home-automation.html"><i class="fa fa-angle-right"></i></a>
+                <a href="../iot.php" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="home-automation.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -144,11 +144,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     <div class="col-md-4 service-sample-link relative bg-green pd-30-0 pdl-10" style="min-height:586px">
         <h3 class="section-heading color-white clanpro-bold align-left center pdb-30 fz-45 pd-15-80">Smart City Solutions</h3>
         <ul class="list service-sample-list clanpro fz-18 color-white">
-            <li class="active pd-10-0" data-link="iot/smart-cities.html">Energy Solutions</li>
-            <li class="pd-10-0" data-link="iot/home-automation.html">Utility Solutions</li>
-            <li class="pd-10-0" data-link="iot/energy-monitoring.html">Public Safety Solutions</li>
-            <li class="pd-10-0" data-link="iot/entertainment-automation.html">Vehicle Related Solutions</li>
-             <li class="pd-10-0" data-link="iot/infrastructure-automation.html">Transit Solutions</li>
+            <li class="active pd-10-0" data-link="iot/smart-cities.php">Energy Solutions</li>
+            <li class="pd-10-0" data-link="iot/home-automation.php">Utility Solutions</li>
+            <li class="pd-10-0" data-link="iot/energy-monitoring.php">Public Safety Solutions</li>
+            <li class="pd-10-0" data-link="iot/entertainment-automation.php">Vehicle Related Solutions</li>
+             <li class="pd-10-0" data-link="iot/infrastructure-automation.php">Transit Solutions</li>
            
         </ul>
         
@@ -162,7 +162,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         <a href="#" class="service-title pdb-30 fz-48 clanpro-bold">Energy Solutions</a>
         <p class="service-description clanpro pd-15-0 fz-16 lh-24">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
         <div class="explore-more-button-container">
-                <a href="../company-page/inquire-now.html" class="explore-more-button clanpro color-white" target="_blank">
+                <a href="../company-page/inquire-now.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -568,7 +568,7 @@ Focus Areas</h1>
     </div>
     <div class="col-md-12" style="padding:38px 50px 18px;">
         <div class="related-service-block col">
-            <a href="../business-consulting.html">
+            <a href="../business-consulting.php">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -589,7 +589,7 @@ Focus Areas</h1>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../managed-services.html">
+                                <a href="../managed-services.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -610,7 +610,7 @@ Focus Areas</h1>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../enterprise-mobility.html">
+                                <a href="../enterprise-mobility.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -631,7 +631,7 @@ Focus Areas</h1>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../quality-assurance.html">
+                                <a href="../quality-assurance.php">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -652,7 +652,7 @@ Focus Areas</h1>
             
         </div>
                 <div class="related-service-block col">
-                        <a href="../product-engineering.html">
+                        <a href="../product-engineering.php">
                             <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->

@@ -193,7 +193,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
           <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="../hire-developer/hire-mobile-app-developer.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="../hire-developer/hire-mobile-app-developer.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -223,7 +223,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 <!--opening of hire-developer container -->
 <div class="row hire-developer page-section scrolling-section" id="hire services">
     <div class="col-md-4 hire-mobile-app-developer hiring-box relative mgb-30">
-         <a href="hire-developer/hire-mobile-app-developer.html" target="_blank">
+         <a href="hire-developer/hire-mobile-app-developer.php" target="_blank">
         <img src="assets/img/banner/web-development.jpg" alt="Hire developer">
         <div class="hire-developer-description">
            
@@ -242,7 +242,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         
     </div>
     <div class="col-md-4 hire-web-app-developer hiring-box relative mgb-30">
-        <a href="hire-developer/hire-web-developer.html" target="_blank">
+        <a href="hire-developer/hire-web-developer.php" target="_blank">
                 <img src="assets/img/banner/web-development.jpg" alt="Hire developer">
                         <div class="hire-developer-description">
                                          <div class="hire-developer-overlay">
@@ -259,7 +259,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         
     </div>
     <div class="col-md-4 hire-microsoft-developer hiring-box relative mgb-30">
-        <a href="hire-developer/hire-microsoft-developer.html" target="_blank">
+        <a href="hire-developer/hire-microsoft-developer.php" target="_blank">
                 <img src="assets/img/banner/web-development.jpg" alt="Hire developer">
                         <div class="hire-developer-description">
                                      <div class="hire-developer-overlay">
@@ -276,7 +276,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         
     </div>
     <div class="col-md-4 col-md-offset-2 offset-md-2 hiring-box hire-front-end-developer relative">
-        <a href="hire-developer/hire-front-end-developer.html" target="_blank">
+        <a href="hire-developer/hire-front-end-developer.php" target="_blank">
                     <img src="assets/img/banner/web-development.jpg" alt="Hire developer">
                             <div class="hire-developer-description">
                                           <div class="hire-developer-overlay">
@@ -293,7 +293,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         
     </div>
     <div class="col-md-4 hire-cloud-developer hiring-box relative ">
-        <a href="hire-developer/hire-cloud-developer.html" target="_blank">
+        <a href="hire-developer/hire-cloud-developer.php" target="_blank">
                     <img src="assets/img/banner/web-development.jpg" alt="Hire developer">
                             <div class="hire-developer-description">
                                 <div class="hire-developer-overlay">
@@ -573,7 +573,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -596,7 +596,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -618,7 +618,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -640,7 +640,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -662,7 +662,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -684,7 +684,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -706,7 +706,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
         
      </div>
@@ -727,7 +727,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -749,7 +749,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -771,7 +771,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -793,7 +793,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -815,7 +815,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -838,7 +838,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -860,7 +860,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -882,7 +882,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -904,7 +904,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-    <a href="company-page/case-studies.html" class="service-button">EXPLORE
+    <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           
@@ -926,7 +926,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <li class="portfolio-icon-content">Media</li>
         
     </ul>
-     <a href="company-page/case-studies.html" class="service-button">EXPLORE
+     <a href="company-page/case-studies.php" class="service-button">EXPLORE
     <i class="fa fa-angle-right explore-icon"></i></a>
     
           

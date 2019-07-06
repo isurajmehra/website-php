@@ -96,7 +96,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
             <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="big-data/hadoop.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="big-data/hadoop.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 </div>
@@ -126,15 +126,15 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     <div class="col-md-4 service-sample-link pd-0-0 bg-green" style="min-height:586px;padding-left:10px">
         <h3 class="section-heading color-white clanpro-bold align-left center pd-15-80 pdb-30 fz-45" >Our  Services</h3>
         <ul class="list service-sample-list clanpro color-white fz-18">
-            <li class="active pd-10-0" data-link="big-data/hadoop.html">Apache Hadoop</li>
-            <li class="pd-10-0" data-link="big-data/hive.html">Apache Hive</li>
-            <li class="pd-10-0" data-link="big-data/mahout.html">Apache Mahout</li>
-            <li class="pd-10-0" data-link="big-data/pig.html">Apache Pig</li>
-             <li class="pd-10-0" data-link="big-data/thrift.html">Apache Thrift</li>
-            <li class="pd-10-0" data-link="big-data/zookeeper.html">Apache Zookeeper</li>
-            <li class="pd-10-0" data-link="big-data/apache-kafka.html">Apache Kafka</li>
-            <li class="pd-10-0" data-link="big-data/nosql-database.html">NoSql Database</li>
-             <li class="pd-10-0" data-link="big-data/apache-spark.html">Apache Spark</li>
+            <li class="active pd-10-0" data-link="big-data/hadoop.php">Apache Hadoop</li>
+            <li class="pd-10-0" data-link="big-data/hive.php">Apache Hive</li>
+            <li class="pd-10-0" data-link="big-data/mahout.php">Apache Mahout</li>
+            <li class="pd-10-0" data-link="big-data/pig.php">Apache Pig</li>
+             <li class="pd-10-0" data-link="big-data/thrift.php">Apache Thrift</li>
+            <li class="pd-10-0" data-link="big-data/zookeeper.php">Apache Zookeeper</li>
+            <li class="pd-10-0" data-link="big-data/apache-kafka.php">Apache Kafka</li>
+            <li class="pd-10-0" data-link="big-data/nosql-database.php">NoSql Database</li>
+             <li class="pd-10-0" data-link="big-data/apache-spark.php">Apache Spark</li>
         </ul>
         
     </div>
@@ -148,10 +148,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-4 service-sample-description pd-0-0 bg-gray" >
         <div class="col-md-12 relative" >
-        <a href="big-data/hadoop.html" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Apache Hadoop</a>
+        <a href="big-data/hadoop.php" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Apache Hadoop</a>
         <p class="service-description clanpro pd-15-0 fz-16 lh-24">PHP development company offering professional web application development services in all PHP frameworks.</p>
         <div class="explore-more-button-container">
-                    <a href="big-data/hadoop.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="big-data/hadoop.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>

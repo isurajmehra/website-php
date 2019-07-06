@@ -83,8 +83,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="cross-platform-app-development.html" class="hero-banner-box-arrow-button left active "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="swift-app-development.html"><i class="fa fa-angle-right"></i></a>
+                <a href="cross-platform-app-development.php" class="hero-banner-box-arrow-button left active "><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="swift-app-development.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -465,7 +465,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-12 related-service-block-container pd-30-30">
         <div class="related-service-block col">
-            <a href="../business-consulting.html">
+            <a href="../business-consulting.php">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -486,7 +486,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../managed-services.html">
+                                <a href="../managed-services.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -507,7 +507,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../enterprise-mobility.html">
+                                <a href="../enterprise-mobility.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -528,7 +528,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../quality-assurance.html">
+                                <a href="../quality-assurance.php">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -549,7 +549,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                        <a href="../product-engineering.html">
+                        <a href="../product-engineering.php">
                             <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->

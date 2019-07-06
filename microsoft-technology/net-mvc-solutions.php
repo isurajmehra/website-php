@@ -114,19 +114,19 @@
                     <h3 class="menu-title">EXPERTISE SERVICES</h3>
                     <div class="col-md-12 services-block">
                        <ul class="list dropdown-list">
-                      <li><a href="../web-development.html">Web App Development</a></li>
-                      <li><a href="../mobile-app-development.html">Mobile App Development</a></li>
-                      <li><a href="../dedicated-development-team.html">Dedicated Development Team</a></li>
-                      <li><a href="../front-end-technology.html">Frontend Development</a></li>
-                      <li><a href="../microsoft-technology.html">Microsoft Technologies</a></li>
-                      <li><a href="../iot.html">Internet of Things(IoT)</a></li>
-                      <li><a href="../vr.html">AR/VR</a></li>
-                      <li><a href="../cloud.html">Cloud & DevOps</a></li>
-                      <li><a href="../chatbot.html">Chatbot Development</a></li>
-                      <li><a href="../wearable.html">Wearables</a></li>
-                      <li><a href="../ai.html">Artificial Intelligence</a></li>
-                      <li><a href="../big-data.html">Big Data</a></li>
-                      <li><a href="../blockchain.html">Blockchain</a></li>
+                      <li><a href="../web-development.php">Web App Development</a></li>
+                      <li><a href="../mobile-app-development.php">Mobile App Development</a></li>
+                      <li><a href="../dedicated-development-team.php">Dedicated Development Team</a></li>
+                      <li><a href="../front-end-technology.php">Frontend Development</a></li>
+                      <li><a href="../microsoft-technology.php">Microsoft Technologies</a></li>
+                      <li><a href="../iot.php">Internet of Things(IoT)</a></li>
+                      <li><a href="../vr.php">AR/VR</a></li>
+                      <li><a href="../cloud.php">Cloud & DevOps</a></li>
+                      <li><a href="../chatbot.php">Chatbot Development</a></li>
+                      <li><a href="../wearable.php">Wearables</a></li>
+                      <li><a href="../ai.php">Artificial Intelligence</a></li>
+                      <li><a href="../big-data.php">Big Data</a></li>
+                      <li><a href="../blockchain.php">Blockchain</a></li>
                       </ul>
                       </div>
                   </div>
@@ -134,19 +134,19 @@
                     <h3 class="menu-title">Enterprise Services</h3>
                     <div class="col-md-12 services-block">
                       <ul class="list dropdown-list">
-                      <li><a href="../business-consulting.html">Business/Technology Consulting</a></li>
+                      <li><a href="../business-consulting.php">Business/Technology Consulting</a></li>
                      
-                      <li><a href="../product-prototype.html">Product Prototyping</a></li>
-                      <li><a href="../managed-services.html">Managed Services</a></li>
-                             <li><a href="../enterprise-mobility.html">Enterprise Mobility</a></li>
-                      <li><a href="../product-engineering.html">Product Engineering</a></li>
-                      <li><a href="../quality-assurance.html">Quality Assurance & Testing</a></li>
-                       <li><a href="../digital-transformation.html">Digital Transformation</a></li>
-                      <li><a href="../product-maintainance.html">Product Maintenance & Support</a></li>
-                      <li><a href="../system-integration.html">Enterprise System Integration</a></li>
-                      <li><a href="../cloud-integration.html">Cloud Integration</a></li>
-                      <li><a href="../enterprise-content-management.html">Enterprise Content Management</a></li>
-                      <li><a href="../dashboard.html">IT Metrics & Dashboard</a></li>
+                      <li><a href="../product-prototype.php">Product Prototyping</a></li>
+                      <li><a href="../managed-services.php">Managed Services</a></li>
+                             <li><a href="../enterprise-mobility.php">Enterprise Mobility</a></li>
+                      <li><a href="../product-engineering.php">Product Engineering</a></li>
+                      <li><a href="../quality-assurance.php">Quality Assurance & Testing</a></li>
+                       <li><a href="../digital-transformation.php">Digital Transformation</a></li>
+                      <li><a href="../product-maintainance.php">Product Maintenance & Support</a></li>
+                      <li><a href="../system-integration.php">Enterprise System Integration</a></li>
+                      <li><a href="../cloud-integration.php">Cloud Integration</a></li>
+                      <li><a href="../enterprise-content-management.php">Enterprise Content Management</a></li>
+                      <li><a href="../dashboard.php">IT Metrics & Dashboard</a></li>
                     </ul>
                   </div>
 
@@ -157,9 +157,9 @@
 
 
                     <ul class="list dropdown-list">
-                      <li><a href="../development-methodlogy.html">Development Methodology</a></li>
-                      <li><a href="../delivery-model.html">Delivery Models</a></li>
-                      <li><a href="../pricing-model.html">Pricing Models</a></li>
+                      <li><a href="../development-methodlogy.php">Development Methodology</a></li>
+                      <li><a href="../delivery-model.php">Delivery Models</a></li>
+                      <li><a href="../pricing-model.php">Pricing Models</a></li>
                     </ul>
                   </div>
                   </div>
@@ -178,28 +178,28 @@
                     
                   <div class="col-md-4 pd-0-45">
                        <ul class="list dropdown-list">
-                      <li><a href="../industries-page/healthcare.html">Healthcare</a></li>
-                      <li><a href="../industries-page/education.html">Education /eLearning</a></li>
-                      <li><a href="../industries-page/social-networking.html">Social Networking</a></li>
-                      <li><a href="../industries-page/retail.html">Retail</a></li>
+                      <li><a href="../industries-page/healthcare.php">Healthcare</a></li>
+                      <li><a href="../industries-page/education.php">Education /eLearning</a></li>
+                      <li><a href="../industries-page/social-networking.php">Social Networking</a></li>
+                      <li><a href="../industries-page/retail.php">Retail</a></li>
                     </ul>
                   </div>
                   <div class="col-md-4 pd-0-45">
                       <ul class="list dropdown-list">
-                      <li><a href="../industries-page/manufacturing.html">Manufacturing</a></li>
-                      <li><a href="../industries-page/eCommerce.html">eCommerce</a></li>
-                      <li><a href="../industries-page/energy.html">Energy</a></li>
-                      <li><a href="../industries-page/travel-and-hospitality.html">Travel & Hospitality</a></li>
+                      <li><a href="../industries-page/manufacturing.php">Manufacturing</a></li>
+                      <li><a href="../industries-page/eCommerce.php">eCommerce</a></li>
+                      <li><a href="../industries-page/energy.php">Energy</a></li>
+                      <li><a href="../industries-page/travel-and-hospitality.php">Travel & Hospitality</a></li>
                     </ul>
                   </div>
                   <div class="col-md-4 pd-0-45">
 
 
                     <ul class="list dropdown-list">
-                      <li><a href="../industries-page/real-estate.html">Real Estate</a></li>
-                      <li><a href="../industries-page/media-and-entertainment.html">Media & Entertainment</a></li>
-                      <li><a href="../industries-page/logistics-and-distribution.html">Logistics & Distribution</a></li>
-                       <li><a href="../industries-page/construction.html">Construction</a></li>
+                      <li><a href="../industries-page/real-estate.php">Real Estate</a></li>
+                      <li><a href="../industries-page/media-and-entertainment.php">Media & Entertainment</a></li>
+                      <li><a href="../industries-page/logistics-and-distribution.php">Logistics & Distribution</a></li>
+                       <li><a href="../industries-page/construction.php">Construction</a></li>
                     </ul>
                   </div>
                   </div>
@@ -210,7 +210,7 @@
                          <div class="green-filter"></div>
                                       <img src="../assets/img/particle-background-partnership-320.jpg" class="dropdown-background" alt="Background-image" />
                         <div class="col-md-4">
-                            <a href="../partnership-page/referal-partner.html" class="partnership-link">
+                            <a href="../partnership-page/referal-partner.php" class="partnership-link">
                             <h3 class="menu-title">Referral Partner</h3>
                             <img src="../assets/img/partners/referal-partner.png" alt="Referral Partner" />
                             <p class="section-description">Provide opportunities for new/more benefits with referral partnership.</p>
@@ -218,7 +218,7 @@
                             
                         </div>
                         <div class="col-md-4">
-                            <a href="../partnership-page/affiliate-partner.html" class="partnership-link">
+                            <a href="../partnership-page/affiliate-partner.php" class="partnership-link">
                                 <h3 class="menu-title">Affiliate Partner</h3>
                             <img src="../assets/img/partners/affiliate-partner.png" alt="Referral Partner" />
                             <p class="section-description">Partnership to build successful business with Affiliate partnership</p>
@@ -226,7 +226,7 @@
                             
                         </div>
                         <div class="col-md-4">
-                            <a href="../partnership-page/strategic-partnership.html" class="partnership-link">
+                            <a href="../partnership-page/strategic-partnership.php" class="partnership-link">
                                 <h3 class="menu-title">Strategic Partnership</h3>
                             <img src="../assets/img/partners/strategic-partner.png" alt="Referral Partner" />
                             <p class="section-description">Smart & logistic business work with Strategic Partnership</p>
@@ -248,14 +248,14 @@
 
 
                     <ul class="list dropdown-list">
-                      <li><a href="../company-page/company-overview.html">Company Overview</a></li>
-                      <li><a href="../company-page/path-finder.html">Path Finders</a></li>
-                      <li><a href="../company-page/our-values.html">Our Values</a></li>
-                      <li><a href="../company-page/center-of-excellence.html">Center Of Excellence</a></li>
-                      <li><a href="../company-page/our-infrastructure.html">Our Infrastructure</a></li>
-                      <li><a href="../company-page/contact-us.html">Contact Us</a></li>
-                      <li><a href="../company-page/inquire-now.html">Inquire Now!</a></li>
-                      <li><a href="../company-page/client-testimonial.html">Client Testimonial</a></li>
+                      <li><a href="../company-page/company-overview.php">Company Overview</a></li>
+                      <li><a href="../company-page/path-finder.php">Path Finders</a></li>
+                      <li><a href="../company-page/our-values.php">Our Values</a></li>
+                      <li><a href="../company-page/center-of-excellence.php">Center Of Excellence</a></li>
+                      <li><a href="../company-page/our-infrastructure.php">Our Infrastructure</a></li>
+                      <li><a href="../company-page/contact-us.php">Contact Us</a></li>
+                      <li><a href="../company-page/inquire-now.php">Inquire Now!</a></li>
+                      <li><a href="../company-page/client-testimonial.php">Client Testimonial</a></li>
                     </ul>
                   </div>
                   </div>
@@ -266,13 +266,13 @@
 
                     <ul class="list dropdown-list">
                       
-                      <li><a href="../company-page/certification.html">Certification</a></li>
+                      <li><a href="../company-page/certification.php">Certification</a></li>
                       
                       
                       <li><a href="../blog">Blog</a></li>
                       <li><a href="../portfolio">Portfolio</a></li>
-                      <li><a href="../company-page/case-studies.html">Case Studies</a></li>
-                      <li><a href="../company-page/faq.html">FAQs</a></li>
+                      <li><a href="../company-page/case-studies.php">Case Studies</a></li>
+                      <li><a href="../company-page/faq.php">FAQs</a></li>
                     </ul>
                   </div>
                   </div>
@@ -282,9 +282,9 @@
 
 
                     <ul class="list dropdown-list">
-                      <li><a href="../company-page/career.html">Career Overview</a></li>
-                      <li><a href="../company-page/current-opening.html">Current Opening</a></li>
-                      <li><a href="../company-page/corporate-social.html">Corporate Social Responsibility</a></li>
+                      <li><a href="../company-page/career.php">Career Overview</a></li>
+                      <li><a href="../company-page/current-opening.php">Current Opening</a></li>
+                      <li><a href="../company-page/corporate-social.php">Corporate Social Responsibility</a></li>
                      
                     </ul>
                   </div>
@@ -349,20 +349,20 @@
              <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
                <li class="expertise-service-menu-back-button back-button"><a href="#">Expertise Services</a></li>
                 <ul class="list mobile-menu-sublist">
-           <li><a href="../web-development.html">Web Apps Development</a></li>
-                      <li><a href="../mobile-app-development.html">Mobile Apps Development</a></li>
-                      <li><a href="../dedicated-development-team.html">Dedicated Development Team
+           <li><a href="../web-development.php">Web Apps Development</a></li>
+                      <li><a href="../mobile-app-development.php">Mobile Apps Development</a></li>
+                      <li><a href="../dedicated-development-team.php">Dedicated Development Team
 </a></li>
-                      <li><a href="../front-end-technology.html">Front End Technologies</a></li>
-                      <li><a href="../microsoft-technology.html">Microsoft Technologies</a></li>
-                      <li><a href="../iot.html">Internet of Things(IoT)</a></li>
-                      <li><a href="../vr.html">AR/VR</a></li>
-                      <li><a href="../cloud.html">Cloud & Devops</a></li>
-                      <li><a href="../chatbot.html">Chatbot Development</a></li>
-                      <li><a href="../wearable.html">Wearable</a></li>
-                      <li><a href="../ai.html">Artificial Intelligence</a></li>
-                      <li><a href="../big-data.html">Big Data</a></li>
-                      <li><a href="../blockchain.html">Blockchain</a></li>
+                      <li><a href="../front-end-technology.php">Front End Technologies</a></li>
+                      <li><a href="../microsoft-technology.php">Microsoft Technologies</a></li>
+                      <li><a href="../iot.php">Internet of Things(IoT)</a></li>
+                      <li><a href="../vr.php">AR/VR</a></li>
+                      <li><a href="../cloud.php">Cloud & Devops</a></li>
+                      <li><a href="../chatbot.php">Chatbot Development</a></li>
+                      <li><a href="../wearable.php">Wearable</a></li>
+                      <li><a href="../ai.php">Artificial Intelligence</a></li>
+                      <li><a href="../big-data.php">Big Data</a></li>
+                      <li><a href="../blockchain.php">Blockchain</a></li>
                       </ul>
                        <li class="enterprise-service-menu-button has-child"><a href="#">Enterprise Services</a></li>
                        
@@ -382,18 +382,18 @@
             <li class="expertise-service-menu-button has-child"><a href="#">Expertise Services</a></li>
             <li class="enterprise-service-menu-back-button back-button"><a href="#">Enterprise Services</a></li>
              <ul class="list mobile-menu-sublist">
-                      <li><a href="../business-consulting.html">Business Consulting</a></li>
+                      <li><a href="../business-consulting.php">Business Consulting</a></li>
                      
-                      <li><a href="../product-prototype.html">Product Prototyping</a></li>
-                      <li><a href="../managed-services.html">Managed Services</a></li>
-                             <li><a href="../enterprise-mobility.html">Enterprise Mobility</a></li>
-                      <li><a href="../product-engineering.html">Product Engineering</a></li>
-                      <li><a href="../quality-assurance.html">Quality Assurance & Testing</a></li>
-                       <li><a href="../digital-transformation.html">Digital Transformation</a></li>
-                      <li><a href="../product-maintainance.html">Maintainance & Support</a></li>
-                      <li><a href="../system-integration.html">Enterprise System Integration</a></li>
-                      <li><a href="../cloud-integration.html">Cloud Integration</a></li>
-                      <li><a href="../dashboard.html">It Metrix And Dashboard</a></li>
+                      <li><a href="../product-prototype.php">Product Prototyping</a></li>
+                      <li><a href="../managed-services.php">Managed Services</a></li>
+                             <li><a href="../enterprise-mobility.php">Enterprise Mobility</a></li>
+                      <li><a href="../product-engineering.php">Product Engineering</a></li>
+                      <li><a href="../quality-assurance.php">Quality Assurance & Testing</a></li>
+                       <li><a href="../digital-transformation.php">Digital Transformation</a></li>
+                      <li><a href="../product-maintainance.php">Maintainance & Support</a></li>
+                      <li><a href="../system-integration.php">Enterprise System Integration</a></li>
+                      <li><a href="../cloud-integration.php">Cloud Integration</a></li>
+                      <li><a href="../dashboard.php">It Metrix And Dashboard</a></li>
                       </ul>
                       
                         <li class="process-menu-button has-child"><a href="#">Process</a></li>
@@ -412,9 +412,9 @@
             <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
             <li class="partnership-menu-back-button back-button"><a href="#">Partnership</a></li>
              <ul class="list mobile-menu-sublist">
-                    <li> <a href="../partnership-page/referal-partner.html" class="partnership-link">Referral Partner</a></li>
-                       <li> <a href="../partnership-page/affiliate-partner.html" class="partnership-link">Affiliate Partner</a></li>
-                          <li> <a href="../partnership-page/strategic-partner.html" class="partnership-link">Strategic Partner</a></li>
+                    <li> <a href="../partnership-page/referal-partner.php" class="partnership-link">Referral Partner</a></li>
+                       <li> <a href="../partnership-page/affiliate-partner.php" class="partnership-link">Affiliate Partner</a></li>
+                          <li> <a href="../partnership-page/strategic-partner.php" class="partnership-link">Strategic Partner</a></li>
                           </ul>
                            <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
                            
@@ -453,13 +453,13 @@
              <li class="about-us-menu-button has-child"><a href="#">About Us</a></li>
              <li class="insight-menu-back-button back-button"><a href="#">Insights</a></li>
                <ul class="list mobile-menu-sublist">
-                         <li><a href="../company-page/certification.html">Certification</a></li>
+                         <li><a href="../company-page/certification.php">Certification</a></li>
                       
                       
-                      <li><a href="../company-page/blog.html">Blog</a></li>
+                      <li><a href="../company-page/blog.php">Blog</a></li>
                       <li><a href="../company-page/portfolio">Portfolio</a></li>
-                      <li><a href="../company-page/case-studies.html">Case Studies</a></li>
-                      <li><a href="../company-page/faq.html">FAQs</a></li>
+                      <li><a href="../company-page/case-studies.php">Case Studies</a></li>
+                      <li><a href="../company-page/faq.php">FAQs</a></li>
                        
                        </ul>
                 <li class="our-culture-menu-button has-child"><a href="#">Our Culture</a></li>
@@ -480,9 +480,9 @@
             <li class="insight-menu-button has-child"><a href="#">Insights</a></li>
              <li class="our-culture-menu-back-button back-button"><a href="#">Our Culture</a></li>
               <ul class="list mobile-menu-sublist">
-                        <li><a href="../company-page/career.html">Career Overview</a></li>
-                      <li><a href="../company-page/current-opening.html">Current Opening</a></li>
-                      <li><a href="../company-page/corporate-social.html">Corporate Social Responsibility</a></li>
+                        <li><a href="../company-page/career.php">Career Overview</a></li>
+                      <li><a href="../company-page/current-opening.php">Current Opening</a></li>
+                      <li><a href="../company-page/corporate-social.php">Corporate Social Responsibility</a></li>
                        
                        </ul>
 
@@ -502,14 +502,14 @@
              <li class="company-menu-button has-child"><a href="#">Company</a></li>
              <li class="about-us-menu-back-button back-button"><a href="#">About Us</a></li>
                           <ul class="list mobile-menu-sublist">
-                         <li><a href="../company-page/company-overview.html">Company Overview</a></li>
-                      <li><a href="../company-page/path-finder.html">Path Finder</a></li>
-                      <li><a href="../company-page/our-values.html">Our Values</a></li>
-                      <li><a href="../company-page/center-of-excellence.html">Center Of Excellence</a></li>
-                      <li><a href="../company-page/our-infrastructure.html">Our Infrastructure</a></li>
-                      <li><a href="../company-page/contact-us.html">Contact Us</a></li>
-                      <li><a href="../company-page/inquire-now.html">Inquire Now</a></li>
-                      <li><a href="../company-page/client-testimonial.html">Client Testimonial</a></li>
+                         <li><a href="../company-page/company-overview.php">Company Overview</a></li>
+                      <li><a href="../company-page/path-finder.php">Path Finder</a></li>
+                      <li><a href="../company-page/our-values.php">Our Values</a></li>
+                      <li><a href="../company-page/center-of-excellence.php">Center Of Excellence</a></li>
+                      <li><a href="../company-page/our-infrastructure.php">Our Infrastructure</a></li>
+                      <li><a href="../company-page/contact-us.php">Contact Us</a></li>
+                      <li><a href="../company-page/inquire-now.php">Inquire Now</a></li>
+                      <li><a href="../company-page/client-testimonial.php">Client Testimonial</a></li>
                        
                        </ul>
                     <li class="insight-menu-button has-child"><a href="#">Insights</a></li>
@@ -530,9 +530,9 @@
              
                <li class="process-menu-back-button back-button"><a href="#">Process</a></li>
                  <ul class="list mobile-menu-sublist">
-                  <li><a href="../development-methodlogy.html">Development Methodlogy</a></li>
-                      <li><a href="../delivery-model.html">Delivery Models</a></li>
-                      <li><a href="../pricing-model.html">Pricing Models</a></li>
+                  <li><a href="../development-methodlogy.php">Development Methodlogy</a></li>
+                      <li><a href="../delivery-model.php">Delivery Models</a></li>
+                      <li><a href="../pricing-model.php">Pricing Models</a></li>
                       </ul>
                         <li class="industry-menu-button has-child"><a href="#">Industries</a></li>
             <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
@@ -548,19 +548,19 @@
              <li class="offering-menu-button has-child"><a href="#">Offering</a></li>
                 <li class="industry-menu-back-button back-button"><a href="#">Industries</a></li>
                   <ul class="list mobile-menu-sublist">
-             <li><a href="../industries-page/healthcare.html">Healthcare</a></li>
-                      <li><a href="../industries-page/education.html">Education</a></li>
-                      <li><a href="../industries-page/social-networking.html">Social Networking</a></li>
-                      <li><a href="../industries-page/retail.html">Retail</a></li>
+             <li><a href="../industries-page/healthcare.php">Healthcare</a></li>
+                      <li><a href="../industries-page/education.php">Education</a></li>
+                      <li><a href="../industries-page/social-networking.php">Social Networking</a></li>
+                      <li><a href="../industries-page/retail.php">Retail</a></li>
             
-            <li><a href="../industries-page/manufacturing.html">Manufacturing</a></li>
-                      <li><a href="../industries-page/eCommerce.html">eCommerce</a></li>
-                      <li><a href="../industries-page/energy.html">Energy</a></li>
-                      <li><a href="../industries-page/travel-and-hospitality.html">Travel & Hospitality</a></li>
-             <li><a href="../industries-page/real-estate.html">Real Estate</a></li>
-                      <li><a href="../industries-page/media-and-entertainment.html">Media & Entertainment</a></li>
-                      <li><a href="../industries-page/logistics-and-distribution.html">Logistics & Distribution</a></li>
-                       <li><a href="../industries-page/construction.html">Construction</a></li>
+            <li><a href="../industries-page/manufacturing.php">Manufacturing</a></li>
+                      <li><a href="../industries-page/eCommerce.php">eCommerce</a></li>
+                      <li><a href="../industries-page/energy.php">Energy</a></li>
+                      <li><a href="../industries-page/travel-and-hospitality.php">Travel & Hospitality</a></li>
+             <li><a href="../industries-page/real-estate.php">Real Estate</a></li>
+                      <li><a href="../industries-page/media-and-entertainment.php">Media & Entertainment</a></li>
+                      <li><a href="../industries-page/logistics-and-distribution.php">Logistics & Distribution</a></li>
+                       <li><a href="../industries-page/construction.php">Construction</a></li>
                        </ul>
             <li class="partnership-menu-button has-child"><a href="#">Partnership</a></li>
             <li class="portfolio-menu-button"><a href="../portfolio">Portfolio</a></li>
@@ -592,8 +592,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </ul>
             </div>
             <div class="hero-banner-box-button-container">
-                <a href="asp-development.html" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="csharp-development.html"><i class="fa fa-angle-right"></i></a>
+                <a href="asp-development.php" class="hero-banner-box-arrow-button left active"><i class="fa fa-angle-left"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="csharp-development.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -966,7 +966,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
     <div class="col-md-12 related-service-block-container pd-30-30">
         <div class="related-service-block col">
-            <a href="../business-consulting.html">
+            <a href="../business-consulting.php">
                 <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -987,7 +987,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../managed-services.html">
+                                <a href="../managed-services.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -1008,7 +1008,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../enterprise-mobility.html">
+                                <a href="../enterprise-mobility.php">
                                     <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -1029,7 +1029,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                                <a href="../quality-assurance.html">
+                                <a href="../quality-assurance.php">
                                     <div class="col-md-12">
             <object style="width:20%;">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
@@ -1050,7 +1050,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             
         </div>
                 <div class="related-service-block col">
-                        <a href="../product-engineering.html">
+                        <a href="../product-engineering.php">
                             <div class="col-md-12">
             <object>
                 <!--?xml version="1.0" encoding="UTF-8"?-->

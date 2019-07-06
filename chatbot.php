@@ -120,7 +120,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
             <div class="hero-banner-box-button-container">
                 <a href="#" class="hero-banner-box-arrow-button left "><i class="fa fa-angle-left"></i></a>
-                <a class="hero-banner-box-arrow-button right active" href="chatbot-development/bots-framework.html"><i class="fa fa-angle-right"></i></a>
+                <a class="hero-banner-box-arrow-button right active" href="chatbot-development/bots-framework.php"><i class="fa fa-angle-right"></i></a>
         </div>
     </div>
 
@@ -152,8 +152,8 @@ Acropolis helps you to power your Chatbot with NLP & AI. It uses the most powerf
     <div class="col-md-4 col-sm-12 col-xs-12  service-sample-link pd-30-0 bg-green">
         <h3 class="section-heading color-white clanpro-bold align-left center pdb-30 fz-45 pd-15-80" >Our  Services</h3>
         <ul class="list service-sample-list clanpro fz-18 color-white">
-            <li class="active pd-10-0" data-link="chatbot-development/bots-framework.html">Bots Framework</li>
-            <li class="pd-10-0" data-link="chatbot-development/bots-solutions.html">Bots Solutions</li>
+            <li class="active pd-10-0" data-link="chatbot-development/bots-framework.php">Bots Framework</li>
+            <li class="pd-10-0" data-link="chatbot-development/bots-solutions.php">Bots Solutions</li>
            
         </ul>
         
@@ -164,10 +164,10 @@ Acropolis helps you to power your Chatbot with NLP & AI. It uses the most powerf
     </div>
     <div class="col-md-4 col-sm-12 col-xs-12 service-sample-description pd-0-0 bg-gray relative">
         <div class="col-md-12 relative" style="min-height:586px;padding-top:45px;">
-        <a href="chatbot-development/bots-framework.html" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Bots Framework</a>
+        <a href="chatbot-development/bots-framework.php" class="service-title pdb-30 fz-48 clanpro-bold" target="_blank">Bots Framework</a>
         <p class="service-description clanpro pd-15-0 fz-16 lh-24">Bot Framework is an environment where bots are built and where their behaviour is deciphered. Bot development frameworks are softwares, that has done away with a whole lot of manual work that goes into building the entire chat process. Although, many bot frameworks boast �ｽgwrite once deploy anywhere�ｽh, you are more likely to create a separate Chatbot for each of your target messaging platforms. The Bot development framework consists of the Bot Builder SDK, Bot Connector, Developer Portal, and Bot Directory. There�ｽfs also an emulator that you can use to test the developed Bot. Additionally, Bot Framework solutions are not good for beginners to learn chatbot development.</p>
         <div class="explore-more-button-container">
-                    <a href="chatbot-development/bots-framework.html" class="explore-more-button clanpro color-white" target="_blank">
+                    <a href="chatbot-development/bots-framework.php" class="explore-more-button clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>
@@ -393,7 +393,7 @@ Acropolis helps you to power your Chatbot with NLP & AI. It uses the most powerf
         <p class="section-description area-of-focus-description color-white pd-10-0 fz-20 clanpro pdt-30 lh-30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
         
         <div class="explore-more-button-container">
-                    <a href="../company-page/inquire-now.html" class="explore-more-button dark-green clanpro color-white" target="_blank">
+                    <a href="../company-page/inquire-now.php" class="explore-more-button dark-green clanpro color-white" target="_blank">
             <div class="button-text">
              <div class="lets-explore align-right">Let's Explore</div>
         <div class="more clanpro-bold uppercase align-right">More</div>

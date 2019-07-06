@@ -550,7 +550,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         </div>
         <div class="col-md-7 col-md-offset-5  offset-md-6 lets-talk align-left pd-120-0 position-relative lets-talk-position margin-top-ng-20" >
             <h5 class="section-description fz-32 pd-0-0">Let's Talk to expand possiblities</h5>
-            <a href="company-page/inquire-now.html" class="get-in-touch">Get in touch</a>
+            <a href="company-page/inquire-now.php" class="get-in-touch">Get in touch</a>
 
         </div>
             <div class="col-md-12 position-relative contact-detail">
